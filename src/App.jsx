@@ -129,6 +129,16 @@ const readBookmarks = () => {
 
 const localLc = (localized, lang) => (localized ? localized[lang] : '')
 
+const renderFx = (txt) => {
+  const parts = txt.split('∞')
+  return parts.map((seg, i) => (
+    <span key={i}>
+      {seg}
+      {i < parts.length - 1 && <span className="fx-infinity">∞</span>}
+    </span>
+  ))
+}
+
 function App() {
   const [theme, setTheme] = useState(() => {
     try {
@@ -602,7 +612,7 @@ if (e.key === 'Escape') {
                     <h1 className="cover-title">AETERNUM<br />FLOREAMUS</h1>
                     <div className="cover-rule" aria-hidden="true"><i /><span>✦</span><i /></div>
                     <div className="cover-number">101</div>
-                    <p className="cover-subtitle">{lang === 'it' ? bookData.subtitleIt : bookData.subtitle}</p>
+                    <p className="cover-subtitle">{renderFx(lang === 'it' ? bookData.subtitleIt : bookData.subtitle)}</p>
                   </div>
                   <div className="cover-bottom">
                     <div className="cover-publisher">{bookData.publisher}</div>

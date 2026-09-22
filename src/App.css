@@ -491,6 +491,12 @@ button {
   max-width: 92%;
   margin-inline: auto;
 }
+.cover-subtitle .fx-infinity {
+  display: inline-block;
+  font-size: 1.35em;
+  line-height: 0;
+  vertical-align: -0.1em;
+}
 .cover-bottom {
   display: flex;
   flex-direction: column;
