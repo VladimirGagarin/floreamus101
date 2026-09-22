@@ -1,0 +1,6506 @@
+{
+  "title": "AETERNUM FLOREAMUS 101",
+  "subtitle": "The Art of Blooming Forever",
+  "publisher": "Roses Of Rome Pictures",
+  "production": "An Aeternum Floreamus Production",
+  "pages": [
+    {
+      "number": "001",
+      "theme": {
+        "en": "LOVE",
+        "it": "AMORE"
+      },
+      "poetry": [
+        { "en": "O Love, thou art the fairest flower we know,", "it": "O Amore, tu sei il fiore più bello che conosciamo," },
+        { "en": "Thy gentle light makes weary spirits glow.", "it": "La tua dolce luce fa risplendere gli spiriti stanchi." },
+        { "en": "Thou healest hearts and makest glad the day,", "it": "Tu guarisci i cuori e rendi lieto il giorno," },
+        { "en": "And where thou dwellest, sorrow fades away.", "it": "e dove tu dimori, il dolore svanisce." },
+        { "en": "So let thy love be planted where thou art,", "it": "Perciò lascia che il tuo amore sia piantato ovunque tu sia," },
+        { "en": "Give freely, kindly, with a faithful heart.", "it": "Dona liberamente, con gentilezza e con cuore fedele." },
+        { "en": "For what thou sowest, others shall receive—", "it": "Poiché ciò che semini, altri riceveranno—" },
+        { "en": "Love, and forever bloom in those who live.", "it": "Ama, e fiorisci per sempre in coloro che vivono." }
+      ],
+      "perplexing_question": {
+        "en": "If love is the gardener, and we are the flowers — do we bloom because we are watered, or does the gardener bloom because we grow?",
+        "it": "Se l'amore è il giardiniere, e noi siamo i fiori — fioriamo perché veniamo annaffiati, o è il giardiniere a fiorire perché cresciamo?"
+      },
+      "quote": {
+        "en": "Love may fail a thousand times, yet let it bloom a thousand and one — for love, at last, endures forever.",
+        "it": "L'amore può fallire mille volte, eppure lascia che sbocci mille e una volta ancora — poiché l'amore, alla fine, dura per sempre."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "002",
+      "theme": {
+        "en": "BEAUTY",
+        "it": "BELLEZZA"
+      },
+      "poetry": [
+        { "en": "O Beauty, thou the beholder of art,", "it": "O Bellezza, tu che contempli l'arte," },
+        { "en": "Thou dwellest in gold and stars above,", "it": "Tu dimori nell'oro e nelle stelle lassù," },
+        { "en": "In roses that bloom and in skies afar,", "it": "Nelle rose che sbocciano e nei cieli lontani," },
+        { "en": "And every bright wonder born from love.", "it": "E in ogni meraviglia luminosa nata dall'amore." },
+        { "en": "Come forth, the wonderful art is here,", "it": "Vieni avanti, la meravigliosa arte è qui," },
+        { "en": "Let thy hands create, let thy heart draw near.", "it": "Lascia che le tue mani creino, lascia che il tuo cuore si avvicini." },
+        { "en": "For beauty is the sunrise of blooming true—", "it": "Poiché la bellezza è l'alba del vero fiorire—" },
+        { "en": "A flower of forever, beginning in you.", "it": "Un fiore dell'eternità, che comincia in te." }
+      ],
+      "perplexing_question": {
+        "en": "If beauty were ever there, yet none beheld it, would it still exist?",
+        "it": "Se la bellezza fosse mai esistita, eppure nessuno l'avesse contemplata, esisterebbe ancora?"
+      },
+      "quote": {
+        "en": "Beauty is not that which is seen for a day, but that which, being seen once, teaches the heart how to see forever.",
+        "it": "La bellezza non è ciò che viene visto per un giorno, ma ciò che, una volta visto, insegna al cuore a vedere per sempre."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "003",
+      "theme": {
+        "en": "KINDNESS",
+        "it": "BONTÀ"
+      },
+      "poetry": [
+        {
+          "en": "Kindness costs the giver everything",
+          "it": "La bontà costa a chi dona tutto"
+        },
+        {
+          "en": "and nothing at all—",
+          "it": "e nulla affatto—"
+        },
+        {
+          "en": "a currency that multiplies",
+          "it": "una moneta che si moltiplica"
+        },
+        {
+          "en": "the more it is spent.",
+          "it": "più viene spesa."
+        },
+        {
+          "en": "It is not the grand gesture",
+          "it": "Non è il gesto grandioso"
+        },
+        {
+          "en": "that history remembers,",
+          "it": "che la storia ricorda,"
+        },
+        {
+          "en": "but the small one",
+          "it": "ma quello piccolo"
+        },
+        {
+          "en": "that someone else survives on.",
+          "it": "da cui qualcun altro sopravvive."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If a kindness is only kind when unnoticed,",
+          "it": "Se una gentilezza è gentile solo quando passa inosservata,"
+        },
+        {
+          "en": "does it lose its name the moment",
+          "it": "perde il suo nome nel momento in cui"
+        },
+        {
+          "en": "someone says thank you—",
+          "it": "qualcuno dice grazie—"
+        },
+        {
+          "en": "or is gratitude also part of the gift?",
+          "it": "o anche la gratitudine è parte del dono?"
+        }
+      ],
+      "quote": {
+        "en": "The smallest kindness outlives the memory of who gave it.",
+        "it": "La più piccola gentilezza sopravvive alla memoria di chi l'ha donata."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "004",
+      "theme": {
+        "en": "HOPE",
+        "it": "SPERANZA"
+      },
+      "poetry": [
+        {
+          "en": "Hope is not the belief that things will improve.",
+          "it": "La speranza non è la convinzione che le cose miglioreranno."
+        },
+        {
+          "en": "It is the refusal to measure the future",
+          "it": "È il rifiuto di misurare il futuro"
+        },
+        {
+          "en": "by the failures of the past.",
+          "it": "con i fallimenti del passato."
+        },
+        {
+          "en": "It walks ahead of evidence,",
+          "it": "Cammina davanti alle prove,"
+        },
+        {
+          "en": "stubborn as a candle",
+          "it": "ostinata come una candela"
+        },
+        {
+          "en": "in a house full of open windows,",
+          "it": "in una casa piena di finestre aperte,"
+        },
+        {
+          "en": "insisting, quietly,",
+          "it": "insistendo, in silenzio,"
+        },
+        {
+          "en": "that the wind will pass.",
+          "it": "che il vento passerà."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If hope needs no evidence to survive,",
+          "it": "Se la speranza non ha bisogno di prove per sopravvivere,"
+        },
+        {
+          "en": "is it wisdom—",
+          "it": "è saggezza—"
+        },
+        {
+          "en": "or simply a refusal",
+          "it": "o semplicemente un rifiuto"
+        },
+        {
+          "en": "dressed up as faith?",
+          "it": "travestito da fede?"
+        }
+      ],
+      "quote": {
+        "en": "Hope is a debt the future owes no one, yet somehow always pays.",
+        "it": "La speranza è un debito che il futuro non deve a nessuno, eppure in qualche modo paga sempre."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "005",
+      "theme": {
+        "en": "COURAGE",
+        "it": "CORAGGIO"
+      },
+      "poetry": [
+        {
+          "en": "Courage is rarely loud.",
+          "it": "Il coraggio raramente è rumoroso."
+        },
+        {
+          "en": "More often it is the quiet act",
+          "it": "Più spesso è l'atto silenzioso"
+        },
+        {
+          "en": "of staying in the room",
+          "it": "di restare nella stanza"
+        },
+        {
+          "en": "when leaving would be easier—",
+          "it": "quando andarsene sarebbe più facile—"
+        },
+        {
+          "en": "of speaking the one sentence",
+          "it": "di pronunciare quella sola frase"
+        },
+        {
+          "en": "that changes everything,",
+          "it": "che cambia tutto,"
+        },
+        {
+          "en": "of waking again",
+          "it": "di svegliarsi ancora"
+        },
+        {
+          "en": "after the night that broke you.",
+          "it": "dopo la notte che ti ha spezzato."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the coward and the brave feel the same fear,",
+          "it": "Se il codardo e il coraggioso provano la stessa paura,"
+        },
+        {
+          "en": "does courage live in the chest—",
+          "it": "il coraggio vive nel petto—"
+        },
+        {
+          "en": "or in the single step",
+          "it": "o nel singolo passo"
+        },
+        {
+          "en": "the coward never takes?",
+          "it": "che il codardo non compie mai?"
+        }
+      ],
+      "quote": {
+        "en": "Courage does not roar. It whispers, again, and moves.",
+        "it": "Il coraggio non ruggisce. Sussurra, di nuovo, e si muove."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "006",
+      "theme": {
+        "en": "WISDOM",
+        "it": "SAGGEZZA"
+      },
+      "poetry": [
+        {
+          "en": "Wisdom is not the answer",
+          "it": "La saggezza non è la risposta"
+        },
+        {
+          "en": "but the shape of the question,",
+          "it": "ma la forma della domanda,"
+        },
+        {
+          "en": "softened by years",
+          "it": "ammorbidita dagli anni"
+        },
+        {
+          "en": "into something you can hold.",
+          "it": "in qualcosa che puoi tenere tra le mani."
+        },
+        {
+          "en": "The young seek certainty;",
+          "it": "I giovani cercano la certezza;"
+        },
+        {
+          "en": "the wise seek better uncertainties—",
+          "it": "i saggi cercano incertezze migliori—"
+        },
+        {
+          "en": "they have learned that the map",
+          "it": "hanno imparato che la mappa"
+        },
+        {
+          "en": "was never the territory.",
+          "it": "non è mai stata il territorio."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the wise no longer seek certainty,",
+          "it": "Se i saggi non cercano più la certezza,"
+        },
+        {
+          "en": "have they found more answers—",
+          "it": "hanno trovato più risposte—"
+        },
+        {
+          "en": "or simply grown fond",
+          "it": "o semplicemente si sono affezionati"
+        },
+        {
+          "en": "of better questions?",
+          "it": "a domande migliori?"
+        }
+      ],
+      "quote": {
+        "en": "Wisdom is the applause of a life that has finally stopped performing.",
+        "it": "La saggezza è l'applauso di una vita che ha finalmente smesso di recitare."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "007",
+      "theme": {
+        "en": "GRATITUDE",
+        "it": "GRATITUDINE"
+      },
+      "poetry": [
+        {
+          "en": "Gratitude is a way of keeping",
+          "it": "La gratitudine è un modo di custodire"
+        },
+        {
+          "en": "what would otherwise slip past unnoticed:",
+          "it": "ciò che altrimenti sfuggirebbe inosservato:"
+        },
+        {
+          "en": "the ordinary Tuesday,",
+          "it": "il martedì qualunque,"
+        },
+        {
+          "en": "the second cup of coffee,",
+          "it": "la seconda tazza di caffè,"
+        },
+        {
+          "en": "the friend who calls for no reason.",
+          "it": "l'amico che telefona senza motivo."
+        },
+        {
+          "en": "It does not wait for the extraordinary.",
+          "it": "Non attende lo straordinario."
+        },
+        {
+          "en": "It builds a home",
+          "it": "Costruisce una casa"
+        },
+        {
+          "en": "out of what was already here.",
+          "it": "con quello che era già qui."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If gratitude is a way of keeping what would slip past,",
+          "it": "Se la gratitudine è un modo di custodire ciò che sfuggirebbe,"
+        },
+        {
+          "en": "does it change the gift—",
+          "it": "cambia il dono—"
+        },
+        {
+          "en": "or only the hands",
+          "it": "o solo le mani"
+        },
+        {
+          "en": "that finally noticed it?",
+          "it": "che finalmente l'hanno notato?"
+        }
+      ],
+      "quote": {
+        "en": "Gratitude turns a borrowed day into a kept one.",
+        "it": "La gratitudine trasforma un giorno preso in prestito in uno custodito."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "008",
+      "theme": {
+        "en": "PATIENCE",
+        "it": "PAZIENZA"
+      },
+      "poetry": [
+        {
+          "en": "Patience is not the absence of urgency",
+          "it": "La pazienza non è l'assenza di urgenza"
+        },
+        {
+          "en": "but its quiet translation",
+          "it": "ma la sua silenziosa traduzione"
+        },
+        {
+          "en": "into something bearable.",
+          "it": "in qualcosa di sopportabile."
+        },
+        {
+          "en": "The seed does not resent the winter;",
+          "it": "Il seme non risente dell'inverno;"
+        },
+        {
+          "en": "it simply becomes",
+          "it": "semplicemente diventa"
+        },
+        {
+          "en": "what winter requires it to become.",
+          "it": "ciò che l'inverno richiede che diventi."
+        },
+        {
+          "en": "So too the soul,",
+          "it": "Così anche l'anima,"
+        },
+        {
+          "en": "waiting for its own particular spring.",
+          "it": "in attesa della sua particolare primavera."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If patience is urgency in disguise,",
+          "it": "Se la pazienza è un'urgenza travestita,"
+        },
+        {
+          "en": "is it strength that waits—",
+          "it": "è la forza che attende—"
+        },
+        {
+          "en": "or simply pain",
+          "it": "o semplicemente un dolore"
+        },
+        {
+          "en": "that has learned to be quiet?",
+          "it": "che ha imparato a tacere?"
+        }
+      ],
+      "quote": {
+        "en": "Patience is the quiet negotiation between longing and time.",
+        "it": "La pazienza è la silenziosa trattativa tra il desiderio e il tempo."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "009",
+      "theme": {
+        "en": "FORGIVENESS",
+        "it": "PERDONO"
+      },
+      "poetry": [
+        {
+          "en": "To forgive is not to forget",
+          "it": "Perdonare non è dimenticare"
+        },
+        {
+          "en": "but to stop paying rent",
+          "it": "ma smettere di pagare l'affitto"
+        },
+        {
+          "en": "on a room you no longer live in.",
+          "it": "di una stanza in cui non vivi più."
+        },
+        {
+          "en": "It is not owed to the one who wronged you—",
+          "it": "Non è dovuto a chi ti ha offeso—"
+        },
+        {
+          "en": "it is owed to yourself,",
+          "it": "è dovuto a te stesso,"
+        },
+        {
+          "en": "the only tenant left inside the wound.",
+          "it": "l'unico inquilino rimasto dentro la ferita."
+        },
+        {
+          "en": "Release, and the room",
+          "it": "Lascia andare, e la stanza"
+        },
+        {
+          "en": "becomes yours again.",
+          "it": "torna a essere tua."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If forgiveness frees the one who forgives,",
+          "it": "Se il perdono libera chi perdona,"
+        },
+        {
+          "en": "was it ever truly a gift",
+          "it": "è stato davvero un dono"
+        },
+        {
+          "en": "to the one forgiven—",
+          "it": "a chi è stato perdonato—"
+        },
+        {
+          "en": "or a mercy kept for yourself?",
+          "it": "o una misericordia tenuta per te stesso?"
+        }
+      ],
+      "quote": {
+        "en": "Forgiveness is the only key that unlocks a door from the inside.",
+        "it": "Il perdono è l'unica chiave che apre una porta dall'interno."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "010",
+      "theme": {
+        "en": "HUMILITY",
+        "it": "UMILTÀ"
+      },
+      "poetry": [
+        {
+          "en": "Humility is not thinking less of yourself",
+          "it": "L'umiltà non è pensare meno di te stesso"
+        },
+        {
+          "en": "but thinking of yourself less,",
+          "it": "ma pensare a te stesso di meno,"
+        },
+        {
+          "en": "the philosopher said,",
+          "it": "disse il filosofo,"
+        },
+        {
+          "en": "and the mountain agrees—",
+          "it": "e la montagna è d'accordo—"
+        },
+        {
+          "en": "it does not measure its own height,",
+          "it": "non misura la propria altezza,"
+        },
+        {
+          "en": "it simply lets the valley",
+          "it": "lascia semplicemente che sia la valle"
+        },
+        {
+          "en": "decide what greatness means",
+          "it": "a decidere cosa significhi grandezza"
+        },
+        {
+          "en": "by comparison.",
+          "it": "per confronto."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the mountain never measures its own height,",
+          "it": "Se la montagna non misura mai la propria altezza,"
+        },
+        {
+          "en": "is it humble—",
+          "it": "è umile—"
+        },
+        {
+          "en": "or simply unaware",
+          "it": "o semplicemente ignara"
+        },
+        {
+          "en": "that height was ever a question?",
+          "it": "che l'altezza fosse mai una questione?"
+        }
+      ],
+      "quote": {
+        "en": "Humility is the mountain that never mentions its height.",
+        "it": "L'umiltà è la montagna che non menziona mai la propria altezza."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "011",
+      "theme": {
+        "en": "JOY",
+        "it": "GIOIA"
+      },
+      "poetry": [
+        {
+          "en": "Joy is not happiness's louder cousin.",
+          "it": "La gioia non è il cugino più rumoroso della felicità."
+        },
+        {
+          "en": "It can sit beside grief",
+          "it": "Può sedersi accanto al dolore"
+        },
+        {
+          "en": "without asking it to leave.",
+          "it": "senza chiedergli di andarsene."
+        },
+        {
+          "en": "It is the small, defiant pulse",
+          "it": "È il piccolo impulso ostinato"
+        },
+        {
+          "en": "that returns after every loss,",
+          "it": "che ritorna dopo ogni perdita,"
+        },
+        {
+          "en": "proof that the heart",
+          "it": "prova che il cuore"
+        },
+        {
+          "en": "was built for more",
+          "it": "è stato creato per più"
+        },
+        {
+          "en": "than merely surviving.",
+          "it": "che per il semplice sopravvivere."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If joy can sit beside grief without asking it to leave,",
+          "it": "Se la gioia può sedersi accanto al dolore senza chiedergli di andarsene,"
+        },
+        {
+          "en": "are they opposites—",
+          "it": "sono opposti—"
+        },
+        {
+          "en": "or two windows",
+          "it": "o due finestre"
+        },
+        {
+          "en": "in the very same room?",
+          "it": "nella stessa stanza?"
+        }
+      ],
+      "quote": {
+        "en": "Joy is grief's stubborn cousin, arriving anyway.",
+        "it": "La gioia è il cugino ostinato del dolore, che arriva comunque."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "012",
+      "theme": {
+        "en": "PEACE",
+        "it": "PACE"
+      },
+      "poetry": [
+        {
+          "en": "Peace is not the absence of storm",
+          "it": "La pace non è l'assenza di tempesta"
+        },
+        {
+          "en": "but the steadiness beneath it—",
+          "it": "ma la stabilità sottostante—"
+        },
+        {
+          "en": "the seabed unmoved",
+          "it": "il fondale che non si muove"
+        },
+        {
+          "en": "while the surface breaks and churns.",
+          "it": "mentre la superficie si rompe e si agita."
+        },
+        {
+          "en": "We look for it in quiet places",
+          "it": "La cerchiamo nei luoghi silenziosi"
+        },
+        {
+          "en": "when it was always internal,",
+          "it": "quando era sempre interna,"
+        },
+        {
+          "en": "a room we carry",
+          "it": "una stanza che portiamo con noi"
+        },
+        {
+          "en": "and sometimes forget to enter.",
+          "it": "e che a volte dimentichiamo di attraversare."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the seabed stays still while the surface breaks,",
+          "it": "Se il fondale resta fermo mentre la superficie si rompe,"
+        },
+        {
+          "en": "is peace the absence of storm—",
+          "it": "la pace è l'assenza di tempesta—"
+        },
+        {
+          "en": "or the place",
+          "it": "o il luogo"
+        },
+        {
+          "en": "the storm cannot reach?",
+          "it": "dove la tempesta non può arrivare?"
+        }
+      ],
+      "quote": {
+        "en": "Peace is the argument you finally decide not to have with yourself.",
+        "it": "La pace è la discussione che finalmente decidi di non avere con te stesso."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "013",
+      "theme": {
+        "en": "TRUTH",
+        "it": "VERITÀ"
+      },
+      "poetry": [
+        {
+          "en": "Truth does not need your belief",
+          "it": "La verità non ha bisogno che tu creda"
+        },
+        {
+          "en": "to remain true,",
+          "it": "per restare vera,"
+        },
+        {
+          "en": "and this should comfort you,",
+          "it": "e questo dovrebbe confortarti,"
+        },
+        {
+          "en": "not frighten you.",
+          "it": "non spaventarti."
+        },
+        {
+          "en": "It is not a possession to defend",
+          "it": "Non è una proprietà da difendere"
+        },
+        {
+          "en": "but a horizon to walk toward,",
+          "it": "ma un orizzonte verso cui camminare,"
+        },
+        {
+          "en": "receding always,",
+          "it": "sempre in ritirata,"
+        },
+        {
+          "en": "and always worth the walking.",
+          "it": "e sempre degno del cammino."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If truth needs no one's belief to remain true,",
+          "it": "Se la verità non ha bisogno della fede di nessuno per restare vera,"
+        },
+        {
+          "en": "does it exist apart from us—",
+          "it": "esiste aparte da noi—"
+        },
+        {
+          "en": "or only wait, patiently,",
+          "it": "o solo attende, paziente,"
+        },
+        {
+          "en": "for us to catch up?",
+          "it": "che la raggiungiamo?"
+        }
+      ],
+      "quote": {
+        "en": "Truth does not shout. It simply refuses to leave.",
+        "it": "La verità non grida. Semplicemente si rifiuta di andarsene."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "014",
+      "theme": {
+        "en": "COMPASSION",
+        "it": "COMPASSIONE"
+      },
+      "poetry": [
+        {
+          "en": "Compassion begins where comparison ends—",
+          "it": "La compassione comincia dove finisce il confronto—"
+        },
+        {
+          "en": "the moment you stop asking",
+          "it": "nel momento in cui smetti di chiederti"
+        },
+        {
+          "en": "whether their suffering",
+          "it": "se la loro sofferenza"
+        },
+        {
+          "en": "is equal to your own,",
+          "it": "sia pari alla tua,"
+        },
+        {
+          "en": "and simply kneel beside it.",
+          "it": "e semplicemente ti inginocchi accanto ad essa."
+        },
+        {
+          "en": "It is not pity, which looks down.",
+          "it": "Non è pietà, che guarda dall'alto."
+        },
+        {
+          "en": "It is presence,",
+          "it": "È presenza,"
+        },
+        {
+          "en": "which looks across.",
+          "it": "che guarda di fronte."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If compassion begins where comparison ends,",
+          "it": "Se la compassione comincia dove finisce il confronto,"
+        },
+        {
+          "en": "does it require you to suffer equally—",
+          "it": "richiede che tu soffra allo stesso modo—"
+        },
+        {
+          "en": "or only to kneel",
+          "it": "o solo che ti inginocchi"
+        },
+        {
+          "en": "beside what you cannot measure?",
+          "it": "accanto a ciò che non puoi misurare?"
+        }
+      ],
+      "quote": {
+        "en": "Compassion is the shortest distance between two strangers.",
+        "it": "La compassione è la distanza più breve tra due estranei."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "015",
+      "theme": {
+        "en": "RESILIENCE",
+        "it": "RESILIENZA"
+      },
+      "poetry": [
+        {
+          "en": "The reed survives the storm",
+          "it": "La canna sopravvive alla tempesta"
+        },
+        {
+          "en": "the oak cannot,",
+          "it": "che la quercia non può reggere,"
+        },
+        {
+          "en": "not because it is stronger",
+          "it": "non perché sia più forte"
+        },
+        {
+          "en": "but because it knows when to bend.",
+          "it": "ma perché sa quando piegarsi."
+        },
+        {
+          "en": "Resilience is not refusing to break—",
+          "it": "La resilienza non è rifiutarsi di spezzarsi—"
+        },
+        {
+          "en": "it is trusting that what breaks",
+          "it": "è fidarsi che ciò che si spezza"
+        },
+        {
+          "en": "can be gathered",
+          "it": "possa essere raccolto"
+        },
+        {
+          "en": "and built into something new.",
+          "it": "e ricostruito in qualcosa di nuovo."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the reed survives what breaks the oak,",
+          "it": "Se la canna sopravvive a ciò che spezza la quercia,"
+        },
+        {
+          "en": "is resilience refusing to bend—",
+          "it": "la resilienza è rifiutarsi di piegarsi—"
+        },
+        {
+          "en": "or knowing, precisely,",
+          "it": "o sapere, con precisione,"
+        },
+        {
+          "en": "when bending is the strength?",
+          "it": "quando piegarsi è la forza?"
+        }
+      ],
+      "quote": {
+        "en": "What breaks in you may only be rearranging.",
+        "it": "Ciò che si spezza in te potrebbe essere solo in riorganizzazione."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "016",
+      "theme": {
+        "en": "FAITH",
+        "it": "FEDE"
+      },
+      "poetry": [
+        {
+          "en": "Faith is not certainty in disguise.",
+          "it": "La fede non è certezza travestita."
+        },
+        {
+          "en": "It is the decision to keep walking",
+          "it": "È la decisione di continuare a camminare"
+        },
+        {
+          "en": "when the path disappears",
+          "it": "quando il sentiero scompare"
+        },
+        {
+          "en": "into fog ahead of you,",
+          "it": "nella nebbia davanti a te,"
+        },
+        {
+          "en": "trusting the ground",
+          "it": "fidando nel terreno"
+        },
+        {
+          "en": "before your foot has tested it—",
+          "it": "prima che il piede lo abbia provato—"
+        },
+        {
+          "en": "not because you are fearless,",
+          "it": "non perché sei senza paura,"
+        },
+        {
+          "en": "but because you have decided to move anyway.",
+          "it": "ma perché hai deciso di muoverti comunque."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If faith is walking before the path appears,",
+          "it": "Se la fede cammina prima che il sentiero appaia,"
+        },
+        {
+          "en": "is it certainty in disguise—",
+          "it": "è certezza travestita—"
+        },
+        {
+          "en": "or the decision",
+          "it": "o la decisione"
+        },
+        {
+          "en": "to move without one?",
+          "it": "di muoversi senza averne una?"
+        }
+      ],
+      "quote": {
+        "en": "Faith is a bridge built one plank ahead of the walking.",
+        "it": "La fede è un ponte costruito un'asse prima del cammino."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "017",
+      "theme": {
+        "en": "FREEDOM",
+        "it": "LIBERTÀ"
+      },
+      "poetry": [
+        {
+          "en": "Freedom is mistaken, often,",
+          "it": "La libertà è scambiata, spesso,"
+        },
+        {
+          "en": "for the absence of walls,",
+          "it": "per l'assenza di muri,"
+        },
+        {
+          "en": "when it is really",
+          "it": "quando in realtà è"
+        },
+        {
+          "en": "the presence of choice within them.",
+          "it": "la presenza di una scelta dentro di essi."
+        },
+        {
+          "en": "The bird in the vast sky",
+          "it": "L'uccello nel vasto cielo"
+        },
+        {
+          "en": "is not free of hunger, weather, hawk—",
+          "it": "non è libero da fame, intemperie, falco—"
+        },
+        {
+          "en": "it is free because it chooses",
+          "it": "è libero perché sceglie"
+        },
+        {
+          "en": "which direction to meet them from.",
+          "it": "da quale direzione incontrarli."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the bird is free yet still meets hunger and hawk,",
+          "it": "Se l'uccello è libero ma incontra comunque fame e falco,"
+        },
+        {
+          "en": "is freedom the absence of walls—",
+          "it": "la libertà è l'assenza di muri—"
+        },
+        {
+          "en": "or simply the choosing",
+          "it": "o semplicemente la scelta"
+        },
+        {
+          "en": "of which direction to meet them from?",
+          "it": "di quale direzione incontrare le cose da lì?"
+        }
+      ],
+      "quote": {
+        "en": "Freedom is not the open cage. It is the bird that no longer needs one.",
+        "it": "La libertà non è la gabbia aperta. È l'uccello che non ne ha più bisogno."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "018",
+      "theme": {
+        "en": "SOLITUDE",
+        "it": "SOLITUDINE"
+      },
+      "poetry": [
+        {
+          "en": "Solitude is not loneliness",
+          "it": "La solitudine non è la malinconia"
+        },
+        {
+          "en": "wearing a nicer coat.",
+          "it": "che indossa un soprabito più bello."
+        },
+        {
+          "en": "Loneliness is hunger;",
+          "it": "La malinconia è fame;"
+        },
+        {
+          "en": "solitude is a meal eaten slowly, alone, on purpose.",
+          "it": "la solitudine è un pasto consumato lentamente, da soli, di proposito."
+        },
+        {
+          "en": "In it, you finally hear",
+          "it": "In essa, finalmente ascolti"
+        },
+        {
+          "en": "the voice that the crowd was drowning—",
+          "it": "la voce che la folla stava annegando—"
+        },
+        {
+          "en": "your own, unhurried,",
+          "it": "la tua, senza fretta,"
+        },
+        {
+          "en": "telling you the truth.",
+          "it": "che ti dice la verità."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If solitude is a meal eaten slowly, alone, on purpose,",
+          "it": "Se la solitudine è un pasto consumato lentamente, da soli, di proposito,"
+        },
+        {
+          "en": "is it the same hunger as loneliness—",
+          "it": "è la stessa fame della malinconia—"
+        },
+        {
+          "en": "or a different appetite",
+          "it": "o un appetito diverso,"
+        },
+        {
+          "en": "altogether?",
+          "it": "del tutto?"
+        }
+      ],
+      "quote": {
+        "en": "In solitude, the noise leaves first, then the truth arrives.",
+        "it": "Nella solitudine, il rumore se ne va per primo, poi arriva la verità."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "019",
+      "theme": {
+        "en": "FRIENDSHIP",
+        "it": "AMICIZIA"
+      },
+      "poetry": [
+        {
+          "en": "A friend is someone in whose presence",
+          "it": "Un amico è qualcuno in presenza del quale"
+        },
+        {
+          "en": "you can think out loud",
+          "it": "puoi pensare ad alta voce"
+        },
+        {
+          "en": "without editing for effect.",
+          "it": "senza riscriverti per l'effetto."
+        },
+        {
+          "en": "Time does not erode this—",
+          "it": "Il tempo non erode questo—"
+        },
+        {
+          "en": "it deepens it,",
+          "it": "lo approfondisce,"
+        },
+        {
+          "en": "the way a river does not weaken stone",
+          "it": "come un fiume non indebolisce la pietra"
+        },
+        {
+          "en": "but carves it",
+          "it": "ma la scolpisce"
+        },
+        {
+          "en": "into something the water recognizes.",
+          "it": "in qualcosa che l'acqua riconosce."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If time deepens a friendship the way a river carves stone,",
+          "it": "Se il tempo approfondisce un'amicizia come un fiume scolpisce la pietra,"
+        },
+        {
+          "en": "does the river weaken what it touches—",
+          "it": "il fiume indebolisce ciò che tocca—"
+        },
+        {
+          "en": "or only shape it",
+          "it": "o solo lo plasma"
+        },
+        {
+          "en": "into something water finally recognizes?",
+          "it": "in qualcosa che l'acqua finalmente riconosce?"
+        }
+      ],
+      "quote": {
+        "en": "A friend is a memory you have not needed to make yet.",
+        "it": "Un amico è un ricordo che non hai ancora avuto bisogno di creare."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "020",
+      "theme": {
+        "en": "FAMILY",
+        "it": "FAMIGLIA"
+      },
+      "poetry": [
+        {
+          "en": "Family is the first language",
+          "it": "La famiglia è la prima lingua"
+        },
+        {
+          "en": "the heart learns to speak,",
+          "it": "che il cuore impara a parlare,"
+        },
+        {
+          "en": "imperfectly, urgently,",
+          "it": "imperfettamente, con urgenza,"
+        },
+        {
+          "en": "in a house full of other translators.",
+          "it": "in una casa piena di altri traduttori."
+        },
+        {
+          "en": "We spend our lives",
+          "it": "Passiamo la vita"
+        },
+        {
+          "en": "refining the accent—",
+          "it": "a rifinire l'accento—"
+        },
+        {
+          "en": "but the grammar of belonging",
+          "it": "ma la grammatica dell'appartenenza"
+        },
+        {
+          "en": "was written before we could read.",
+          "it": "fu scritta prima che sapessimo leggere."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If family is a language learned before we could read,",
+          "it": "Se la famiglia è una lingua appresa prima che sapessimo leggere,"
+        },
+        {
+          "en": "are we born belonging—",
+          "it": "nasciamo appartenendo—"
+        },
+        {
+          "en": "or do we spend our lives",
+          "it": "o passiamo la vita"
+        },
+        {
+          "en": "learning the accent?",
+          "it": "a imparare l'accento?"
+        }
+      ],
+      "quote": {
+        "en": "Family is the first room love ever furnished.",
+        "it": "La famiglia è la prima stanza che l'amore ha arredato."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "021",
+      "theme": {
+        "en": "HOME",
+        "it": "CASA"
+      },
+      "poetry": [
+        {
+          "en": "Home is not always a place.",
+          "it": "La casa non è sempre un luogo."
+        },
+        {
+          "en": "Sometimes it is a person's voice,",
+          "it": "A volte è la voce di una persona,"
+        },
+        {
+          "en": "a smell that returns you",
+          "it": "un profumo che ti riporta"
+        },
+        {
+          "en": "to a kitchen decades gone,",
+          "it": "a una cucina di decenni fa,"
+        },
+        {
+          "en": "a silence that fits you",
+          "it": "un silenzio che ti calza"
+        },
+        {
+          "en": "the way no room ever has.",
+          "it": "come nessuna stanza ha mai fatto."
+        },
+        {
+          "en": "We are all,",
+          "it": "Siamo tutti,"
+        },
+        {
+          "en": "in some sense, migratory.",
+          "it": "in un certo senso, migratori."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If home is sometimes a voice and not a place,",
+          "it": "Se la casa è a volte una voce e non un luogo,"
+        },
+        {
+          "en": "can you lose it without ever leaving—",
+          "it": "puoi perderla senza mai andartene—"
+        },
+        {
+          "en": "or keep it,",
+          "it": "o tenerla,"
+        },
+        {
+          "en": "long after you've gone?",
+          "it": "molto tempo dopo essere andato?"
+        }
+      ],
+      "quote": {
+        "en": "Home is wherever you finally stop translating yourself.",
+        "it": "La casa è dove finalmente smetti di tradurre te stesso."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "022",
+      "theme": {
+        "en": "TIME",
+        "it": "TEMPO"
+      },
+      "poetry": [
+        {
+          "en": "Time does not pass—",
+          "it": "Il tempo non passa—"
+        },
+        {
+          "en": "we pass through it,",
+          "it": "noi lo attraversiamo,"
+        },
+        {
+          "en": "like light through a window",
+          "it": "come luce attraverso una finestra"
+        },
+        {
+          "en": "that remains after we've gone.",
+          "it": "che resta dopo che ce ne siamo andati."
+        },
+        {
+          "en": "The clock measures its shadow,",
+          "it": "L'orologio misura la sua ombra,"
+        },
+        {
+          "en": "never the thing itself,",
+          "it": "mai la cosa in sé,"
+        },
+        {
+          "en": "which is less a river",
+          "it": "che è meno un fiume"
+        },
+        {
+          "en": "than a room we are always leaving.",
+          "it": "che una stanza da cui usciamo sempre."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the clock measures only its own shadow,",
+          "it": "Se l'orologio misura solo la propria ombra,"
+        },
+        {
+          "en": "what exactly is passing—",
+          "it": "cosa sta passando, esattamente—"
+        },
+        {
+          "en": "the moment itself,",
+          "it": "il momento stesso,"
+        },
+        {
+          "en": "or merely us, moving through it?",
+          "it": "o solo noi, che ci muoviamo attraverso di esso?"
+        }
+      ],
+      "quote": {
+        "en": "Time does not heal. It simply keeps handing you tomorrow.",
+        "it": "Il tempo non guarisce. Semplicemente continua a consegnarti un domani."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "023",
+      "theme": {
+        "en": "CHANGE",
+        "it": "CAMBIAMENTO"
+      },
+      "poetry": [
+        {
+          "en": "Nothing arrives without leaving something behind—",
+          "it": "Nulla arriva senza lasciare qualcosa dietro di sé—"
+        },
+        {
+          "en": "this is not tragedy, only arithmetic.",
+          "it": "questo non è una tragedia, solo aritmetica."
+        },
+        {
+          "en": "The caterpillar does not mourn its legs;",
+          "it": "Il bruco non piange le proprie zampe;"
+        },
+        {
+          "en": "it does not remember having any.",
+          "it": "non ricorda di averne avute."
+        },
+        {
+          "en": "Change is not the enemy of identity.",
+          "it": "Il cambiamento non è il nemico dell'identità."
+        },
+        {
+          "en": "It is the method by which identity",
+          "it": "È il metodo con cui l'identità"
+        },
+        {
+          "en": "finally becomes",
+          "it": "finalmente diventa"
+        },
+        {
+          "en": "what it was reaching for.",
+          "it": "ciò che stava cercando di essere."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If nothing arrives without leaving something behind,",
+          "it": "Se nulla arriva senza lasciare qualcosa dietro di sé,"
+        },
+        {
+          "en": "is change a kind of loss—",
+          "it": "il cambiamento è una sorta di perdita—"
+        },
+        {
+          "en": "or simply arithmetic",
+          "it": "o semplicemente aritmetica"
+        },
+        {
+          "en": "mistaken for grief?",
+          "it": "scambiata per lutto?"
+        }
+      ],
+      "quote": {
+        "en": "Change is the only promise the future always keeps.",
+        "it": "Il cambiamento è l'unica promessa che il futuro mantiene sempre."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "024",
+      "theme": {
+        "en": "GROWTH",
+        "it": "CRESCITA"
+      },
+      "poetry": [
+        {
+          "en": "Growth is rarely visible",
+          "it": "La crescita è raramente visibile"
+        },
+        {
+          "en": "while it is happening—",
+          "it": "mentre sta accadendo—"
+        },
+        {
+          "en": "the tree does not feel itself rising,",
+          "it": "l'albero non sente se stesso sollevarsi,"
+        },
+        {
+          "en": "only, later, notices the view has changed.",
+          "it": "solo, più tardi, nota che il panorama è cambiato."
+        },
+        {
+          "en": "Be patient with the days",
+          "it": "Sii paziente con i giorni"
+        },
+        {
+          "en": "that seem to yield nothing.",
+          "it": "che sembrano non produrre nulla."
+        },
+        {
+          "en": "Roots do their work",
+          "it": "Le radici fanno il loro lavoro"
+        },
+        {
+          "en": "in the dark, unwitnessed.",
+          "it": "nel buio, senza testimoni."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If roots do their work in the dark, unwitnessed,",
+          "it": "Se le radici fanno il loro lavoro nel buio, senza testimoni,"
+        },
+        {
+          "en": "does growth require an audience—",
+          "it": "la crescita richiede un pubblico—"
+        },
+        {
+          "en": "or only the patience",
+          "it": "o solo la pazienza"
+        },
+        {
+          "en": "of someone willing not to see it yet?",
+          "it": "di chi accetta di non vederla ancora?"
+        }
+      ],
+      "quote": {
+        "en": "Growth is a quiet rebellion no one is invited to watch.",
+        "it": "La crescita è una rivolta silenziosa a cui nessuno è invitato ad assistere."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "025",
+      "theme": {
+        "en": "SIMPLICITY",
+        "it": "SEMPLICITÀ"
+      },
+      "poetry": [
+        {
+          "en": "Simplicity is not the opposite of depth;",
+          "it": "La semplicità non è l'opposto della profondità;"
+        },
+        {
+          "en": "it is depth with the excess removed.",
+          "it": "è la profondità con il superfluo rimosso."
+        },
+        {
+          "en": "The master painter uses fewer strokes",
+          "it": "Il maestro pittore usa meno tratti"
+        },
+        {
+          "en": "than the apprentice, not because they know less",
+          "it": "dell'apprendista, non perché sappia di meno"
+        },
+        {
+          "en": "but because they know",
+          "it": "ma perché sa"
+        },
+        {
+          "en": "which strokes are unnecessary.",
+          "it": "quali tratti siano inutili."
+        },
+        {
+          "en": "Subtract, subtract,",
+          "it": "Sottrai, sottrai,"
+        },
+        {
+          "en": "until only the true thing remains.",
+          "it": "finché resta solo la cosa vera."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the master uses fewer strokes than the apprentice,",
+          "it": "Se il maestro usa meno tratti dell'apprendista,"
+        },
+        {
+          "en": "is simplicity knowing less—",
+          "it": "la semplicità è sapere meno—"
+        },
+        {
+          "en": "or knowing, finally,",
+          "it": "o sapere, finalmente,"
+        },
+        {
+          "en": "which strokes were never necessary?",
+          "it": "quali tratti non sono mai stati necessari?"
+        }
+      ],
+      "quote": {
+        "en": "Simplicity is complexity that has finally stopped explaining itself.",
+        "it": "La semplicità è la complessità che ha finalmente smesso di spiegarsi."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "026",
+      "theme": {
+        "en": "GENEROSITY",
+        "it": "GENEROSITÀ"
+      },
+      "poetry": [
+        {
+          "en": "Generosity is not measured",
+          "it": "La generosità non si misura"
+        },
+        {
+          "en": "by what is given,",
+          "it": "da ciò che viene dato,"
+        },
+        {
+          "en": "but by what remains",
+          "it": "ma da ciò che resta"
+        },
+        {
+          "en": "after the giving—",
+          "it": "dopo il dono—"
+        },
+        {
+          "en": "whether the hand is still open",
+          "it": "se la mano è ancora aperta"
+        },
+        {
+          "en": "or has closed around its loss.",
+          "it": "o si è chiusa attorno alla propria perdita."
+        },
+        {
+          "en": "The truly generous",
+          "it": "Il veramente generoso"
+        },
+        {
+          "en": "give as the sun does: without checking the balance.",
+          "it": "dona come il sole: senza controllare il saldo."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the sun gives without checking the balance,",
+          "it": "Se il sole dona senza controllare il saldo,"
+        },
+        {
+          "en": "is generosity a gift—",
+          "it": "la generosità è un dono—"
+        },
+        {
+          "en": "or simply",
+          "it": "o semplicemente"
+        },
+        {
+          "en": "what abundance looks like from outside?",
+          "it": "ciò che l'abbondanza sembra dall'esterno?"
+        }
+      ],
+      "quote": {
+        "en": "Generosity is the hand that forgets to count what it let go of.",
+        "it": "La generosità è la mano che dimentica di contare ciò che ha lasciato andare."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "027",
+      "theme": {
+        "en": "INTEGRITY",
+        "it": "INTEGRITÀ"
+      },
+      "poetry": [
+        {
+          "en": "Integrity is what you do",
+          "it": "L'integrità è ciò che fai"
+        },
+        {
+          "en": "when no one is measuring—",
+          "it": "quando nessuno misura—"
+        },
+        {
+          "en": "the version of you",
+          "it": "la versione di te"
+        },
+        {
+          "en": "unwitnessed and unrewarded,",
+          "it": "senza testimoni e senza ricompensa,"
+        },
+        {
+          "en": "who still chooses",
+          "it": "che sceglie comunque"
+        },
+        {
+          "en": "the harder honest thing.",
+          "it": "la cosa onesta più difficile."
+        },
+        {
+          "en": "It is not a performance.",
+          "it": "Non è una performance."
+        },
+        {
+          "en": "It is architecture, load-bearing, unseen.",
+          "it": "È architettura, portante, invisibile."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If integrity is what you do when no one is measuring,",
+          "it": "Se l'integrità è ciò che fai quando nessuno misura,"
+        },
+        {
+          "en": "does it exist at all before it's tested—",
+          "it": "esiste affatto prima di essere messa alla prova—"
+        },
+        {
+          "en": "or only",
+          "it": "o solo"
+        },
+        {
+          "en": "in the choosing, unwitnessed?",
+          "it": "nello scegliere, senza testimoni?"
+        }
+      ],
+      "quote": {
+        "en": "Integrity is the promise you keep to the one person who will never check.",
+        "it": "L'integrità è la promessa che mantieni verso l'unica persona che non controllerà mai."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "028",
+      "theme": {
+        "en": "CURIOSITY",
+        "it": "CURIOSITÀ"
+      },
+      "poetry": [
+        {
+          "en": "Curiosity is the child's gift",
+          "it": "La curiosità è il dono del bambino"
+        },
+        {
+          "en": "the adult must relearn on purpose—",
+          "it": "che l'adulto deve reimparare di proposito—"
+        },
+        {
+          "en": "the willingness to ask",
+          "it": "la disponibilità a chiedere"
+        },
+        {
+          "en": "'and then what?' of a world",
+          "it": "'e poi cosa?' a un mondo"
+        },
+        {
+          "en": "that has stopped surprising you",
+          "it": "che ha smesso di sorprenderti"
+        },
+        {
+          "en": "only because you stopped looking.",
+          "it": "solo perché hai smesso di guardare."
+        },
+        {
+          "en": "Wonder is not naive.",
+          "it": "Lo stupore non è ingenuo."
+        },
+        {
+          "en": "It is a discipline.",
+          "it": "È una disciplina."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If wonder is a discipline and not a gift,",
+          "it": "Se lo stupore è una disciplina e non un dono,"
+        },
+        {
+          "en": "does the world stop surprising you—",
+          "it": "il mondo smette di sorprenderti—"
+        },
+        {
+          "en": "or did you simply",
+          "it": "o sei stato semplicemente tu"
+        },
+        {
+          "en": "stop looking first?",
+          "it": "a smettere di guardare per primo?"
+        }
+      ],
+      "quote": {
+        "en": "Curiosity is the question that refuses to retire.",
+        "it": "La curiosità è la domanda che si rifiuta di andare in pensione."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "029",
+      "theme": {
+        "en": "WONDER",
+        "it": "MERAVIGLIA"
+      },
+      "poetry": [
+        {
+          "en": "Wonder is what's left",
+          "it": "La meraviglia è ciò che resta"
+        },
+        {
+          "en": "when explanation runs out—",
+          "it": "quando la spiegazione finisce—"
+        },
+        {
+          "en": "not ignorance, but its opposite:",
+          "it": "non ignoranza, ma il suo contrario:"
+        },
+        {
+          "en": "knowing enough to be astonished",
+          "it": "sapere abbastanza da restare stupito"
+        },
+        {
+          "en": "that anything exists at all.",
+          "it": "che qualcosa esista del tutto."
+        },
+        {
+          "en": "The scientist and the child",
+          "it": "Lo scienziato e il bambino"
+        },
+        {
+          "en": "stand, finally,",
+          "it": "stanno, alla fine,"
+        },
+        {
+          "en": "in the same room.",
+          "it": "nella stessa stanza."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If wonder is what's left when explanation runs out,",
+          "it": "Se la meraviglia è ciò che resta quando la spiegazione finisce,"
+        },
+        {
+          "en": "does knowing more leave less room for astonishment—",
+          "it": "sapere di più lascia meno spazio allo stupore—"
+        },
+        {
+          "en": "or does it only",
+          "it": "o ne cambia soltanto"
+        },
+        {
+          "en": "change its shape?",
+          "it": "la forma?"
+        }
+      ],
+      "quote": {
+        "en": "Wonder is the tax the universe forgets to collect.",
+        "it": "La meraviglia è la tassa che l'universo dimentica di riscuotere."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "030",
+      "theme": {
+        "en": "GRIEF",
+        "it": "LUTTO"
+      },
+      "poetry": [
+        {
+          "en": "Grief is love with nowhere to go,",
+          "it": "Il lutto è amore senza un posto dove andare,"
+        },
+        {
+          "en": "circling the house of the one who left,",
+          "it": "che gira attorno alla casa di chi è partito,"
+        },
+        {
+          "en": "knocking on doors",
+          "it": "bussando alle porte"
+        },
+        {
+          "en": "that no longer open.",
+          "it": "che non si aprono più."
+        },
+        {
+          "en": "It does not end.",
+          "it": "Non finisce."
+        },
+        {
+          "en": "It becomes furniture—",
+          "it": "Diventa arredamento—"
+        },
+        {
+          "en": "something you learn to live around,",
+          "it": "qualcosa attorno a cui impari a vivere,"
+        },
+        {
+          "en": "and, eventually, to sit in.",
+          "it": "e, alla fine, in cui sederti."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If grief becomes furniture you learn to live around,",
+          "it": "Se il lutto diventa arredamento attorno a cui impari a vivere,"
+        },
+        {
+          "en": "does it ever truly leave—",
+          "it": "se ne va mai davvero—"
+        },
+        {
+          "en": "or only rearrange itself",
+          "it": "o solo si riorganizza"
+        },
+        {
+          "en": "into something bearable?",
+          "it": "in qualcosa di sopportabile?"
+        }
+      ],
+      "quote": {
+        "en": "Grief is love with no forwarding address.",
+        "it": "Il lutto è amore senza un indirizzo di inoltro."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "031",
+      "theme": {
+        "en": "HEALING",
+        "it": "GUARIGIONE"
+      },
+      "poetry": [
+        {
+          "en": "Healing is not a return",
+          "it": "La guarigione non è un ritorno"
+        },
+        {
+          "en": "to who you were before the wound—",
+          "it": "a chi eri prima della ferita—"
+        },
+        {
+          "en": "that person no longer exists.",
+          "it": "quella persona non esiste più."
+        },
+        {
+          "en": "It is the slow construction",
+          "it": "È la lenta costruzione"
+        },
+        {
+          "en": "of someone new,",
+          "it": "di qualcuno di nuovo,"
+        },
+        {
+          "en": "who happens to carry the scar",
+          "it": "che porta la cicatrice"
+        },
+        {
+          "en": "not as a flaw",
+          "it": "non come un difetto"
+        },
+        {
+          "en": "but as a record of survival.",
+          "it": "ma come una traccia di sopravvivenza."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If healing builds someone new who carries the scar,",
+          "it": "Se la guarigione costruisce qualcuno di nuovo che porta la cicatrice,"
+        },
+        {
+          "en": "did the wounded self disappear—",
+          "it": "il se ferito è scomparso—"
+        },
+        {
+          "en": "or simply",
+          "it": "o semplicemente"
+        },
+        {
+          "en": "become the foundation?",
+          "it": "è diventato le fondamenta?"
+        }
+      ],
+      "quote": {
+        "en": "Healing is not the erasing of a wound, but the honoring of its scar.",
+        "it": "Guarire non è cancellare una ferita, ma onorare la sua cicatrice."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "032",
+      "theme": {
+        "en": "ACCEPTANCE",
+        "it": "ACCETTAZIONE"
+      },
+      "poetry": [
+        {
+          "en": "Acceptance is not surrender.",
+          "it": "L'accettazione non è resa."
+        },
+        {
+          "en": "It is the moment you stop",
+          "it": "È il momento in cui smetti"
+        },
+        {
+          "en": "fighting the weather",
+          "it": "di combattere il tempo"
+        },
+        {
+          "en": "and finally dress for it.",
+          "it": "e finalmente ti vesti per esso."
+        },
+        {
+          "en": "Nothing changes about the storm—",
+          "it": "Nulla cambia della tempesta—"
+        },
+        {
+          "en": "only your relationship to getting wet.",
+          "it": "solo il tuo rapporto con il bagnarsi."
+        },
+        {
+          "en": "This, too,",
+          "it": "Anche questo,"
+        },
+        {
+          "en": "is a kind of freedom.",
+          "it": "è una sorta di libertà."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If acceptance changes nothing about the storm,",
+          "it": "Se l'accettazione non cambia nulla della tempesta,"
+        },
+        {
+          "en": "is it surrender—",
+          "it": "è resa—"
+        },
+        {
+          "en": "or only",
+          "it": "o solo"
+        },
+        {
+          "en": "a different way of getting wet?",
+          "it": "un modo diverso di bagnarsi?"
+        }
+      ],
+      "quote": {
+        "en": "Acceptance is the truce you sign with what you cannot change.",
+        "it": "L'accettazione è la tregua che firmi con ciò che non puoi cambiare."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "033",
+      "theme": {
+        "en": "TRUST",
+        "it": "FIDUCIA"
+      },
+      "poetry": [
+        {
+          "en": "Trust is built the way a wall is—",
+          "it": "La fiducia si costruisce come un muro—"
+        },
+        {
+          "en": "one small, unremarkable brick at a time,",
+          "it": "un mattoncino insignificante alla volta,"
+        },
+        {
+          "en": "and lost the way a wall falls:",
+          "it": "e si perde come crolla un muro:"
+        },
+        {
+          "en": "all at once, and then forever slowly rebuilt.",
+          "it": "tutta in una volta, e poi per sempre ricostruita lentamente."
+        },
+        {
+          "en": "To trust again after breaking",
+          "it": "Fidarsi di nuovo dopo essersi spezzati"
+        },
+        {
+          "en": "is not foolishness.",
+          "it": "non è stoltezza."
+        },
+        {
+          "en": "It is the bravest arithmetic",
+          "it": "È l'aritmetica più coraggiosa"
+        },
+        {
+          "en": "the heart is asked to do.",
+          "it": "che al cuore sia chiesto di fare."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If trust is lost all at once, but rebuilt one brick at a time,",
+          "it": "Se la fiducia si perde tutta in una volta, ma si ricostruisce un mattoncino alla volta,"
+        },
+        {
+          "en": "is it the same wall—",
+          "it": "è lo stesso muro—"
+        },
+        {
+          "en": "or a new one",
+          "it": "o uno nuovo"
+        },
+        {
+          "en": "wearing the old one's name?",
+          "it": "che porta il nome del vecchio?"
+        }
+      ],
+      "quote": {
+        "en": "Trust is a door that remembers every hand that has slammed it.",
+        "it": "La fiducia è una porta che ricorda ogni mano che l'ha sbattuta."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "034",
+      "theme": {
+        "en": "LOYALTY",
+        "it": "LEALTÀ"
+      },
+      "poetry": [
+        {
+          "en": "Loyalty is not blind agreement;",
+          "it": "La lealtà non è accordo cieco;"
+        },
+        {
+          "en": "it is the willingness to stay",
+          "it": "è la volontà di restare"
+        },
+        {
+          "en": "and tell the truth",
+          "it": "e dire la verità"
+        },
+        {
+          "en": "when leaving would be simpler.",
+          "it": "quando andarsene sarebbe più semplice."
+        },
+        {
+          "en": "The loyal friend is not the one",
+          "it": "L'amico leale non è quello"
+        },
+        {
+          "en": "who says only what you want to hear,",
+          "it": "che dice solo ciò che vuoi sentire,"
+        },
+        {
+          "en": "but the one who remains",
+          "it": "ma quello che resta"
+        },
+        {
+          "en": "after saying what you needed to.",
+          "it": "dopo aver detto ciò di cui avevi bisogno."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the loyal friend says what you needed, not what you wanted,",
+          "it": "Se l'amico leale dice ciò di cui hai bisogno, non ciò che vuoi,"
+        },
+        {
+          "en": "is loyalty comfort—",
+          "it": "la lealtà è conforto—"
+        },
+        {
+          "en": "or the harder gift",
+          "it": "o il dono più difficile"
+        },
+        {
+          "en": "of staying to tell the truth?",
+          "it": "del restare per dire la verità?"
+        }
+      ],
+      "quote": {
+        "en": "Loyalty is the sentence that stays even after the applause has left.",
+        "it": "La lealtà è la frase che resta anche dopo che gli applausi se ne sono andati."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "035",
+      "theme": {
+        "en": "HONESTY",
+        "it": "ONESTÀ"
+      },
+      "poetry": [
+        {
+          "en": "Honesty is a room",
+          "it": "L'onestà è una stanza"
+        },
+        {
+          "en": "with no false walls—",
+          "it": "senza muri falsi—"
+        },
+        {
+          "en": "harder to build,",
+          "it": "più difficile da costruire,"
+        },
+        {
+          "en": "easier to live in.",
+          "it": "più facile in cui vivere."
+        },
+        {
+          "en": "The lie requires maintenance;",
+          "it": "La bugia richiede manutenzione;"
+        },
+        {
+          "en": "the truth, once spoken, needs nothing more from you",
+          "it": "la verità, una volta detta, non ha più bisogno di nulla da te"
+        },
+        {
+          "en": "than the courage",
+          "it": "se non del coraggio"
+        },
+        {
+          "en": "it took to say it.",
+          "it": "che ci è voluto per dirla."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the lie requires constant maintenance,",
+          "it": "Se la bugia richiede continua manutenzione,"
+        },
+        {
+          "en": "is honesty simply the truth—",
+          "it": "l'onestà è semplicemente la verità—"
+        },
+        {
+          "en": "or the relief",
+          "it": "o il sollievo"
+        },
+        {
+          "en": "of finally putting the work down?",
+          "it": "di aver finalmente posato il lavoro?"
+        }
+      ],
+      "quote": {
+        "en": "Honesty is expensive, but it is the only currency that never devalues.",
+        "it": "L'onestà è cara, ma è l'unica moneta che non si svaluta mai."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "036",
+      "theme": {
+        "en": "EMPATHY",
+        "it": "EMPATIA"
+      },
+      "poetry": [
+        {
+          "en": "Empathy is the imagination",
+          "it": "L'empatia è l'immaginazione"
+        },
+        {
+          "en": "turned toward another's weather—",
+          "it": "rivolta verso il tempo dell'altro—"
+        },
+        {
+          "en": "the discipline of feeling,",
+          "it": "la disciplina di sentire,"
+        },
+        {
+          "en": "for a moment, someone else's rain",
+          "it": "per un momento, la pioggia di qualcun altro"
+        },
+        {
+          "en": "as if it fell on you.",
+          "it": "come se cadesse su di te."
+        },
+        {
+          "en": "It does not solve anything.",
+          "it": "Non risolve nulla."
+        },
+        {
+          "en": "It simply insists",
+          "it": "Si limita a insistere"
+        },
+        {
+          "en": "that no one suffers unaccompanied.",
+          "it": "che nessuno soffra senza compagnia."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If empathy insists no one suffers unaccompanied,",
+          "it": "Se l'empatia insiste che nessuno soffra senza compagnia,"
+        },
+        {
+          "en": "does it solve the suffering—",
+          "it": "risolve la sofferenza—"
+        },
+        {
+          "en": "or only ensure",
+          "it": "o solo garantisce"
+        },
+        {
+          "en": "it is no longer carried alone?",
+          "it": "che non sia più portata da soli?"
+        }
+      ],
+      "quote": {
+        "en": "Empathy is the umbrella you hold over someone else's storm.",
+        "it": "L'empatia è l'ombrello che tieni sopra la tempesta di qualcun altro."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "037",
+      "theme": {
+        "en": "MINDFULNESS",
+        "it": "CONSAPEVOLEZZA"
+      },
+      "poetry": [
+        {
+          "en": "Mindfulness is not emptying the mind",
+          "it": "La consapevolezza non è svuotare la mente"
+        },
+        {
+          "en": "but finally noticing what fills it—",
+          "it": "ma finalmente notare ciò che la riempie—"
+        },
+        {
+          "en": "the tea going cold,",
+          "it": "il tè che si raffredda,"
+        },
+        {
+          "en": "the bird outside repeating its one true sentence,",
+          "it": "l'uccello fuori che ripete la sua unica frase vera,"
+        },
+        {
+          "en": "the breath that has been",
+          "it": "il respiro che è arrivato"
+        },
+        {
+          "en": "arriving and leaving, unthanked, all along.",
+          "it": "e se n'è andato, senza ringraziamenti, per tutto il tempo."
+        },
+        {
+          "en": "This moment",
+          "it": "Questo momento"
+        },
+        {
+          "en": "was always enough.",
+          "it": "era sempre stato sufficiente."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the breath has been arriving and leaving, unthanked, all along,",
+          "it": "Se il respiro è arrivato e se n'è andato, senza ringraziamenti, per tutto il tempo,"
+        },
+        {
+          "en": "was it always enough—",
+          "it": "è sempre stato sufficiente—"
+        },
+        {
+          "en": "or did it only become enough",
+          "it": "o è diventato sufficiente soltanto"
+        },
+        {
+          "en": "the moment you noticed?",
+          "it": "nel momento in cui l'hai notato?"
+        }
+      ],
+      "quote": {
+        "en": "Mindfulness is the art of arriving on time to your own life.",
+        "it": "La consapevolezza è l'arte di arrivare in tempo alla propria vita."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "038",
+      "theme": {
+        "en": "PRESENCE",
+        "it": "PRESENZA"
+      },
+      "poetry": [
+        {
+          "en": "To be present is to give someone",
+          "it": "Essere presente è dare a qualcuno"
+        },
+        {
+          "en": "the rarest gift left in a distracted age:",
+          "it": "il dono più raro rimasto in un'epoca distratta:"
+        },
+        {
+          "en": "your full attention,",
+          "it": "la tua piena attenzione,"
+        },
+        {
+          "en": "undivided, unhurried, unrehearsed.",
+          "it": "indivisa, senza fretta, non preparata."
+        },
+        {
+          "en": "It costs nothing",
+          "it": "Non costa nulla"
+        },
+        {
+          "en": "and it is nearly extinct.",
+          "it": "ed è quasi estinta."
+        },
+        {
+          "en": "Practice it,",
+          "it": "Esercitala,"
+        },
+        {
+          "en": "and watch what it resurrects in others.",
+          "it": "e osserva ciò che risveglia negli altri."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If full attention is a gift nearly extinct,",
+          "it": "Se la piena attenzione è un dono quasi estinto,"
+        },
+        {
+          "en": "what exactly are we spending instead of it—",
+          "it": "cosa stiamo spendendo esattamente al suo posto—"
+        },
+        {
+          "en": "and where,",
+          "it": "e dove,"
+        },
+        {
+          "en": "does it go?",
+          "it": "va a finire?"
+        }
+      ],
+      "quote": {
+        "en": "Presence is the rarest gift, because it cannot be wrapped, only given.",
+        "it": "La presenza è il dono più raro, perché non può essere incartato, solo donato."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "039",
+      "theme": {
+        "en": "BALANCE",
+        "it": "EQUILIBRIO"
+      },
+      "poetry": [
+        {
+          "en": "Balance is not a fixed point",
+          "it": "L'equilibrio non è un punto fisso"
+        },
+        {
+          "en": "reached once and kept forever;",
+          "it": "raggiunto una volta e tenuto per sempre;"
+        },
+        {
+          "en": "it is a thousand small corrections,",
+          "it": "è mille piccole correzioni,"
+        },
+        {
+          "en": "like a tightrope walker's arms,",
+          "it": "come le braccia del funambolo,"
+        },
+        {
+          "en": "never still,",
+          "it": "mai ferme,"
+        },
+        {
+          "en": "always answering the wind.",
+          "it": "sempre a rispondere al vento."
+        },
+        {
+          "en": "Stillness is the illusion.",
+          "it": "La quiete è l'illusione."
+        },
+        {
+          "en": "Balance is the motion that creates it.",
+          "it": "L'equilibrio è il movimento che la crea."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If stillness is only an illusion balance creates,",
+          "it": "Se la quiete è solo un'illusione che l'equilibrio crea,"
+        },
+        {
+          "en": "is balance ever truly found—",
+          "it": "l'equilibrio viene mai davvero trovato—"
+        },
+        {
+          "en": "or only ever kept,",
+          "it": "o solo mantenuto,"
+        },
+        {
+          "en": "moment to moment?",
+          "it": "momento per momento?"
+        }
+      ],
+      "quote": {
+        "en": "Balance is not stillness. It is a thousand corrections mistaken for calm.",
+        "it": "L'equilibrio non è quiete. È mille correzioni scambiate per calma."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "040",
+      "theme": {
+        "en": "HARMONY",
+        "it": "ARMONIA"
+      },
+      "poetry": [
+        {
+          "en": "Harmony is not the absence of difference",
+          "it": "L'armonia non è l'assenza di differenza"
+        },
+        {
+          "en": "but its arrangement—",
+          "it": "ma il suo arrangiamento—"
+        },
+        {
+          "en": "the orchestra does not silence",
+          "it": "l'orchestra non zittisce"
+        },
+        {
+          "en": "the oboe to favor the violin;",
+          "it": "l'oboe per favorire il violino;"
+        },
+        {
+          "en": "it finds the measure",
+          "it": "trova la misura"
+        },
+        {
+          "en": "where both are necessary.",
+          "it": "dove entrambi sono necessari."
+        },
+        {
+          "en": "So too a life,",
+          "it": "Così una vita,"
+        },
+        {
+          "en": "so too a world.",
+          "it": "così un mondo."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the orchestra needs the oboe as much as the violin,",
+          "it": "Se l'orchestra ha bisogno dell'oboe quanto del violino,"
+        },
+        {
+          "en": "is harmony sameness—",
+          "it": "l'armonia è uniformità—"
+        },
+        {
+          "en": "or the measure",
+          "it": "o la misura"
+        },
+        {
+          "en": "where every difference is necessary?",
+          "it": "dove ogni differenza è necessaria?"
+        }
+      ],
+      "quote": {
+        "en": "Harmony is difference that has learned to listen.",
+        "it": "L'armonia è una differenza che ha imparato ad ascoltare."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "041",
+      "theme": {
+        "en": "NATURE",
+        "it": "NATURA"
+      },
+      "poetry": [
+        {
+          "en": "Nature keeps no calendar",
+          "it": "La natura non tiene calendario"
+        },
+        {
+          "en": "of gratitude or apology.",
+          "it": "di gratitudine o di scuse."
+        },
+        {
+          "en": "It simply continues,",
+          "it": "Semplicemente continua,"
+        },
+        {
+          "en": "indifferent and immense,",
+          "it": "indifferente e immensa,"
+        },
+        {
+          "en": "reminding us, gently,",
+          "it": "ricordandoci, con dolcezza,"
+        },
+        {
+          "en": "that we are guests here,",
+          "it": "che qui siamo ospiti,"
+        },
+        {
+          "en": "not landlords—",
+          "it": "non padroni—"
+        },
+        {
+          "en": "a distinction worth remembering.",
+          "it": "una distinzione che vale la pena ricordare."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If nature keeps no calendar of gratitude or apology,",
+          "it": "Se la natura non tiene calendario di gratitudine o di scuse,"
+        },
+        {
+          "en": "are we guests here—",
+          "it": "siamo ospiti qui—"
+        },
+        {
+          "en": "or simply",
+          "it": "o semplicemente"
+        },
+        {
+          "en": "the only ones keeping score?",
+          "it": "gli unici che tengono il punteggio?"
+        }
+      ],
+      "quote": {
+        "en": "Nature does not perform for an audience it never invited.",
+        "it": "La natura non si esibisce per un pubblico che non ha mai invitato."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "042",
+      "theme": {
+        "en": "THE OCEAN",
+        "it": "L'OCEANO"
+      },
+      "poetry": [
+        {
+          "en": "The ocean does not perform its vastness",
+          "it": "L'oceano non esegue la propria vastità"
+        },
+        {
+          "en": "for an audience;",
+          "it": "per un pubblico;"
+        },
+        {
+          "en": "it simply is vast,",
+          "it": "è semplicemente vasto,"
+        },
+        {
+          "en": "the way truth is,",
+          "it": "come lo è la verità,"
+        },
+        {
+          "en": "regardless of who arrives to witness it.",
+          "it": "a prescindere da chi arrivi ad assistere."
+        },
+        {
+          "en": "Stand at its edge",
+          "it": "Fermati sul suo bordo"
+        },
+        {
+          "en": "and feel how small,",
+          "it": "e senti quanto piccolo,"
+        },
+        {
+          "en": "and how welcome, you are.",
+          "it": "e quanto benvenuto, tu sia."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the ocean is vast whether or not anyone arrives to witness it,",
+          "it": "Se l'oceano è vasto che qualcuno arrivi o meno ad assistere,"
+        },
+        {
+          "en": "does its vastness depend on you—",
+          "it": "la sua vastità dipende da te—"
+        },
+        {
+          "en": "or only on your willingness",
+          "it": "o solo dalla tua disponibilità"
+        },
+        {
+          "en": "to feel small beside it?",
+          "it": "a sentirti piccolo accanto ad essa?"
+        }
+      ],
+      "quote": {
+        "en": "The ocean does not need your awe to remain vast.",
+        "it": "L'oceano non ha bisogno della tua meraviglia per restare vasto."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "043",
+      "theme": {
+        "en": "MOUNTAINS",
+        "it": "MONTAGNE"
+      },
+      "poetry": [
+        {
+          "en": "Mountains do not rush.",
+          "it": "Le montagne non hanno fretta."
+        },
+        {
+          "en": "They arrived by patience,",
+          "it": "Sono arrivate con la pazienza,"
+        },
+        {
+          "en": "one immeasurable year",
+          "it": "un anno incommensurabile"
+        },
+        {
+          "en": "pressed on top of another,",
+          "it": "premuto su un altro,"
+        },
+        {
+          "en": "until the ground itself",
+          "it": "finché il terreno stesso"
+        },
+        {
+          "en": "had no choice but to rise.",
+          "it": "non ha avuto altra scelta che sollevarsi."
+        },
+        {
+          "en": "There are things in us",
+          "it": "Ci sono cose in noi"
+        },
+        {
+          "en": "that grow the same slow way.",
+          "it": "che crescono con la stessa lentezza."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If mountains rise by patience, one year pressed upon another,",
+          "it": "Se le montagne sorgono con la pazienza, un anno premuto su un altro,"
+        },
+        {
+          "en": "is their height an achievement—",
+          "it": "la loro altezza è un risultato—"
+        },
+        {
+          "en": "or simply",
+          "it": "o semplicemente"
+        },
+        {
+          "en": "what time looks like from far enough away?",
+          "it": "ciò che il tempo sembra da abbastanza lontano?"
+        }
+      ],
+      "quote": {
+        "en": "Mountains do not rise. They simply refuse to stop.",
+        "it": "Le montagne non sorgono. Semplicemente si rifiutano di fermarsi."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "044",
+      "theme": {
+        "en": "THE SKY",
+        "it": "IL CIELO"
+      },
+      "poetry": [
+        {
+          "en": "The sky holds no memory",
+          "it": "Il cielo non conserva memoria"
+        },
+        {
+          "en": "of yesterday's clouds,",
+          "it": "delle nuvole di ieri,"
+        },
+        {
+          "en": "no grudge against the storm",
+          "it": "nessun rancore verso la tempesta"
+        },
+        {
+          "en": "that passed through it last week.",
+          "it": "che lo ha attraversato la settimana scorsa."
+        },
+        {
+          "en": "It clears, always,",
+          "it": "Si schiarisce, sempre,"
+        },
+        {
+          "en": "without needing to be forgiven.",
+          "it": "senza bisogno di essere perdonato."
+        },
+        {
+          "en": "Perhaps this is why",
+          "it": "Forse è per questo"
+        },
+        {
+          "en": "we keep looking up.",
+          "it": "che continuiamo a guardare in alto."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the sky clears without needing to be forgiven,",
+          "it": "Se il cielo si schiarisce senza bisogno di essere perdonato,"
+        },
+        {
+          "en": "does it hold no memory of the storm—",
+          "it": "non conserva memoria della tempesta—"
+        },
+        {
+          "en": "or does it simply choose",
+          "it": "o semplicemente sceglie"
+        },
+        {
+          "en": "not to keep one?",
+          "it": "di non conservarne?"
+        }
+      ],
+      "quote": {
+        "en": "The sky clears without ever asking to be thanked.",
+        "it": "Il cielo si schiarisce senza mai chiedere di essere ringraziato."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "045",
+      "theme": {
+        "en": "STARS",
+        "it": "STELLE"
+      },
+      "poetry": [
+        {
+          "en": "The light you see tonight",
+          "it": "La luce che vedi stanotte"
+        },
+        {
+          "en": "left its star before you were born—",
+          "it": "ha lasciato la sua stella prima che tu nascessi—"
+        },
+        {
+          "en": "you are, in truth,",
+          "it": "sei, in verità,"
+        },
+        {
+          "en": "always looking at the past,",
+          "it": "sempre a guardare il passato,"
+        },
+        {
+          "en": "and calling it",
+          "it": "e lo chiami"
+        },
+        {
+          "en": "the sky.",
+          "it": "cielo."
+        },
+        {
+          "en": "Everything luminous",
+          "it": "Tutto ciò che è luminoso"
+        },
+        {
+          "en": "takes time to reach us.",
+          "it": "impiega tempo a raggiungerci."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the light you see left its star before you were born,",
+          "it": "Se la luce che vedi ha lasciato la sua stella prima che tu nascessi,"
+        },
+        {
+          "en": "are you watching the present—",
+          "it": "stai guardando il presente—"
+        },
+        {
+          "en": "or calling something very old",
+          "it": "o chiamando qualcosa di molto vecchio"
+        },
+        {
+          "en": "by a newer name?",
+          "it": "con un nome più nuovo?"
+        }
+      ],
+      "quote": {
+        "en": "A star is proof that light outlives its source.",
+        "it": "Una stella è la prova che la luce sopravvive alla propria fonte."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "046",
+      "theme": {
+        "en": "THE MOON",
+        "it": "LA LUNA"
+      },
+      "poetry": [
+        {
+          "en": "The moon does not create its own light;",
+          "it": "La luna non crea la propria luce;"
+        },
+        {
+          "en": "it only remembers the sun",
+          "it": "ricorda solo il sole"
+        },
+        {
+          "en": "and gives that memory back to us",
+          "it": "e ci restituisce quella memoria"
+        },
+        {
+          "en": "in a softer register—",
+          "it": "in un registro più dolce—"
+        },
+        {
+          "en": "proof that reflection",
+          "it": "prova che il riflesso"
+        },
+        {
+          "en": "is its own kind of glowing,",
+          "it": "è una sua forma di splendore,"
+        },
+        {
+          "en": "that borrowed light",
+          "it": "che la luce in prestito"
+        },
+        {
+          "en": "can still guide a ship home.",
+          "it": "può ancora guidare una nave a casa."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the moon only reflects a light that isn't its own,",
+          "it": "Se la luna riflette solo una luce che non è sua,"
+        },
+        {
+          "en": "is its glow any less real—",
+          "it": "il suo bagliore è meno reale—"
+        },
+        {
+          "en": "or does borrowed light",
+          "it": "o anche la luce presa in prestito"
+        },
+        {
+          "en": "still count as shining?",
+          "it": "conta come splendore?"
+        }
+      ],
+      "quote": {
+        "en": "The moon proves that borrowed light can still guide a ship home.",
+        "it": "La luna dimostra che la luce in prestito può ancora guidare una nave a casa."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "047",
+      "theme": {
+        "en": "THE SUN",
+        "it": "IL SOLE"
+      },
+      "poetry": [
+        {
+          "en": "The sun asks nothing",
+          "it": "Il sole non chiede nulla"
+        },
+        {
+          "en": "in return for rising.",
+          "it": "in cambio del suo sorgere."
+        },
+        {
+          "en": "It does not wait",
+          "it": "Non attende"
+        },
+        {
+          "en": "for the world to deserve it.",
+          "it": "che il mondo lo meriti."
+        },
+        {
+          "en": "Give like that,",
+          "it": "Dona così,"
+        },
+        {
+          "en": "if you can—",
+          "it": "se puoi—"
+        },
+        {
+          "en": "without conditions,",
+          "it": "senza condizioni,"
+        },
+        {
+          "en": "without needing to be watched.",
+          "it": "senza bisogno di essere guardato."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the sun rises without waiting to be deserved,",
+          "it": "Se il sole sorge senza attendere di essere meritato,"
+        },
+        {
+          "en": "is its giving generous—",
+          "it": "il suo donare è generoso—"
+        },
+        {
+          "en": "or simply",
+          "it": "o semplicemente"
+        },
+        {
+          "en": "what it cannot help but do?",
+          "it": "ciò che non può fare a meno di fare?"
+        }
+      ],
+      "quote": {
+        "en": "The sun asks nothing in return for rising.",
+        "it": "Il sole non chiede nulla in cambio del suo sorgere."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "048",
+      "theme": {
+        "en": "SPRING",
+        "it": "PRIMAVERA"
+      },
+      "poetry": [
+        {
+          "en": "Spring does not apologize",
+          "it": "La primavera non si scusa"
+        },
+        {
+          "en": "for what winter took.",
+          "it": "per ciò che l'inverno ha portato via."
+        },
+        {
+          "en": "It simply begins again,",
+          "it": "Semplicemente ricomincia,"
+        },
+        {
+          "en": "green and unbothered by history,",
+          "it": "verde e indifferente alla storia,"
+        },
+        {
+          "en": "proving, every year,",
+          "it": "dimostrando, ogni anno,"
+        },
+        {
+          "en": "that endings are rarely final—",
+          "it": "che le fini raramente sono definitive—"
+        },
+        {
+          "en": "they are, more often,",
+          "it": "sono, più spesso,"
+        },
+        {
+          "en": "just the soil settling.",
+          "it": "solo il terreno che si assesta."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If spring begins again without apologizing for what winter took,",
+          "it": "Se la primavera ricomincia senza scusarsi di ciò che l'inverno ha portato via,"
+        },
+        {
+          "en": "is forgetting required—",
+          "it": "dimenticare è necessario—"
+        },
+        {
+          "en": "or is beginning again",
+          "it": "o ricominciare è già"
+        },
+        {
+          "en": "a kind of forgiveness on its own?",
+          "it": "una forma di perdono?"
+        }
+      ],
+      "quote": {
+        "en": "Spring is the world's oldest argument against endings.",
+        "it": "La primavera è la più antica argomentazione del mondo contro le fini."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "049",
+      "theme": {
+        "en": "AUTUMN",
+        "it": "AUTUNNO"
+      },
+      "poetry": [
+        {
+          "en": "Autumn is the only season",
+          "it": "L'autunno è l'unica stagione"
+        },
+        {
+          "en": "that lets go on purpose,",
+          "it": "che lascia andare di proposito,"
+        },
+        {
+          "en": "turning brilliant",
+          "it": "diventando brillante"
+        },
+        {
+          "en": "in the very act of releasing.",
+          "it": "proprio nell'atto di rilasciare."
+        },
+        {
+          "en": "There is a lesson here",
+          "it": "C'è qui una lezione"
+        },
+        {
+          "en": "about endings we resist:",
+          "it": "sulle fini che resistiamo:"
+        },
+        {
+          "en": "they can be beautiful,",
+          "it": "possono essere belle,"
+        },
+        {
+          "en": "if we let them be.",
+          "it": "se le lasciamo essere."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If autumn turns brilliant in the very act of releasing,",
+          "it": "Se l'autunno diventa brillante proprio nell'atto di rilasciare,"
+        },
+        {
+          "en": "is letting go a loss—",
+          "it": "lasciar andare è una perdita—"
+        },
+        {
+          "en": "or the one moment",
+          "it": "o l'unico momento"
+        },
+        {
+          "en": "something becomes most beautiful?",
+          "it": "in cui qualcosa diventa più bello?"
+        }
+      ],
+      "quote": {
+        "en": "Autumn is the one season that turns brilliant while releasing everything.",
+        "it": "L'autunno è l'unica stagione che diventa brillante mentre lascia andare tutto."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "050",
+      "theme": {
+        "en": "WINTER",
+        "it": "INVERNO"
+      },
+      "poetry": [
+        {
+          "en": "Winter is not death;",
+          "it": "L'inverno non è morte;"
+        },
+        {
+          "en": "it is rest wearing a colder coat.",
+          "it": "è riposo che indossa un soprabito più freddo."
+        },
+        {
+          "en": "Beneath the frozen ground",
+          "it": "Sotto il terreno ghiacciato"
+        },
+        {
+          "en": "the roots are still working,",
+          "it": "le radici lavorano ancora,"
+        },
+        {
+          "en": "patient, invisible,",
+          "it": "pazienti, invisibili,"
+        },
+        {
+          "en": "preparing what spring will later claim as its own idea.",
+          "it": "preparando ciò che la primavera rivendicherà poi come propria idea."
+        },
+        {
+          "en": "Stillness, too,",
+          "it": "Anche la quiete,"
+        },
+        {
+          "en": "is a form of labor.",
+          "it": "è una forma di lavoro."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the roots keep working beneath the frozen ground,",
+          "it": "Se le radici continuano a lavorare sotto il terreno ghiacciato,"
+        },
+        {
+          "en": "is winter rest—",
+          "it": "l'inverno è riposo—"
+        },
+        {
+          "en": "or simply labor",
+          "it": "o semplicemente lavoro"
+        },
+        {
+          "en": "wearing a quieter coat?",
+          "it": "che indossa un soprabito più silenzioso?"
+        }
+      ],
+      "quote": {
+        "en": "Winter is not absence. It is labor no one can see.",
+        "it": "L'inverno non è assenza. È lavoro che nessuno può vedere."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "051",
+      "theme": {
+        "en": "SUMMER",
+        "it": "ESTATE"
+      },
+      "poetry": [
+        {
+          "en": "Summer teaches abundance—",
+          "it": "L'estate insegna l'abbondanza—"
+        },
+        {
+          "en": "the long light, the open door,",
+          "it": "la luce lunga, la porta aperta,"
+        },
+        {
+          "en": "the sense that there is,",
+          "it": "la sensazione che ci sia,"
+        },
+        {
+          "en": "for once, enough time.",
+          "it": "per una volta, abbastanza tempo."
+        },
+        {
+          "en": "Take what it offers",
+          "it": "Prendi ciò che offre"
+        },
+        {
+          "en": "without guilt.",
+          "it": "senza colpa."
+        },
+        {
+          "en": "Seasons of ease",
+          "it": "Le stagioni di agio"
+        },
+        {
+          "en": "are not owed an apology.",
+          "it": "non devono scuse a nessuno."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If summer offers abundance without asking for guilt in return,",
+          "it": "Se l'estate offre abbondanza senza chiedere colpa in cambio,"
+        },
+        {
+          "en": "must ease always be earned—",
+          "it": "l'agio deve essere sempre guadagnato—"
+        },
+        {
+          "en": "or can it simply",
+          "it": "o può semplicemente"
+        },
+        {
+          "en": "be received?",
+          "it": "essere ricevuto?"
+        }
+      ],
+      "quote": {
+        "en": "Summer teaches that ease is not a debt owed an explanation.",
+        "it": "L'estate insegna che l'agio non è un debito che chiede spiegazioni."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "052",
+      "theme": {
+        "en": "RAIN",
+        "it": "PIOGGIA"
+      },
+      "poetry": [
+        {
+          "en": "Rain falls on the willing and unwilling alike,",
+          "it": "La pioggia cade su disposti e restii allo stesso modo,"
+        },
+        {
+          "en": "the garden and the grave,",
+          "it": "sul giardino e sulla tomba,"
+        },
+        {
+          "en": "without preference,",
+          "it": "senza preferenze,"
+        },
+        {
+          "en": "without malice.",
+          "it": "senza malizia."
+        },
+        {
+          "en": "There is mercy in this impartiality—",
+          "it": "C'è misericordia in questa imparzialità—"
+        },
+        {
+          "en": "the sky does not audit who deserves relief.",
+          "it": "il cielo non verifica chi meriti sollievo."
+        },
+        {
+          "en": "It simply,",
+          "it": "Semplicemente,"
+        },
+        {
+          "en": "generously, pours.",
+          "it": "generosamente, versa."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If rain falls on the willing and unwilling alike,",
+          "it": "Se la pioggia cade su disposti e restii allo stesso modo,"
+        },
+        {
+          "en": "is that mercy—",
+          "it": "è misericordia—"
+        },
+        {
+          "en": "or only",
+          "it": "o solo"
+        },
+        {
+          "en": "the sky's refusal to keep a ledger?",
+          "it": "il rifiuto del cielo di tenere un registro?"
+        }
+      ],
+      "quote": {
+        "en": "Rain does not choose who deserves relief. It simply pours.",
+        "it": "La pioggia non sceglie chi meriti sollievo. Semplicemente versa."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "053",
+      "theme": {
+        "en": "FIRE",
+        "it": "FUOCO"
+      },
+      "poetry": [
+        {
+          "en": "Fire destroys and warms",
+          "it": "Il fuoco distrugge e riscalda"
+        },
+        {
+          "en": "with the same tongue,",
+          "it": "con la stessa lingua,"
+        },
+        {
+          "en": "and asks us to be wise",
+          "it": "e ci chiede di essere saggi"
+        },
+        {
+          "en": "about how close we stand.",
+          "it": "su quanto vicini stare."
+        },
+        {
+          "en": "Passion is like this:",
+          "it": "La passione è così:"
+        },
+        {
+          "en": "the very thing that lights the room",
+          "it": "la stessa cosa che illumina la stanza"
+        },
+        {
+          "en": "can burn it down",
+          "it": "può bruciarla"
+        },
+        {
+          "en": "if left untended.",
+          "it": "se lasciata senza cura."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the same flame that warms a house can also burn it down,",
+          "it": "Se la stessa fiamma che riscalda una casa può anche bruciarla,"
+        },
+        {
+          "en": "is fire dangerous—",
+          "it": "il fuoco è pericoloso—"
+        },
+        {
+          "en": "or only ever",
+          "it": "o solo sempre"
+        },
+        {
+          "en": "as dangerous as our distance from it?",
+          "it": "pericoloso quanto la nostra distanza da esso?"
+        }
+      ],
+      "quote": {
+        "en": "Fire is passion that has not yet decided what to become.",
+        "it": "Il fuoco è una passione che non ha ancora deciso cosa diventare."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "054",
+      "theme": {
+        "en": "WATER",
+        "it": "ACQUA"
+      },
+      "poetry": [
+        {
+          "en": "Water takes the shape",
+          "it": "L'acqua prende la forma"
+        },
+        {
+          "en": "of whatever holds it,",
+          "it": "di ciò che la contiene,"
+        },
+        {
+          "en": "and yet remains,",
+          "it": "eppure resta,"
+        },
+        {
+          "en": "undeniably, itself.",
+          "it": "innegabilmente, se stessa."
+        },
+        {
+          "en": "There is a way to move through the world",
+          "it": "C'è un modo di muoversi nel mondo"
+        },
+        {
+          "en": "like this—",
+          "it": "così—"
+        },
+        {
+          "en": "adaptable without dissolving,",
+          "it": "adattabile senza dissolversi,"
+        },
+        {
+          "en": "yielding without disappearing.",
+          "it": "cedevole senza scomparire."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If water takes the shape of whatever holds it,",
+          "it": "Se l'acqua prende la forma di ciò che la contiene,"
+        },
+        {
+          "en": "does it lose itself—",
+          "it": "perde se stessa—"
+        },
+        {
+          "en": "or simply prove",
+          "it": "o semplicemente dimostra"
+        },
+        {
+          "en": "that shape was never the self to begin with?",
+          "it": "che la forma non è mai stata il se?"
+        }
+      ],
+      "quote": {
+        "en": "Water bends to everything and dissolves into nothing.",
+        "it": "L'acqua si piega a tutto e non si dissolve in nulla."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "055",
+      "theme": {
+        "en": "EARTH",
+        "it": "TERRA"
+      },
+      "poetry": [
+        {
+          "en": "The earth turns compost into orchard,",
+          "it": "La terra trasforma il compost in frutteto,"
+        },
+        {
+          "en": "asks nothing of the seed",
+          "it": "non chiede nulla al seme"
+        },
+        {
+          "en": "but its willingness to break open.",
+          "it": "se non la disponibilità a spaccarsi."
+        },
+        {
+          "en": "We are made of the same patient chemistry—",
+          "it": "Siamo fatti della stessa paziente chimica—"
+        },
+        {
+          "en": "our failures, too,",
+          "it": "anche i nostri fallimenti,"
+        },
+        {
+          "en": "can become soil,",
+          "it": "possono diventare terra,"
+        },
+        {
+          "en": "if we let them",
+          "it": "se li lasciamo"
+        },
+        {
+          "en": "decompose into wisdom.",
+          "it": "decomporsi in saggezza."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the earth turns compost into orchard without complaint,",
+          "it": "Se la terra trasforma il compost in frutteto senza lamentarsi,"
+        },
+        {
+          "en": "is failure the end of something—",
+          "it": "il fallimento è la fine di qualcosa—"
+        },
+        {
+          "en": "or only",
+          "it": "o solo"
+        },
+        {
+          "en": "the beginning of soil?",
+          "it": "l'inizio del terreno?"
+        }
+      ],
+      "quote": {
+        "en": "The earth asks only that the seed be willing to break.",
+        "it": "La terra chiede solo che il seme sia disposto a spaccarsi."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "056",
+      "theme": {
+        "en": "WIND",
+        "it": "VENTO"
+      },
+      "poetry": [
+        {
+          "en": "The wind is invisible",
+          "it": "Il vento è invisibile"
+        },
+        {
+          "en": "and undeniable—",
+          "it": "e innegabile—"
+        },
+        {
+          "en": "you know it only",
+          "it": "lo conosci solo"
+        },
+        {
+          "en": "by what it moves.",
+          "it": "da ciò che muove."
+        },
+        {
+          "en": "Perhaps this is how",
+          "it": "Forse è così"
+        },
+        {
+          "en": "the soul is known as well:",
+          "it": "che si conosce anche l'anima:"
+        },
+        {
+          "en": "not directly,",
+          "it": "non direttamente,"
+        },
+        {
+          "en": "but by its visible effects on everything nearby.",
+          "it": "ma dai suoi effetti visibili su tutto ciò che le è vicino."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the wind is known only by what it moves,",
+          "it": "Se il vento si conosce solo da ciò che muove,"
+        },
+        {
+          "en": "can something be real without ever being seen—",
+          "it": "qualcosa può essere reale senza essere mai visto—"
+        },
+        {
+          "en": "or is being felt,",
+          "it": "o essere sentito,"
+        },
+        {
+          "en": "enough?",
+          "it": "è sufficiente?"
+        }
+      ],
+      "quote": {
+        "en": "The wind is known only by the trees that bow to it.",
+        "it": "Il vento si conosce solo dagli alberi che si piegano a lui."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "057",
+      "theme": {
+        "en": "LIGHT",
+        "it": "LUCE"
+      },
+      "poetry": [
+        {
+          "en": "Light does not fight the darkness;",
+          "it": "La luce non combatte l'oscurità;"
+        },
+        {
+          "en": "it simply enters, and the darkness",
+          "it": "semplicemente entra, e l'oscurità"
+        },
+        {
+          "en": "has no argument left to make.",
+          "it": "non ha più argomenti da fare."
+        },
+        {
+          "en": "This is how truth often works too—",
+          "it": "Così spesso funziona anche la verità—"
+        },
+        {
+          "en": "not through conquest,",
+          "it": "non attraverso la conquista,"
+        },
+        {
+          "en": "but through arrival.",
+          "it": "ma attraverso l'arrivo."
+        },
+        {
+          "en": "Just show up,",
+          "it": "Limitati ad apparire,"
+        },
+        {
+          "en": "and see what dissolves.",
+          "it": "e osserva cosa si dissolve."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If light does not fight the darkness but simply enters,",
+          "it": "Se la luce non combatte l'oscurità ma semplicemente entra,"
+        },
+        {
+          "en": "is darkness defeated—",
+          "it": "l'oscurità è sconfitta—"
+        },
+        {
+          "en": "or does it just run out",
+          "it": "o le finiscono soltanto"
+        },
+        {
+          "en": "of reasons to stay?",
+          "it": "i motivi per restare?"
+        }
+      ],
+      "quote": {
+        "en": "Light does not fight. It only shows up.",
+        "it": "La luce non combatte. Si limita ad apparire."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "058",
+      "theme": {
+        "en": "DARKNESS",
+        "it": "OSCURITÀ"
+      },
+      "poetry": [
+        {
+          "en": "Darkness is not the enemy of light",
+          "it": "L'oscurità non è il nemico della luce"
+        },
+        {
+          "en": "but its necessary rehearsal space—",
+          "it": "ma il suo necessario spazio di prova—"
+        },
+        {
+          "en": "the seed germinates",
+          "it": "il seme germoglia"
+        },
+        {
+          "en": "in soil with no sun at all,",
+          "it": "nella terra che non vede il sole,"
+        },
+        {
+          "en": "and the deepest sleep",
+          "it": "e il sonno più profondo"
+        },
+        {
+          "en": "does its finest repair unlit.",
+          "it": "fa la sua migliore riparazione al buio."
+        },
+        {
+          "en": "Do not fear the dark hours.",
+          "it": "Non temere le ore scure."
+        },
+        {
+          "en": "Something in you may be growing there.",
+          "it": "Qualcosa in te potrebbe star crescendo lì."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the deepest sleep does its finest repair unlit,",
+          "it": "Se il sonno più profondo fa la sua migliore riparazione al buio,"
+        },
+        {
+          "en": "is darkness the opposite of growth—",
+          "it": "l'oscurità è l'opposto della crescita—"
+        },
+        {
+          "en": "or simply",
+          "it": "o semplicemente"
+        },
+        {
+          "en": "the room growth prefers?",
+          "it": "la stanza che la crescita preferisce?"
+        }
+      ],
+      "quote": {
+        "en": "Darkness is not the enemy of growth. It is its rehearsal room.",
+        "it": "L'oscurità non è il nemico della crescita. È la sua sala prove."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "059",
+      "theme": {
+        "en": "DAWN",
+        "it": "ALBA"
+      },
+      "poetry": [
+        {
+          "en": "Dawn arrives without needing",
+          "it": "L'alba arriva senza bisogno"
+        },
+        {
+          "en": "to prove the night was wrong.",
+          "it": "di dimostrare che la notte aveva torto."
+        },
+        {
+          "en": "It simply rises,",
+          "it": "Semplicemente sorge,"
+        },
+        {
+          "en": "gentle and undramatic,",
+          "it": "dolce e drammatica,"
+        },
+        {
+          "en": "reminding you",
+          "it": "ricordandoti"
+        },
+        {
+          "en": "that every ending you feared",
+          "it": "che ogni fine che hai temuto"
+        },
+        {
+          "en": "was only ever",
+          "it": "era solo"
+        },
+        {
+          "en": "a beginning wearing a disguise.",
+          "it": "un inizio travestito."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If dawn rises without needing to prove the night was wrong,",
+          "it": "Se l'alba sorge senza bisogno di dimostrare che la notte aveva torto,"
+        },
+        {
+          "en": "was the night ever an enemy—",
+          "it": "la notte è mai stata un nemico—"
+        },
+        {
+          "en": "or only a stage",
+          "it": "o solo una scena"
+        },
+        {
+          "en": "the morning had to pass through?",
+          "it": "che il mattino doveva attraversare?"
+        }
+      ],
+      "quote": {
+        "en": "Dawn arrives without needing to prove the night was wrong.",
+        "it": "L'alba arriva senza bisogno di dimostrare che la notte aveva torto."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "060",
+      "theme": {
+        "en": "DUSK",
+        "it": "CREPUSCOLO"
+      },
+      "poetry": [
+        {
+          "en": "Dusk is the hour",
+          "it": "Il crepuscolo è l'ora"
+        },
+        {
+          "en": "when the day forgives itself",
+          "it": "in cui il giorno perdona se stesso"
+        },
+        {
+          "en": "for what it failed to finish,",
+          "it": "per ciò che non è riuscito a finire,"
+        },
+        {
+          "en": "and hands the work, gently, to the dark.",
+          "it": "e consegna il lavoro, con dolcezza, al buio."
+        },
+        {
+          "en": "There is no shame",
+          "it": "Non c'è vergogna"
+        },
+        {
+          "en": "in an unfinished day.",
+          "it": "in un giorno incompiuto."
+        },
+        {
+          "en": "Tomorrow",
+          "it": "Domani"
+        },
+        {
+          "en": "is not a stranger.",
+          "it": "non è uno sconosciuto."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If dusk lets the day forgive itself for what it failed to finish,",
+          "it": "Se il crepuscolo lascia che il giorno perdoni se stesso per ciò che non è riuscito a finire,"
+        },
+        {
+          "en": "is an unfinished day a failure—",
+          "it": "un giorno incompiuto è un fallimento—"
+        },
+        {
+          "en": "or simply one",
+          "it": "o semplicemente uno"
+        },
+        {
+          "en": "that trusts there will be another?",
+          "it": "che si fida che ce ne sarà un altro?"
+        }
+      ],
+      "quote": {
+        "en": "Dusk is the hour the day forgives itself.",
+        "it": "Il crepuscolo è l'ora in cui il giorno perdona se stesso."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "061",
+      "theme": {
+        "en": "MEMORY",
+        "it": "MEMORIA"
+      },
+      "poetry": [
+        {
+          "en": "Memory is not a recording",
+          "it": "La memoria non è una registrazione"
+        },
+        {
+          "en": "but a retelling,",
+          "it": "ma un racconto,"
+        },
+        {
+          "en": "reshaped each time",
+          "it": "rimodellato ogni volta"
+        },
+        {
+          "en": "by the one doing the remembering.",
+          "it": "da chi sta ricordando."
+        },
+        {
+          "en": "We are, in this sense,",
+          "it": "Siamo, in questo senso,"
+        },
+        {
+          "en": "our own unreliable historians—",
+          "it": "storici inaffidabili di noi stessi—"
+        },
+        {
+          "en": "which means we also hold",
+          "it": "il che significa che abbiamo anche"
+        },
+        {
+          "en": "the power to remember kindly.",
+          "it": "il potere di ricordare con gentilezza."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If memory reshapes itself with every retelling,",
+          "it": "Se la memoria si rimodella a ogni racconto,"
+        },
+        {
+          "en": "are you remembering the truth—",
+          "it": "stai ricordando la verità—"
+        },
+        {
+          "en": "or only the most recent version",
+          "it": "o solo la versione più recente"
+        },
+        {
+          "en": "you could bear?",
+          "it": "che riuscivi a sopportare?"
+        }
+      ],
+      "quote": {
+        "en": "Memory is the past, translated by someone who has since changed.",
+        "it": "La memoria è il passato, tradotto da qualcuno che nel frattempo è cambiato."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "062",
+      "theme": {
+        "en": "DREAMS",
+        "it": "SOGNI"
+      },
+      "poetry": [
+        {
+          "en": "Dreams do not obey the laws",
+          "it": "I sogni non obbediscono alle leggi"
+        },
+        {
+          "en": "that govern the waking hours—",
+          "it": "che governano le ore di veglia—"
+        },
+        {
+          "en": "and perhaps this is their purpose:",
+          "it": "e forse è questo il loro scopo:"
+        },
+        {
+          "en": "to remind you, nightly,",
+          "it": "ricordarti, ogni notte,"
+        },
+        {
+          "en": "that the rules you live by",
+          "it": "che le regole con cui vivi"
+        },
+        {
+          "en": "are agreements, not gravity,",
+          "it": "sono accordi, non gravità,"
+        },
+        {
+          "en": "and some of them",
+          "it": "e alcune di esse"
+        },
+        {
+          "en": "were always negotiable.",
+          "it": "erano sempre negoziabili."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If dreams disobey the laws that govern waking hours,",
+          "it": "Se i sogni disubbidiscono alle leggi che governano le ore di veglia,"
+        },
+        {
+          "en": "are the rules we live by fixed—",
+          "it": "le regole con cui viviamo sono fisse—"
+        },
+        {
+          "en": "or only agreements",
+          "it": "o solo accordi"
+        },
+        {
+          "en": "we forgot we made?",
+          "it": "che abbiamo dimenticato di aver fatto?"
+        }
+      ],
+      "quote": {
+        "en": "A dream is proof that the rules were only ever agreements.",
+        "it": "Un sogno è la prova che le regole erano solo accordi."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "063",
+      "theme": {
+        "en": "IMAGINATION",
+        "it": "IMMAGINAZIONE"
+      },
+      "poetry": [
+        {
+          "en": "Imagination is the only room",
+          "it": "L'immaginazione è l'unica stanza"
+        },
+        {
+          "en": "in the house of the mind",
+          "it": "della casa della mente"
+        },
+        {
+          "en": "with no fixed dimensions.",
+          "it": "senza dimensioni fisse."
+        },
+        {
+          "en": "Every invention, every kindness not yet practiced,",
+          "it": "Ogni invenzione, ogni gentilezza non ancora praticata,"
+        },
+        {
+          "en": "began as someone",
+          "it": "è iniziata come qualcuno"
+        },
+        {
+          "en": "willing to picture it first.",
+          "it": "disposto a immaginarla per primo."
+        },
+        {
+          "en": "Nothing is built",
+          "it": "Nulla viene costruito"
+        },
+        {
+          "en": "that was not first imagined.",
+          "it": "che non sia stato prima immaginato."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If nothing is built that wasn't first imagined,",
+          "it": "Se nulla viene costruito che non sia stato prima immaginato,"
+        },
+        {
+          "en": "does the idea come before the thing—",
+          "it": "l'idea viene prima della cosa—"
+        },
+        {
+          "en": "or is imagining",
+          "it": "o immaginare"
+        },
+        {
+          "en": "already a kind of building?",
+          "it": "è già una forma di costruzione?"
+        }
+      ],
+      "quote": {
+        "en": "Imagination is the only room with no walls to measure.",
+        "it": "L'immaginazione è l'unica stanza senza muri da misurare."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "064",
+      "theme": {
+        "en": "CREATIVITY",
+        "it": "CREATIVITÀ"
+      },
+      "poetry": [
+        {
+          "en": "Creativity is not reserved",
+          "it": "La creatività non è riservata"
+        },
+        {
+          "en": "for those who call themselves artists.",
+          "it": "a chi si definisce artista."
+        },
+        {
+          "en": "It is the impulse to make something",
+          "it": "È l'impulso a creare qualcosa"
+        },
+        {
+          "en": "that did not exist before you touched it—",
+          "it": "che non esisteva prima che lo toccassi—"
+        },
+        {
+          "en": "a meal, a sentence, a solution, a garden.",
+          "it": "un pasto, una frase, una soluzione, un giardino."
+        },
+        {
+          "en": "The material hardly matters.",
+          "it": "Il materiale quasi non conta."
+        },
+        {
+          "en": "What matters",
+          "it": "Ciò che conta"
+        },
+        {
+          "en": "is the willingness to begin.",
+          "it": "è la disponibilità a cominciare."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If creativity is only the willingness to begin,",
+          "it": "Se la creatività è solo la disponibilità a cominciare,"
+        },
+        {
+          "en": "does talent matter less—",
+          "it": "il talento conta meno—"
+        },
+        {
+          "en": "or is beginning itself",
+          "it": "o cominciare in sé"
+        },
+        {
+          "en": "the only talent that was ever required?",
+          "it": "è l'unico talento mai richiesto?"
+        }
+      ],
+      "quote": {
+        "en": "Creativity does not ask permission, only a beginning.",
+        "it": "La creatività non chiede permesso, solo un inizio."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "065",
+      "theme": {
+        "en": "MUSIC",
+        "it": "MUSICA"
+      },
+      "poetry": [
+        {
+          "en": "Music says what language",
+          "it": "La musica dice ciò che il linguaggio"
+        },
+        {
+          "en": "gives up trying to say—",
+          "it": "rinuncia a dire—"
+        },
+        {
+          "en": "it enters through a door",
+          "it": "entra da una porta"
+        },
+        {
+          "en": "the intellect forgot to lock.",
+          "it": "che l'intelletto ha dimenticato di chiudere."
+        },
+        {
+          "en": "This is why a single note",
+          "it": "È per questo che una sola nota"
+        },
+        {
+          "en": "can undo a decade of composure.",
+          "it": "può disfare un decennio di compostezza."
+        },
+        {
+          "en": "Some truths",
+          "it": "Alcune verità"
+        },
+        {
+          "en": "are only audible.",
+          "it": "sono solo udibili."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If a single note can undo a decade of composure,",
+          "it": "Se una sola nota può disfare un decennio di compostezza,"
+        },
+        {
+          "en": "is music more honest than language—",
+          "it": "la musica è più onesta del linguaggio—"
+        },
+        {
+          "en": "or does it simply enter",
+          "it": "o semplicemente entra"
+        },
+        {
+          "en": "through a door language forgot to lock?",
+          "it": "da una porta che il linguaggio ha dimenticato di chiudere?"
+        }
+      ],
+      "quote": {
+        "en": "Music says what language gave up trying to say.",
+        "it": "La musica dice ciò che il linguaggio ha rinunciato a dire."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "066",
+      "theme": {
+        "en": "POETRY",
+        "it": "POESIA"
+      },
+      "poetry": [
+        {
+          "en": "Poetry is language",
+          "it": "La poesia è il linguaggio"
+        },
+        {
+          "en": "slowed down enough to be felt",
+          "it": "rallentato abbastanza da essere sentito"
+        },
+        {
+          "en": "rather than merely understood.",
+          "it": "piuttosto che solo capito."
+        },
+        {
+          "en": "It trades efficiency for depth,",
+          "it": "Scambia efficienza con profondità,"
+        },
+        {
+          "en": "the way a long walk",
+          "it": "come una lunga camminata"
+        },
+        {
+          "en": "trades speed for scenery.",
+          "it": "scambia velocità con paesaggio."
+        },
+        {
+          "en": "Some things",
+          "it": "Alcune cose"
+        },
+        {
+          "en": "can only be reached slowly.",
+          "it": "possono essere raggiunte solo lentamente."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If poetry trades speed for depth, the way a walk trades speed for scenery,",
+          "it": "Se la poesia scambia velocità con profondità, come una camminata scambia velocità con paesaggio,"
+        },
+        {
+          "en": "is slowness a weakness—",
+          "it": "la lentezza è una debolezza—"
+        },
+        {
+          "en": "or the only pace",
+          "it": "o l'unico passo"
+        },
+        {
+          "en": "at which some truths can be seen?",
+          "it": "a cui alcune verità possono essere viste?"
+        }
+      ],
+      "quote": {
+        "en": "Poetry trades speed for a longer look at the truth.",
+        "it": "La poesia scambia velocità con uno sguardo più lungo sulla verità."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "067",
+      "theme": {
+        "en": "SILENCE",
+        "it": "SILENZIO"
+      },
+      "poetry": [
+        {
+          "en": "Silence is not empty;",
+          "it": "Il silenzio non è vuoto;"
+        },
+        {
+          "en": "it is full of everything",
+          "it": "è pieno di tutto ciò"
+        },
+        {
+          "en": "we are usually too loud",
+          "it": "che di solito siamo troppo rumorosi"
+        },
+        {
+          "en": "to hear.",
+          "it": "per sentire."
+        },
+        {
+          "en": "Sit in it long enough",
+          "it": "Restaci abbastanza a lungo"
+        },
+        {
+          "en": "and it begins to speak—",
+          "it": "e comincia a parlare—"
+        },
+        {
+          "en": "not in words,",
+          "it": "non in parole,"
+        },
+        {
+          "en": "but in clarity.",
+          "it": "ma in chiarezza."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If silence is full of everything we're too loud to hear,",
+          "it": "Se il silenzio è pieno di tutto ciò che siamo troppo rumorosi per sentire,"
+        },
+        {
+          "en": "is it empty—",
+          "it": "è vuoto—"
+        },
+        {
+          "en": "or simply waiting",
+          "it": "o semplicemente in attesa"
+        },
+        {
+          "en": "for us to stop talking over it?",
+          "it": "che smettiamo di parlargli sopra?"
+        }
+      ],
+      "quote": {
+        "en": "Silence is the only language that never lies in translation.",
+        "it": "Il silenzio è l'unica lingua che non mente mai nella traduzione."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "068",
+      "theme": {
+        "en": "STILLNESS",
+        "it": "QUIETE"
+      },
+      "poetry": [
+        {
+          "en": "Stillness is not inactivity;",
+          "it": "La quiete non è inattività;"
+        },
+        {
+          "en": "it is the pause",
+          "it": "è la pausa"
+        },
+        {
+          "en": "in which direction becomes clear.",
+          "it": "in cui la direzione diventa chiara."
+        },
+        {
+          "en": "The archer does not release",
+          "it": "L'arciere non scocca"
+        },
+        {
+          "en": "in motion,",
+          "it": "in movimento,"
+        },
+        {
+          "en": "but in the breath held just before it.",
+          "it": "ma nel respiro trattenuto appena prima."
+        },
+        {
+          "en": "Some of your best decisions",
+          "it": "Alcune delle tue migliori decisioni"
+        },
+        {
+          "en": "are waiting in your next stillness.",
+          "it": "stanno attendendo nella tua prossima quiete."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the archer releases not in motion but in the breath held before it,",
+          "it": "Se l'arciere scocca non in movimento ma nel respiro trattenuto prima,"
+        },
+        {
+          "en": "is stillness inactivity—",
+          "it": "la quiete è inattività—"
+        },
+        {
+          "en": "or the exact moment",
+          "it": "o l'esatto momento"
+        },
+        {
+          "en": "before everything that matters?",
+          "it": "prima di tutto ciò che conta?"
+        }
+      ],
+      "quote": {
+        "en": "Stillness is not the absence of motion. It is motion, deciding.",
+        "it": "La quiete non è l'assenza di movimento. È il movimento, che decide."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "069",
+      "theme": {
+        "en": "MOVEMENT",
+        "it": "MOVIMENTO"
+      },
+      "poetry": [
+        {
+          "en": "Movement is proof of life—",
+          "it": "Il movimento è prova di vita—"
+        },
+        {
+          "en": "the river that stops flowing",
+          "it": "il fiume che smette di scorrere"
+        },
+        {
+          "en": "becomes a swamp,",
+          "it": "diventa una palude,"
+        },
+        {
+          "en": "not a monument.",
+          "it": "non un monumento."
+        },
+        {
+          "en": "Even rest is movement,",
+          "it": "Anche il riposo è movimento,"
+        },
+        {
+          "en": "the slow tide of repair.",
+          "it": "la lenta marea della riparazione."
+        },
+        {
+          "en": "To live",
+          "it": "Vivere"
+        },
+        {
+          "en": "is to keep, gently, going.",
+          "it": "è continuare, con dolcezza, ad andare."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If even rest is a form of movement, the slow tide of repair,",
+          "it": "Se anche il riposo è una forma di movimento, la lenta marea della riparazione,"
+        },
+        {
+          "en": "is stillness truly still—",
+          "it": "la quiete è davvero ferma—"
+        },
+        {
+          "en": "or only movement",
+          "it": "o solo movimento"
+        },
+        {
+          "en": "moving too slowly to notice?",
+          "it": "che si muove troppo lentamente per essere notato?"
+        }
+      ],
+      "quote": {
+        "en": "A river that stops moving is no longer a river.",
+        "it": "Un fiume che smette di muoversi non è più un fiume."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "070",
+      "theme": {
+        "en": "JOURNEY",
+        "it": "VIAGGIO"
+      },
+      "poetry": [
+        {
+          "en": "The journey was never",
+          "it": "Il viaggio non è mai stato"
+        },
+        {
+          "en": "a detour from the destination—",
+          "it": "una deviazione dalla destinazione—"
+        },
+        {
+          "en": "it was the destination,",
+          "it": "era la destinazione,"
+        },
+        {
+          "en": "wearing work clothes.",
+          "it": "in abiti da lavoro."
+        },
+        {
+          "en": "Arrival is only a rumor",
+          "it": "L'arrivo è solo una voce"
+        },
+        {
+          "en": "that keeps the traveler walking.",
+          "it": "che tiene il viaggiatore in cammino."
+        },
+        {
+          "en": "What you become on the road",
+          "it": "Ciò che diventi lungo la strada"
+        },
+        {
+          "en": "is the actual prize.",
+          "it": "è il premio vero."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If arrival is only a rumor that keeps the traveler walking,",
+          "it": "Se l'arrivo è solo una voce che tiene il viaggiatore in cammino,"
+        },
+        {
+          "en": "was the destination ever real—",
+          "it": "la destinazione è mai stata reale—"
+        },
+        {
+          "en": "or only",
+          "it": "o solo"
+        },
+        {
+          "en": "a reason to keep moving?",
+          "it": "un motivo per continuare a muoversi?"
+        }
+      ],
+      "quote": {
+        "en": "The journey was never a detour. It was the destination in work clothes.",
+        "it": "Il viaggio non è mai stato una deviazione. Era la destinazione in abiti da lavoro."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "071",
+      "theme": {
+        "en": "DESTINY",
+        "it": "DESTINO"
+      },
+      "poetry": [
+        {
+          "en": "Destiny may be less a fixed line",
+          "it": "Il destino può essere meno una linea fissa"
+        },
+        {
+          "en": "than a direction you keep choosing,",
+          "it": "che una direzione che continui a scegliere,"
+        },
+        {
+          "en": "day after day,",
+          "it": "giorno dopo giorno,"
+        },
+        {
+          "en": "until it hardens into a life.",
+          "it": "finché non si indurisce in una vita."
+        },
+        {
+          "en": "Perhaps fate is not written",
+          "it": "Forse il fato non è scritto"
+        },
+        {
+          "en": "so much as it is drafted—",
+          "it": "tanto quanto è abbozzato—"
+        },
+        {
+          "en": "revised,",
+          "it": "rivisto,"
+        },
+        {
+          "en": "by every decision you make.",
+          "it": "da ogni decisione che prendi."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If fate is drafted and revised by every choice you make,",
+          "it": "Se il fato è abbozzato e rivisto da ogni scelta che fai,"
+        },
+        {
+          "en": "was it ever written—",
+          "it": "è mai stato scritto—"
+        },
+        {
+          "en": "or only being written,",
+          "it": "o solo viene scritto,"
+        },
+        {
+          "en": "always, by you?",
+          "it": "sempre, da te?"
+        }
+      ],
+      "quote": {
+        "en": "Fate is not written. It is drafted, and revised daily.",
+        "it": "Il fato non è scritto. È abbozzato, e rivisto ogni giorno."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "072",
+      "theme": {
+        "en": "CHANCE",
+        "it": "CASO"
+      },
+      "poetry": [
+        {
+          "en": "Chance is the door",
+          "it": "Il caso è la porta"
+        },
+        {
+          "en": "the universe leaves ajar,",
+          "it": "che l'universo lascia socchiusa,"
+        },
+        {
+          "en": "not to torment us with randomness",
+          "it": "non per tormentarci con il caos"
+        },
+        {
+          "en": "but to leave room for surprise.",
+          "it": "ma per lasciare spazio alla sorpresa."
+        },
+        {
+          "en": "Some of your best chapters",
+          "it": "Alcuni dei tuoi migliori capitoli"
+        },
+        {
+          "en": "began as an accident",
+          "it": "sono iniziati come un incidente"
+        },
+        {
+          "en": "you were brave enough",
+          "it": "che hai avuto il coraggio"
+        },
+        {
+          "en": "to walk through.",
+          "it": "di attraversare."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If some of your best chapters began as an accident,",
+          "it": "Se alcuni dei tuoi migliori capitoli sono iniziati come un incidente,"
+        },
+        {
+          "en": "was it luck that opened the door—",
+          "it": "è stata la fortuna ad aprire la porta—"
+        },
+        {
+          "en": "or only",
+          "it": "o solo"
+        },
+        {
+          "en": "your courage to walk through it?",
+          "it": "il tuo coraggio di attraversarla?"
+        }
+      ],
+      "quote": {
+        "en": "Chance is the door the universe leaves slightly open.",
+        "it": "Il caso è la porta che l'universo lascia leggermente aperta."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "073",
+      "theme": {
+        "en": "CHOICE",
+        "it": "SCELTA"
+      },
+      "poetry": [
+        {
+          "en": "Every choice is a small death",
+          "it": "Ogni scelta è una piccola morte"
+        },
+        {
+          "en": "of the paths not taken,",
+          "it": "dei sentieri non presi,"
+        },
+        {
+          "en": "and a small birth",
+          "it": "e una piccola nascita"
+        },
+        {
+          "en": "of the one you chose instead.",
+          "it": "di quello che hai scelto invece."
+        },
+        {
+          "en": "Do not grieve the roads unwalked.",
+          "it": "Non piangere le strade non percorse."
+        },
+        {
+          "en": "Grief is due, instead,",
+          "it": "Il lutto è dovuto, invece,"
+        },
+        {
+          "en": "to those who never chose at all,",
+          "it": "a chi non ha mai scelto affatto,"
+        },
+        {
+          "en": "and called that safety.",
+          "it": "e ha chiamato questo sicurezza."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If every choice is a small death of the paths not taken,",
+          "it": "Se ogni scelta è una piccola morte dei sentieri non presi,"
+        },
+        {
+          "en": "is choosing a loss—",
+          "it": "scegliere è una perdita—"
+        },
+        {
+          "en": "or the only way",
+          "it": "o l'unico modo"
+        },
+        {
+          "en": "anything is ever truly gained?",
+          "it": "perché qualcosa sia davvero guadagnato?"
+        }
+      ],
+      "quote": {
+        "en": "Every choice is a small birth wearing a small grief.",
+        "it": "Ogni scelta è una piccola nascita che indossa un piccolo lutto."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "074",
+      "theme": {
+        "en": "PURPOSE",
+        "it": "SCOPO"
+      },
+      "poetry": [
+        {
+          "en": "Purpose is not always a single, blazing calling;",
+          "it": "Lo scopo non è sempre un'unica, ardente vocazione;"
+        },
+        {
+          "en": "sometimes it is a hundred small usefulnesses,",
+          "it": "a volte sono cento piccole utilità,"
+        },
+        {
+          "en": "stacked quietly",
+          "it": "accatastate in silenzio"
+        },
+        {
+          "en": "into a life that mattered.",
+          "it": "in una vita che ha contato."
+        },
+        {
+          "en": "You do not need a mission statement.",
+          "it": "Non ti serve una dichiarazione di intenti."
+        },
+        {
+          "en": "You need a next right thing,",
+          "it": "Ti serve la prossima cosa giusta,"
+        },
+        {
+          "en": "and the willingness",
+          "it": "e la disponibilità"
+        },
+        {
+          "en": "to do it well.",
+          "it": "a farla bene."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If a hundred small usefulnesses can stack into a life that mattered,",
+          "it": "Se cento piccole utilità possono accatastarsi in una vita che ha contato,"
+        },
+        {
+          "en": "does purpose need to be singular—",
+          "it": "lo scopo deve essere unico—"
+        },
+        {
+          "en": "or can it simply",
+          "it": "o può semplicemente"
+        },
+        {
+          "en": "accumulate, quietly, over years?",
+          "it": "accumularsi, in silenzio, negli anni?"
+        }
+      ],
+      "quote": {
+        "en": "Purpose rarely announces itself. It accumulates.",
+        "it": "Lo scopo raramente si annuncia. Si accumula."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "075",
+      "theme": {
+        "en": "MEANING",
+        "it": "SENSO"
+      },
+      "poetry": [
+        {
+          "en": "Meaning is not found",
+          "it": "Il senso non si trova"
+        },
+        {
+          "en": "the way a key is found—",
+          "it": "nel modo in cui si trova una chiave—"
+        },
+        {
+          "en": "lost, then located, unchanged.",
+          "it": "persa, poi localizzata, immutata."
+        },
+        {
+          "en": "It is built, slowly,",
+          "it": "Si costruisce, lentamente,"
+        },
+        {
+          "en": "out of attention and repetition,",
+          "it": "di attenzione e ripetizione,"
+        },
+        {
+          "en": "the way a path is built",
+          "it": "nel modo in cui un sentiero si costruisce"
+        },
+        {
+          "en": "not by discovery",
+          "it": "non con la scoperta"
+        },
+        {
+          "en": "but by walking it enough times.",
+          "it": "ma percorrendolo abbastanza volte."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If meaning is built by walking a path enough times, not by finding it,",
+          "it": "Se il senso si costruisce percorrendo un sentiero abbastanza volte, non trovandolo,"
+        },
+        {
+          "en": "was it ever hidden—",
+          "it": "era mai stato nascosto—"
+        },
+        {
+          "en": "or only",
+          "it": "o solo"
+        },
+        {
+          "en": "waiting to be worn in?",
+          "it": "in attesa di essere battuto?"
+        }
+      ],
+      "quote": {
+        "en": "Meaning is a path worn smooth by walking it, not by finding it.",
+        "it": "Il senso è un sentiero consumato dal percorrerlo, non dal trovarlo."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "076",
+      "theme": {
+        "en": "IDENTITY",
+        "it": "IDENTITÀ"
+      },
+      "poetry": [
+        {
+          "en": "You are not the roles you perform",
+          "it": "Non sei i ruoli che interpreti"
+        },
+        {
+          "en": "nor the titles you collect—",
+          "it": "né i titoli che collezioni—"
+        },
+        {
+          "en": "these are the clothes,",
+          "it": "questi sono i vestiti,"
+        },
+        {
+          "en": "not the body beneath them.",
+          "it": "non il corpo che li indossa."
+        },
+        {
+          "en": "Identity is quieter than reputation.",
+          "it": "L'identità è più silenziosa della reputazione."
+        },
+        {
+          "en": "It is what remains",
+          "it": "È ciò che resta"
+        },
+        {
+          "en": "when no one",
+          "it": "quando nessuno"
+        },
+        {
+          "en": "is watching to be impressed.",
+          "it": "guarda per essere impressionato."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If identity is what remains when no one is watching to be impressed,",
+          "it": "Se l'identità è ciò che resta quando nessuno guarda per essere impressionato,"
+        },
+        {
+          "en": "are you who you perform—",
+          "it": "sei chi interpreti—"
+        },
+        {
+          "en": "or only",
+          "it": "o solo"
+        },
+        {
+          "en": "who you are when the performance stops?",
+          "it": "chi sei quando la performance finisce?"
+        }
+      ],
+      "quote": {
+        "en": "Identity is what is left when no one is watching to be impressed.",
+        "it": "L'identità è ciò che resta quando nessuno guarda per essere impressionato."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "077",
+      "theme": {
+        "en": "SELF-LOVE",
+        "it": "AMORE DI SÉ"
+      },
+      "poetry": [
+        {
+          "en": "Self-love is not vanity;",
+          "it": "L'amore di sé non è vanità;"
+        },
+        {
+          "en": "it is the maintenance",
+          "it": "è la manutenzione"
+        },
+        {
+          "en": "of the only home",
+          "it": "dell'unica casa"
+        },
+        {
+          "en": "you will occupy for your entire life.",
+          "it": "in cui vivrai per tutta la vita."
+        },
+        {
+          "en": "You would not starve a house guest;",
+          "it": "Non faresti morire di fame un ospite;"
+        },
+        {
+          "en": "do not starve the one who never leaves.",
+          "it": "non far morire di fame l'unico che non se ne va mai."
+        },
+        {
+          "en": "Tend to yourself",
+          "it": "Prenditi cura di te"
+        },
+        {
+          "en": "as you would tend to someone you love.",
+          "it": "come ti prenderesti cura di qualcuno che ami."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If you would never starve a guest, why starve the one who never leaves?",
+          "it": "Se non faresti mai morire di fame un ospite, perché far morire di fame l'unico che non se ne va mai?"
+        },
+        {
+          "en": "Is self-love indulgence—",
+          "it": "L'amore di sé è indulgenza—"
+        },
+        {
+          "en": "or simply the upkeep",
+          "it": "o semplicemente la manutenzione"
+        },
+        {
+          "en": "of the only home you have?",
+          "it": "dell'unica casa che hai?"
+        }
+      ],
+      "quote": {
+        "en": "Self-love is simply refusing to starve the one house you cannot leave.",
+        "it": "L'amore di sé è semplicemente rifiutarsi di far morire di fame l'unica casa da cui non puoi andartene."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "078",
+      "theme": {
+        "en": "VULNERABILITY",
+        "it": "VULNERABILITÀ"
+      },
+      "poetry": [
+        {
+          "en": "Vulnerability is not weakness",
+          "it": "La vulnerabilità non è debolezza"
+        },
+        {
+          "en": "wearing an honest face—",
+          "it": "con un volto onesto—"
+        },
+        {
+          "en": "it is strength that has stopped",
+          "it": "è forza che ha smesso"
+        },
+        {
+          "en": "performing invincibility.",
+          "it": "di interpretare l'invincibilità."
+        },
+        {
+          "en": "The armored heart",
+          "it": "Il cuore corazzato"
+        },
+        {
+          "en": "protects itself from being reached,",
+          "it": "si protegge dall'essere raggiunto,"
+        },
+        {
+          "en": "but also",
+          "it": "ma anche"
+        },
+        {
+          "en": "from ever truly arriving anywhere.",
+          "it": "dall'arrivare davvero da qualche parte."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the armored heart protects itself from being reached,",
+          "it": "Se il cuore corazzato si protegge dall'essere raggiunto,"
+        },
+        {
+          "en": "does it also protect itself",
+          "it": "protegge anche se stesso"
+        },
+        {
+          "en": "from ever truly",
+          "it": "dall'arrivare davvero"
+        },
+        {
+          "en": "arriving anywhere?",
+          "it": "da qualche parte?"
+        }
+      ],
+      "quote": {
+        "en": "Vulnerability is armor that finally agreed to be removed.",
+        "it": "La vulnerabilità è un'armatura che ha finalmente accettato di essere rimossa."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "079",
+      "theme": {
+        "en": "STRENGTH",
+        "it": "FORZA"
+      },
+      "poetry": [
+        {
+          "en": "Real strength is rarely loud.",
+          "it": "La vera forza è raramente rumorosa."
+        },
+        {
+          "en": "It is the parent working a second shift,",
+          "it": "È il genitore che lavora un secondo turno,"
+        },
+        {
+          "en": "the patient who smiles",
+          "it": "il paziente che sorride"
+        },
+        {
+          "en": "at the nurse despite the pain,",
+          "it": "all'infermiera nonostante il dolore,"
+        },
+        {
+          "en": "the quiet decision",
+          "it": "la silenziosa decisione"
+        },
+        {
+          "en": "to keep going one more ordinary day.",
+          "it": "di andare avanti un giorno ordinario in più."
+        },
+        {
+          "en": "Strength wears no armor.",
+          "it": "La forza non indossa armatura."
+        },
+        {
+          "en": "It wears out its shoes.",
+          "it": "Consuma le sue scarpe."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If real strength wears out its shoes instead of its armor,",
+          "it": "Se la vera forza consuma le sue scarpe invece della sua armatura,"
+        },
+        {
+          "en": "is strength what we applaud—",
+          "it": "la forza è ciò che applaudiamo—"
+        },
+        {
+          "en": "or only",
+          "it": "o solo"
+        },
+        {
+          "en": "what we fail to notice, quietly working?",
+          "it": "ciò che non notiamo, lavorare in silenzio?"
+        }
+      ],
+      "quote": {
+        "en": "Strength rarely shouts. It just keeps showing up.",
+        "it": "La forza raramente grida. Si limita a continuare a presentarsi."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "080",
+      "theme": {
+        "en": "WEAKNESS",
+        "it": "DEBOLEZZA"
+      },
+      "poetry": [
+        {
+          "en": "What we call weakness",
+          "it": "Ciò che chiamiamo debolezza"
+        },
+        {
+          "en": "is often only humanity,",
+          "it": "è spesso solo umanità,"
+        },
+        {
+          "en": "unhidden.",
+          "it": "non nascosta."
+        },
+        {
+          "en": "The tired admit tiredness;",
+          "it": "Il stanco ammette la stanchezza;"
+        },
+        {
+          "en": "the grieving admit grief;",
+          "it": "l'addolorato ammette il dolore;"
+        },
+        {
+          "en": "this is not failure,",
+          "it": "questo non è fallimento,"
+        },
+        {
+          "en": "it is honesty",
+          "it": "è onestà"
+        },
+        {
+          "en": "refusing to perform otherwise.",
+          "it": "che si rifiuta di recitare altro."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the tired admit tiredness and the grieving admit grief,",
+          "it": "Se il stanco ammette la stanchezza e l'addolorato ammette il dolore,"
+        },
+        {
+          "en": "is that weakness—",
+          "it": "è debolezza—"
+        },
+        {
+          "en": "or simply honesty",
+          "it": "o semplicemente onestà"
+        },
+        {
+          "en": "refusing to perform otherwise?",
+          "it": "che si rifiuta di recitare altro?"
+        }
+      ],
+      "quote": {
+        "en": "What we call weakness is often only honesty, unhidden.",
+        "it": "Ciò che chiamiamo debolezza è spesso solo onestà, non nascosta."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "081",
+      "theme": {
+        "en": "FEAR",
+        "it": "PAURA"
+      },
+      "poetry": [
+        {
+          "en": "Fear is not a signal to stop;",
+          "it": "La paura non è un segnale per fermarsi;"
+        },
+        {
+          "en": "it is often a signal that you are near",
+          "it": "è spesso un segnale che sei vicino"
+        },
+        {
+          "en": "something that matters.",
+          "it": "a qualcosa che conta."
+        },
+        {
+          "en": "The threshold guardian",
+          "it": "Il guardiano della soglia"
+        },
+        {
+          "en": "does not block the coward",
+          "it": "non blocca differentemente il codardo"
+        },
+        {
+          "en": "and the brave differently—",
+          "it": "e il coraggioso—"
+        },
+        {
+          "en": "it blocks everyone.",
+          "it": "blocca tutti."
+        },
+        {
+          "en": "Only one of them still walks through.",
+          "it": "Solo uno dei due continua a camminare."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If fear blocks the coward and the brave the same way,",
+          "it": "Se la paura blocca il codardo e il coraggioso allo stesso modo,"
+        },
+        {
+          "en": "does fear choose who stops—",
+          "it": "è la paura a scegliere chi si ferma—"
+        },
+        {
+          "en": "or does something else",
+          "it": "o qualcos'altro"
+        },
+        {
+          "en": "decide who keeps walking?",
+          "it": "decide chi continua a camminare?"
+        }
+      ],
+      "quote": {
+        "en": "Fear blocks everyone equally. Only some keep walking.",
+        "it": "La paura blocca tutti allo stesso modo. Solo alcuni continuano a camminare."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "082",
+      "theme": {
+        "en": "DOUBT",
+        "it": "DUBBIO"
+      },
+      "poetry": [
+        {
+          "en": "Doubt is not the opposite of faith;",
+          "it": "Il dubbio non è l'opposto della fede;"
+        },
+        {
+          "en": "it is faith's honest companion,",
+          "it": "è il compagno onesto della fede,"
+        },
+        {
+          "en": "asking the harder questions",
+          "it": "che fa le domande più difficili"
+        },
+        {
+          "en": "so belief does not grow lazy.",
+          "it": "perché la convinzione non diventi pigra."
+        },
+        {
+          "en": "The mind that never doubts",
+          "it": "La mente che non dubita mai"
+        },
+        {
+          "en": "has stopped, quietly, thinking.",
+          "it": "ha smesso, in silenzio, di pensare."
+        },
+        {
+          "en": "Let doubt visit.",
+          "it": "Lascia che il dubbio visiti."
+        },
+        {
+          "en": "Just do not let it move in permanently.",
+          "it": "Solo non lasciarlo trasferirsi stabilmente."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If doubt is faith's honest companion, not its opposite,",
+          "it": "Se il dubbio è il compagno onesto della fede, non il suo opposto,"
+        },
+        {
+          "en": "does questioning weaken belief—",
+          "it": "il domandare indebolisce la convinzione—"
+        },
+        {
+          "en": "or only",
+          "it": "o solo"
+        },
+        {
+          "en": "keep it from growing lazy?",
+          "it": "le impedisce di diventare pigra?"
+        }
+      ],
+      "quote": {
+        "en": "Doubt is not the enemy of faith. It is the one that keeps it awake.",
+        "it": "Il dubbio non è il nemico della fede. È quello che la tiene sveglia."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "083",
+      "theme": {
+        "en": "FAITHFULNESS",
+        "it": "FEDELTÀ"
+      },
+      "poetry": [
+        {
+          "en": "Faithfulness is love",
+          "it": "La fedeltà è amore"
+        },
+        {
+          "en": "that shows up on the ordinary days,",
+          "it": "che si presenta nei giorni ordinari,"
+        },
+        {
+          "en": "not only the anniversaries.",
+          "it": "non solo negli anniversari."
+        },
+        {
+          "en": "It is the promise kept",
+          "it": "È la promessa mantenuta"
+        },
+        {
+          "en": "when no one",
+          "it": "quando nessuno"
+        },
+        {
+          "en": "is checking whether you kept it.",
+          "it": "verifica che tu la mantenga."
+        },
+        {
+          "en": "This is its quiet power:",
+          "it": "Questo è il suo silenzioso potere:"
+        },
+        {
+          "en": "it needs no audience to be real.",
+          "it": "non ha bisogno di pubblico per essere reale."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If faithfulness needs no audience to remain real,",
+          "it": "Se la fedeltà non ha bisogno di pubblico per restare reale,"
+        },
+        {
+          "en": "is it proven on the anniversary—",
+          "it": "si dimostra nell'anniversario—"
+        },
+        {
+          "en": "or only on the ordinary day",
+          "it": "o solo nel giorno ordinario"
+        },
+        {
+          "en": "no one is checking?",
+          "it": "in cui nessuno controlla?"
+        }
+      ],
+      "quote": {
+        "en": "Faithfulness needs no audience to remain real.",
+        "it": "La fedeltà non ha bisogno di un pubblico per restare reale."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "084",
+      "theme": {
+        "en": "LONGING",
+        "it": "DESIDERIO"
+      },
+      "poetry": [
+        {
+          "en": "Longing is the soul's way",
+          "it": "Il desiderio è il modo dell'anima"
+        },
+        {
+          "en": "of pointing toward what it needs,",
+          "it": "di indicare ciò di cui ha bisogno,"
+        },
+        {
+          "en": "even when the mind",
+          "it": "anche quando la mente"
+        },
+        {
+          "en": "cannot yet name it.",
+          "it": "non riesce ancora a darle un nome."
+        },
+        {
+          "en": "Do not silence your longing.",
+          "it": "Non zittire il tuo desiderio."
+        },
+        {
+          "en": "Listen to it closely—",
+          "it": "Ascoltalo da vicino—"
+        },
+        {
+          "en": "it usually knows something",
+          "it": "di solito sa qualcosa"
+        },
+        {
+          "en": "you have not yet admitted.",
+          "it": "che non hai ancora ammesso."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If longing points toward what the mind cannot yet name,",
+          "it": "Se il desiderio indica ciò che la mente non riesce ancora a nominare,"
+        },
+        {
+          "en": "is it a wound—",
+          "it": "è una ferita—"
+        },
+        {
+          "en": "or simply the soul,",
+          "it": "o semplicemente l'anima,"
+        },
+        {
+          "en": "ahead of you, already knowing?",
+          "it": "avanti a te, che già sa?"
+        }
+      ],
+      "quote": {
+        "en": "Longing is the soul pointing at something the mind has not caught up to.",
+        "it": "Il desiderio è l'anima che indica qualcosa a cui la mente non è ancora arrivata."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "085",
+      "theme": {
+        "en": "BELONGING",
+        "it": "APPARTENENZA"
+      },
+      "poetry": [
+        {
+          "en": "Belonging is not sameness;",
+          "it": "L'appartenenza non è uniformità;"
+        },
+        {
+          "en": "it is the safety of being known",
+          "it": "è la sicurezza di essere conosciuti"
+        },
+        {
+          "en": "and still being welcomed.",
+          "it": "e ancora accolti."
+        },
+        {
+          "en": "We do not seek rooms",
+          "it": "Non cerchiamo stanze"
+        },
+        {
+          "en": "where we must shrink to fit—",
+          "it": "in cui doverci rimpicciolire per entrare—"
+        },
+        {
+          "en": "we seek rooms",
+          "it": "cerchiamo stanze"
+        },
+        {
+          "en": "that were built,",
+          "it": "che siano state costruite,"
+        },
+        {
+          "en": "somehow, with our shape in mind.",
+          "it": "in qualche modo, pensando alla nostra forma."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If belonging is being known and still welcomed,",
+          "it": "Se appartenere è essere conosciuti e ancora accolti,"
+        },
+        {
+          "en": "must you be understood completely—",
+          "it": "devi essere compreso del tutto—"
+        },
+        {
+          "en": "or only accepted",
+          "it": "o solo accettato"
+        },
+        {
+          "en": "before you're finished explaining?",
+          "it": "prima di aver finito di spiegarti?"
+        }
+      ],
+      "quote": {
+        "en": "Belonging is a room built, somehow, with your exact shape in mind.",
+        "it": "Appartenere è una stanza costruita, in qualche modo, esattamente con la tua forma in mente."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "086",
+      "theme": {
+        "en": "LONELINESS",
+        "it": "SOLITUDINE"
+      },
+      "poetry": [
+        {
+          "en": "Loneliness is the ache",
+          "it": "La malinconia è il dolore"
+        },
+        {
+          "en": "of a bridge with no one crossing it,",
+          "it": "di un ponte su cui nessuno cammina,"
+        },
+        {
+          "en": "a language",
+          "it": "una lingua"
+        },
+        {
+          "en": "with no one left to speak it back.",
+          "it": "con cui nessuno è rimasto a parlarti."
+        },
+        {
+          "en": "It is not shameful.",
+          "it": "Non è vergognosa."
+        },
+        {
+          "en": "It is a signal, like hunger,",
+          "it": "È un segnale, come la fame,"
+        },
+        {
+          "en": "pointing you gently",
+          "it": "che ti indica con dolcezza"
+        },
+        {
+          "en": "toward connection.",
+          "it": "verso la connessione."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If loneliness is a signal like hunger, not a flaw,",
+          "it": "Se la malinconia è un segnale come la fame, non un difetto,"
+        },
+        {
+          "en": "is it something to hide—",
+          "it": "è qualcosa da nascondere—"
+        },
+        {
+          "en": "or simply",
+          "it": "o semplicemente"
+        },
+        {
+          "en": "something to finally answer?",
+          "it": "qualcosa a cui finalmente rispondere?"
+        }
+      ],
+      "quote": {
+        "en": "Loneliness is a bridge with no one yet crossing it.",
+        "it": "La malinconia è un ponte su cui nessuno sta ancora camminando."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "087",
+      "theme": {
+        "en": "CONNECTION",
+        "it": "CONNESSIONE"
+      },
+      "poetry": [
+        {
+          "en": "Connection is the thread",
+          "it": "La connessione è il filo"
+        },
+        {
+          "en": "that makes the isolated self bearable—",
+          "it": "che rende sopportabile il se isolato—"
+        },
+        {
+          "en": "proof that your inner weather",
+          "it": "prova che il tuo clima interiore"
+        },
+        {
+          "en": "is not yours alone to survive.",
+          "it": "non tocca solo a te sopravvivere."
+        },
+        {
+          "en": "It asks only presence,",
+          "it": "Chiede solo presenza,"
+        },
+        {
+          "en": "not perfection.",
+          "it": "non perfezione."
+        },
+        {
+          "en": "Show up as you are.",
+          "it": "Presentati come sei."
+        },
+        {
+          "en": "That is usually enough.",
+          "it": "Di solito è sufficiente."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If connection asks only for presence, not perfection,",
+          "it": "Se la connessione chiede solo presenza, non perfezione,"
+        },
+        {
+          "en": "is showing up enough—",
+          "it": "presentarsi è sufficiente—"
+        },
+        {
+          "en": "or do we only think",
+          "it": "o pensiamo soltanto"
+        },
+        {
+          "en": "it needs to be more than that?",
+          "it": "che debba essere più di così?"
+        }
+      ],
+      "quote": {
+        "en": "Connection asks only for presence, never for polish.",
+        "it": "La connessione chiede solo presenza, mai perfezione."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "088",
+      "theme": {
+        "en": "COMMUNITY",
+        "it": "COMUNITÀ"
+      },
+      "poetry": [
+        {
+          "en": "A community is not a group",
+          "it": "Una comunità non è un gruppo"
+        },
+        {
+          "en": "that agrees on everything;",
+          "it": "che è d'accordo su tutto;"
+        },
+        {
+          "en": "it is a group that stays",
+          "it": "è un gruppo che resta"
+        },
+        {
+          "en": "through the disagreeing.",
+          "it": "attraverso il disaccordo."
+        },
+        {
+          "en": "It is built the way a barn is raised—",
+          "it": "Si costruisce come si alza un fienile—"
+        },
+        {
+          "en": "many hands, one roof,",
+          "it": "molte mani, un tetto solo,"
+        },
+        {
+          "en": "and the quiet understanding",
+          "it": "e la silenziosa comprensione"
+        },
+        {
+          "en": "that none of them could do it alone.",
+          "it": "che nessuno di loro potrebbe farlo da solo."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If a community stays through the disagreeing, not the agreeing,",
+          "it": "Se una comunità resta attraverso il disaccordo, non l'accordo,"
+        },
+        {
+          "en": "is unity the goal—",
+          "it": "l'unità è l'obiettivo—"
+        },
+        {
+          "en": "or only",
+          "it": "o solo"
+        },
+        {
+          "en": "the willingness to remain?",
+          "it": "la disponibilità a restare?"
+        }
+      ],
+      "quote": {
+        "en": "A community is many hands convinced that one roof is worth it.",
+        "it": "Una comunità è molte mani convinte che un tetto solo valga la pena."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "089",
+      "theme": {
+        "en": "LEGACY",
+        "it": "EREDITÀ"
+      },
+      "poetry": [
+        {
+          "en": "Legacy is not the statue",
+          "it": "L'eredità non è la statua"
+        },
+        {
+          "en": "erected in your name,",
+          "it": "eretta in tuo nome,"
+        },
+        {
+          "en": "but the small kindness",
+          "it": "ma la piccola gentilezza"
+        },
+        {
+          "en": "someone repeats without remembering",
+          "it": "che qualcuno ripete senza ricordare"
+        },
+        {
+          "en": "where they first learned it.",
+          "it": "dove l'ha imparata."
+        },
+        {
+          "en": "You will not control how you are remembered—",
+          "it": "Non controllerai come sarai ricordato—"
+        },
+        {
+          "en": "only how quietly and thoroughly",
+          "it": "solo quanto in silenzio e a fondo"
+        },
+        {
+          "en": "you tried to matter.",
+          "it": "hai cercato di contare."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If legacy is a kindness someone repeats without remembering its source,",
+          "it": "Se l'eredità è una gentilezza che qualcuno ripete senza ricordarne la fonte,"
+        },
+        {
+          "en": "does it matter who is remembered—",
+          "it": "importa chi viene ricordato—"
+        },
+        {
+          "en": "or only",
+          "it": "o solo"
+        },
+        {
+          "en": "that something good kept moving?",
+          "it": "che qualcosa di buono continui a muoversi?"
+        }
+      ],
+      "quote": {
+        "en": "Legacy is a kindness that outlives the memory of its source.",
+        "it": "L'eredità è una gentilezza che sopravvive alla memoria della sua fonte."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "090",
+      "theme": {
+        "en": "MORTALITY",
+        "it": "MORTALITÀ"
+      },
+      "poetry": [
+        {
+          "en": "Mortality is not the tragedy",
+          "it": "La mortalità non è la tragedia"
+        },
+        {
+          "en": "of being human,",
+          "it": "dell'essere umano,"
+        },
+        {
+          "en": "it is the deadline",
+          "it": "è la scadenza"
+        },
+        {
+          "en": "that gives the story urgency.",
+          "it": "che dà urgenza alla storia."
+        },
+        {
+          "en": "An infinite life",
+          "it": "Una vita infinita"
+        },
+        {
+          "en": "would need no chapters, no meaning, no hurry.",
+          "it": "non avrebbe bisogno di capitoli, di significato, di fretta."
+        },
+        {
+          "en": "It is precisely because it ends",
+          "it": "È proprio perché finisce"
+        },
+        {
+          "en": "that any of this matters at all.",
+          "it": "che tutto questo conta."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If an infinite life would need no chapters, no urgency, no meaning,",
+          "it": "Se una vita infinita non avrebbe bisogno di capitoli, di urgenza, di significato,"
+        },
+        {
+          "en": "is death the tragedy—",
+          "it": "la morte è la tragedia—"
+        },
+        {
+          "en": "or the very thing",
+          "it": "o la cosa stessa"
+        },
+        {
+          "en": "that made the story matter?",
+          "it": "che ha reso la storia importante?"
+        }
+      ],
+      "quote": {
+        "en": "It is the ending that gives the story its urgency.",
+        "it": "È la fine a dare urgenza alla storia."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "091",
+      "theme": {
+        "en": "REBIRTH",
+        "it": "RINASCITA"
+      },
+      "poetry": [
+        {
+          "en": "Rebirth does not require dying first,",
+          "it": "La rinascita non richiede di morire prima,"
+        },
+        {
+          "en": "only the willingness",
+          "it": "solo la disponibilità"
+        },
+        {
+          "en": "to stop being who you were",
+          "it": "a smettere di essere chi eri"
+        },
+        {
+          "en": "when who you were no longer fits.",
+          "it": "quando chi eri non ti va più bene."
+        },
+        {
+          "en": "The snake does not mourn its old skin.",
+          "it": "Il serpente non piange la sua vecchia pelle."
+        },
+        {
+          "en": "It simply leaves it",
+          "it": "Semplicemente la lascia"
+        },
+        {
+          "en": "in the grass,",
+          "it": "nell'erba,"
+        },
+        {
+          "en": "and continues, lighter.",
+          "it": "e continua, più leggero."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the snake does not mourn the skin it leaves in the grass,",
+          "it": "Se il serpente non piange la pelle che lascia nell'erba,"
+        },
+        {
+          "en": "must something die for you to change—",
+          "it": "deve morire qualcosa perché tu cambi—"
+        },
+        {
+          "en": "or only",
+          "it": "o solo"
+        },
+        {
+          "en": "stop fitting who you already are?",
+          "it": "smettere di calzare chi già sei?"
+        }
+      ],
+      "quote": {
+        "en": "The snake does not mourn the skin it leaves behind.",
+        "it": "Il serpente non piange la pelle che lascia dietro di sé."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "092",
+      "theme": {
+        "en": "INNOCENCE",
+        "it": "INNOCENZA"
+      },
+      "poetry": [
+        {
+          "en": "Innocence is not ignorance;",
+          "it": "L'innocenza non è ignoranza;"
+        },
+        {
+          "en": "it is the world seen",
+          "it": "è il mondo visto"
+        },
+        {
+          "en": "before cynicism installed its filters.",
+          "it": "prima che il cinismo installi i suoi filtri."
+        },
+        {
+          "en": "We cannot return to it fully,",
+          "it": "Non possiamo tornarvi del tutto,"
+        },
+        {
+          "en": "but we can visit—",
+          "it": "ma possiamo visitarla—"
+        },
+        {
+          "en": "in a child's laugh, a dog's joy,",
+          "it": "nella risata di un bambino, nella gioia di un cane,"
+        },
+        {
+          "en": "a morning",
+          "it": "in un mattino"
+        },
+        {
+          "en": "that asks nothing of our suspicion.",
+          "it": "che non chiede nulla al nostro sospetto."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If innocence is the world seen before cynicism installs its filters,",
+          "it": "Se l'innocenza è il mondo visto prima che il cinismo installi i suoi filtri,"
+        },
+        {
+          "en": "is it something we outgrow—",
+          "it": "è qualcosa che superiamo—"
+        },
+        {
+          "en": "or something",
+          "it": "o qualcosa"
+        },
+        {
+          "en": "we are simply talked out of?",
+          "it": "da cui siamo semplicemente parlati fuori?"
+        }
+      ],
+      "quote": {
+        "en": "Innocence is the world before it learned to suspect itself.",
+        "it": "L'innocenza è il mondo prima che impari a sospettare di sé."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "093",
+      "theme": {
+        "en": "MATURITY",
+        "it": "MATURITÀ"
+      },
+      "poetry": [
+        {
+          "en": "Maturity is not the loss of wonder",
+          "it": "La maturità non è la perdita di meraviglia"
+        },
+        {
+          "en": "but the addition of patience beside it—",
+          "it": "ma l'aggiunta di pazienza accanto ad essa—"
+        },
+        {
+          "en": "the ability to hold complexity",
+          "it": "la capacità di tenere la complessità"
+        },
+        {
+          "en": "without needing to resolve it instantly.",
+          "it": "senza bisogno di risolverla all'istante."
+        },
+        {
+          "en": "The mature heart",
+          "it": "Il cuore maturo"
+        },
+        {
+          "en": "can disagree without rupture,",
+          "it": "può dissentire senza rotture,"
+        },
+        {
+          "en": "can wait",
+          "it": "può attendere"
+        },
+        {
+          "en": "without resentment.",
+          "it": "senza risentimento."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If maturity adds patience beside wonder instead of replacing it,",
+          "it": "Se la maturità aggiunge pazienza accanto alla meraviglia invece di sostituirla,"
+        },
+        {
+          "en": "does growing up mean losing something—",
+          "it": "crescere significa perdere qualcosa—"
+        },
+        {
+          "en": "or only learning",
+          "it": "o solo imparare"
+        },
+        {
+          "en": "where to set it down gently?",
+          "it": "dove posarlo con dolcezza?"
+        }
+      ],
+      "quote": {
+        "en": "Maturity can disagree without needing to rupture anything.",
+        "it": "La maturità può dissentire senza bisogno di rompere nulla."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "094",
+      "theme": {
+        "en": "WISDOM OF AGE",
+        "it": "SAGGEZZA DELL'ETÀ"
+      },
+      "poetry": [
+        {
+          "en": "The old do not know more facts;",
+          "it": "I vecchi non sanno più fatti;"
+        },
+        {
+          "en": "they know fewer things matter than they once thought.",
+          "it": "sanno che poche cose contano quanto una volta pensavano."
+        },
+        {
+          "en": "This is not resignation.",
+          "it": "Questo non è rassegnazione."
+        },
+        {
+          "en": "It is arrival—",
+          "it": "È arrivo—"
+        },
+        {
+          "en": "the long, slow editing",
+          "it": "la lunga, lenta revisione"
+        },
+        {
+          "en": "of a life down to its essentials.",
+          "it": "di una vita ridotta all'essenziale."
+        },
+        {
+          "en": "Listen to the elder.",
+          "it": "Ascolta l'anziano."
+        },
+        {
+          "en": "They have already survived your current chapter.",
+          "it": "Hanno già sopravvissuto al tuo capitolo attuale."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the old know fewer things matter, not more facts,",
+          "it": "Se i vecchi sanno che poche cose contano, non più fatti,"
+        },
+        {
+          "en": "is that resignation—",
+          "it": "è rassegnazione—"
+        },
+        {
+          "en": "or the long, slow editing",
+          "it": "o la lunga, lenta revisione"
+        },
+        {
+          "en": "of a life down to what's true?",
+          "it": "di una vita ridotta a ciò che è vero?"
+        }
+      ],
+      "quote": {
+        "en": "The old have already survived the chapter you are currently afraid of.",
+        "it": "I vecchi hanno già sopravvissuto al capitolo che ora ti fa paura."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "095",
+      "theme": {
+        "en": "CHILDHOOD",
+        "it": "INFANZIA"
+      },
+      "poetry": [
+        {
+          "en": "Childhood is the only time",
+          "it": "L'infanzia è l'unico tempo"
+        },
+        {
+          "en": "the world is measured in wonder rather than utility—",
+          "it": "in cui il mondo si misura in meraviglia piuttosto che in utilità—"
+        },
+        {
+          "en": "a stick is a sword,",
+          "it": "un bastone è una spada,"
+        },
+        {
+          "en": "a puddle is an ocean.",
+          "it": "una pozzanghera è un oceano."
+        },
+        {
+          "en": "We do not outgrow this so much",
+          "it": "Non superiamo questo tanto"
+        },
+        {
+          "en": "as we get talked out of it.",
+          "it": "quanto ne veniamo parlati fuori."
+        },
+        {
+          "en": "Some of it",
+          "it": "Un po' di esso"
+        },
+        {
+          "en": "is worth quietly reclaiming.",
+          "it": "vale la pena di reclamarlo in silenzio."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If a stick is a sword and a puddle is an ocean,",
+          "it": "Se un bastone è una spada e una pozzanghera è un oceano,"
+        },
+        {
+          "en": "who decided that trade was progress—",
+          "it": "chi ha deciso che quel cambio era progresso—"
+        },
+        {
+          "en": "and can you",
+          "it": "e puoi"
+        },
+        {
+          "en": "quietly reclaim what you gave up?",
+          "it": "reclamare in silenzio ciò a cui hai rinunciato?"
+        }
+      ],
+      "quote": {
+        "en": "Childhood measures the world in wonder, not in use.",
+        "it": "L'infanzia misura il mondo in meraviglia, non in uso."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "096",
+      "theme": {
+        "en": "LAUGHTER",
+        "it": "RISO"
+      },
+      "poetry": [
+        {
+          "en": "Laughter is the body's way",
+          "it": "Il riso è il modo del corpo"
+        },
+        {
+          "en": "of admitting, briefly, that it is not in control—",
+          "it": "di ammettere, brevemente, di non essere in controllo—"
+        },
+        {
+          "en": "a small surrender",
+          "it": "una piccola resa"
+        },
+        {
+          "en": "that somehow feels like freedom.",
+          "it": "che in qualche modo sembra libertà."
+        },
+        {
+          "en": "It asks for no translation.",
+          "it": "Non chiede traduzioni."
+        },
+        {
+          "en": "Every language recognizes it",
+          "it": "Ogni lingua lo riconosce"
+        },
+        {
+          "en": "the moment",
+          "it": "nel momento"
+        },
+        {
+          "en": "it arrives.",
+          "it": "in cui arriva."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If laughter is the body briefly admitting it isn't in control,",
+          "it": "Se il riso è il corpo che ammette brevemente di non essere in controllo,"
+        },
+        {
+          "en": "is losing control weakness—",
+          "it": "perdere il controllo è debolezza—"
+        },
+        {
+          "en": "or the rare moment",
+          "it": "o il raro momento"
+        },
+        {
+          "en": "freedom finally gets to speak?",
+          "it": "in cui la libertà finalmente parla?"
+        }
+      ],
+      "quote": {
+        "en": "Laughter is the one language every stranger already speaks.",
+        "it": "Il riso è l'unica lingua che ogni estraneo già parla."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "097",
+      "theme": {
+        "en": "TEARS",
+        "it": "LACRIME"
+      },
+      "poetry": [
+        {
+          "en": "Tears are not a failure of composure;",
+          "it": "Le lacrime non sono un fallimento della compostezza;"
+        },
+        {
+          "en": "they are the body's oldest language,",
+          "it": "sono la lingua più antica del corpo,"
+        },
+        {
+          "en": "older than words,",
+          "it": "più antica delle parole,"
+        },
+        {
+          "en": "incapable of lying.",
+          "it": "incapace di mentire."
+        },
+        {
+          "en": "Let them fall",
+          "it": "Lasciale cadere"
+        },
+        {
+          "en": "without apology.",
+          "it": "senza scuse."
+        },
+        {
+          "en": "They are proof",
+          "it": "Sono la prova"
+        },
+        {
+          "en": "that something in you still feels.",
+          "it": "che qualcosa in te sente ancora."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If tears are the body's oldest language, older than words,",
+          "it": "Se le lacrime sono la lingua più antica del corpo, più antica delle parole,"
+        },
+        {
+          "en": "are they a failure of composure—",
+          "it": "sono un fallimento della compostezza—"
+        },
+        {
+          "en": "or simply",
+          "it": "o semplicemente"
+        },
+        {
+          "en": "the one sentence that cannot lie?",
+          "it": "l'unica frase che non può mentire?"
+        }
+      ],
+      "quote": {
+        "en": "Tears are proof that something in you still feels.",
+        "it": "Le lacrime sono la prova che qualcosa in te sente ancora."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "098",
+      "theme": {
+        "en": "SACRIFICE",
+        "it": "SACRIFICIO"
+      },
+      "poetry": [
+        {
+          "en": "Sacrifice is love",
+          "it": "Il sacrificio è amore"
+        },
+        {
+          "en": "doing arithmetic in private—",
+          "it": "che fa i conti in privato—"
+        },
+        {
+          "en": "giving up the smaller good",
+          "it": "che rinuncia al bene più piccolo"
+        },
+        {
+          "en": "for the sake of the larger one,",
+          "it": "per il bene più grande,"
+        },
+        {
+          "en": "often without applause,",
+          "it": "spesso senza applausi,"
+        },
+        {
+          "en": "often without acknowledgment.",
+          "it": "spesso senza riconoscimento."
+        },
+        {
+          "en": "The parent knows this best.",
+          "it": "Il genitore lo sa meglio."
+        },
+        {
+          "en": "So does anyone who has truly loved.",
+          "it": "Come chi ha amato davvero."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If sacrifice is love doing arithmetic in private,",
+          "it": "Se il sacrificio è amore che fa i conti in privato,"
+        },
+        {
+          "en": "does it need to be witnessed to count—",
+          "it": "ha bisogno di essere visto per contare—"
+        },
+        {
+          "en": "or is the cost,",
+          "it": "o il costo,"
+        },
+        {
+          "en": "enough, even unseen?",
+          "it": "è sufficiente, anche se invisibile?"
+        }
+      ],
+      "quote": {
+        "en": "Sacrifice is love doing its arithmetic quietly, in private.",
+        "it": "Il sacrificio è amore che fa i suoi conti in silenzio, in privato."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "099",
+      "theme": {
+        "en": "DEVOTION",
+        "it": "DEVOLUZIONE"
+      },
+      "poetry": [
+        {
+          "en": "Devotion is not obsession;",
+          "it": "La devozione non è ossessione;"
+        },
+        {
+          "en": "it is attention, sustained,",
+          "it": "è attenzione, sostenuta,"
+        },
+        {
+          "en": "long after the initial spark",
+          "it": "molto tempo dopo che la scintilla iniziale"
+        },
+        {
+          "en": "has become quieter, steadier fire.",
+          "it": "è diventata un fuoco più quieto e costante."
+        },
+        {
+          "en": "It shows up on the difficult Tuesday",
+          "it": "Si presenta nel martedì difficile"
+        },
+        {
+          "en": "as faithfully as the easy Sunday.",
+          "it": "con la stessa fedeltà della domenica facile."
+        },
+        {
+          "en": "This constancy",
+          "it": "Questa costanza"
+        },
+        {
+          "en": "is its own kind of miracle.",
+          "it": "è una sorta di miracolo."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If devotion shows up on the difficult Tuesday as much as the easy Sunday,",
+          "it": "Se la devozione si presenta nel martedì difficile come nella domenica facile,"
+        },
+        {
+          "en": "is it the spark that matters—",
+          "it": "è la scintilla che conta—"
+        },
+        {
+          "en": "or only",
+          "it": "o solo"
+        },
+        {
+          "en": "the fire that stayed lit after?",
+          "it": "il fuoco che è rimasto acceso dopo?"
+        }
+      ],
+      "quote": {
+        "en": "Devotion is attention that outlasted the excitement that started it.",
+        "it": "La devozione è attenzione che è sopravvissuta all'entusiasmo che l'ha iniziata."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "100",
+      "theme": {
+        "en": "BLOOMING",
+        "it": "FIORITURA"
+      },
+      "poetry": [
+        {
+          "en": "A flower does not bloom to be seen;",
+          "it": "Un fiore non fiorisce per essere visto;"
+        },
+        {
+          "en": "it blooms because it is finally ready,",
+          "it": "fiorisce perché finalmente è pronto,"
+        },
+        {
+          "en": "spilling color into the light",
+          "it": "versando colore nella luce"
+        },
+        {
+          "en": "as if breathing for the first time.",
+          "it": "come se respirasse per la prima volta."
+        },
+        {
+          "en": "We mistake blooming for arrival,",
+          "it": "Scambiamo la fioritura per l'arrivo,"
+        },
+        {
+          "en": "when it is only ever a beginning again—",
+          "it": "quando è solo sempre un nuovo inizio—"
+        },
+        {
+          "en": "the same bud, the same branch,",
+          "it": "lo stesso bocciolo, lo stesso ramo,"
+        },
+        {
+          "en": "finding a new way to open.",
+          "it": "che trova un nuovo modo di aprirsi."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If the flower blooms without asking who is watching,",
+          "it": "Se il fiore fiorisce senza chiedere chi lo guarda,"
+        },
+        {
+          "en": "is blooming a performance—",
+          "it": "la fioritura è una performance—"
+        },
+        {
+          "en": "or simply",
+          "it": "o semplicemente"
+        },
+        {
+          "en": "what readiness looks like from outside?",
+          "it": "ciò che la prontezza sembra dall'esterno?"
+        }
+      ],
+      "quote": {
+        "en": "To bloom is not to finish becoming. It is to open, again, and call it enough.",
+        "it": "Fiorire non è finire di diventare. È aprirsi, di nuovo, e chiamarlo abbastanza."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "101",
+      "theme": {
+        "en": "FOREVER",
+        "it": "PER SEMPRE"
+      },
+      "poetry": [
+        {
+          "en": "To flourish is not merely to survive",
+          "it": "Fiorire non è semplicemente sopravvivere"
+        },
+        {
+          "en": "but to become fully what you were shaped to be—",
+          "it": "ma diventare pienamente ciò che eri plasmato per essere—"
+        },
+        {
+          "en": "the oak does not simply endure its acorn,",
+          "it": "la quercia non si limita a sopportare la sua ghianda,"
+        },
+        {
+          "en": "it becomes the thing the acorn was quietly promising.",
+          "it": "diventa la cosa che la ghianda stava silenziosamente promettendo."
+        },
+        {
+          "en": "May you love without condition,",
+          "it": "Che tu possa amare senza condizioni,"
+        },
+        {
+          "en": "see beauty without searching,",
+          "it": "vedere la bellezza senza cercarla,"
+        },
+        {
+          "en": "give kindness without counting,",
+          "it": "donare gentilezza senza contare,"
+        },
+        {
+          "en": "and rise, again and again,",
+          "it": "e alzarti, ancora e ancora,"
+        },
+        {
+          "en": "aeternum floreamus—",
+          "it": "aeternum floreamus—"
+        },
+        {
+          "en": "may you flourish, always.",
+          "it": "che tu possa fiorire, per sempre."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If forever cannot be measured in years,",
+          "it": "Se per sempre non può essere misurato in anni,"
+        },
+        {
+          "en": "can it still be lived—",
+          "it": "può comunque essere vissuto—"
+        },
+        {
+          "en": "not as a length of time,",
+          "it": "non come una durata di tempo,"
+        },
+        {
+          "en": "but as this moment, fully entered?",
+          "it": "ma come questo momento, pienamente abitato?"
+        }
+      ],
+      "quote": {
+        "en": "Forever is not a length of time. It is a way of being present to all of it.",
+        "it": "Per sempre non è una durata di tempo. È un modo di essere presente a tutto."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    }
+  ],
+  "subtitleIt": "L'arte di fiorire per sempre"
+}
