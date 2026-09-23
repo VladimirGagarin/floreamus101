@@ -38,7 +38,8 @@ const UI_COPY = {
     theme: 'READING LIGHT',
     play: 'Play auto-turn',
     pause: 'Pause',
-    autoNext: 'Next page in 2:15',
+    loadingAudio: 'Loading audio…',
+    audioReload: 'Audio unavailable — tap to retry',
     openBook: 'Open the book',
     close: 'Close',
     remindTitle: 'Your Bookmarked Pages',
@@ -66,7 +67,8 @@ const UI_COPY = {
     theme: 'LUCE DI LETTURA',
     play: 'Avvia la lettura automatica',
     pause: 'Pausa',
-    autoNext: 'Pagina successiva tra 2:15',
+    loadingAudio: 'Caricamento audio…',
+    audioReload: 'Audio non disponibile — tocca per riprovare',
     openBook: 'Apri il libro',
     close: 'Chiudi',
     remindTitle: 'Le tue pagine segnalate',
@@ -158,13 +160,16 @@ function App() {
   const [bmOverlay, setBmOverlay] = useState(() => currentPage === 0 && bookmarks.length > 0)
   const [isPlaying, setIsPlaying] = useState(false)
   const [elapsed, setElapsed] = useState(0)
-  const [hoverSeg, setHoverSeg] = useState(null)
-  const [tipPos, setTipPos] = useState(null)
   const [helpTip, setHelpTip] = useState(null)
   const stageRef = useRef(null)
+  const poemRef = useRef(null)
   const touchStartX = useRef(0)
   const animTimer = useRef(null)
-  const trackRef = useRef(null)
+  const audioRef = useRef(null)
+  const isPlayingRef = useRef(false)
+  const [audioWaiting, setAudioWaiting] = useState(false)
+  const [audioError, setAudioError] = useState(false)
+  const [audioDuration, setAudioDuration] = useState(0)
 
   const pages = bookData.pages
   const maxPage = pages.length
@@ -174,6 +179,7 @@ function App() {
   const isCover = currentPage === 0
   const interactCover = isCover && !anim
   const pageHasAudio = !!page && !!(page.audio && page.audio.en && page.audio.it)
+  const audioUrl = pageHasAudio && page.audio ? (lang === 'it' ? page.audio.it : page.audio.en) : null
   const controlsHidden = isCover && !anim
   const animClass =
     anim === 'turn-next' ? 'turn-from-right'
@@ -268,8 +274,52 @@ function App() {
     if (isPlaying && currentPage >= maxPage) {
       goToPage(0)
     }
-    setIsPlaying((p) => !p)
-  }, [isPlaying, currentPage, maxPage, goToPage, pageHasAudio])
+    const el = audioRef.current
+    const willPlay = audioError ? true : !isPlaying
+    setIsPlaying(willPlay)
+    if (el) {
+      if (willPlay) {
+        setAudioWaiting(true)
+        setAudioError(false)
+        if (audioError) {
+          try { el.load() } catch { /* ignore */ }
+        }
+        if (window.matchMedia('(max-width: 900px)').matches && poemRef.current) {
+          poemRef.current.scrollIntoView({ behavior: 'smooth', block: 'start' })
+        }
+        el.play().catch(() => {
+          setAudioWaiting(false)
+          setAudioError(true)
+        })
+      } else {
+        el.pause()
+      }
+    }
+  }, [isPlaying, currentPage, maxPage, goToPage, pageHasAudio, audioError])
+
+  useEffect(() => {
+    isPlayingRef.current = isPlaying
+  }, [isPlaying])
+
+  useEffect(() => {
+    const el = audioRef.current
+    if (!el || !audioUrl) {
+      setAudioDuration(0)
+      setAudioError(false)
+      return
+    }
+    el.pause()
+    try { el.currentTime = 0 } catch { /* ignore */ }
+    setElapsed(0)
+    setAudioDuration(0)
+    setAudioError(false)
+    if (isPlayingRef.current) {
+      setAudioWaiting(true)
+      el.play().catch(() => setAudioWaiting(false))
+    } else {
+      setAudioWaiting(false)
+    }
+  }, [currentPage, audioUrl])
 
   useEffect(() => {
     if (!isPlaying || isCover) {
@@ -282,13 +332,13 @@ function App() {
       return () => cancelAnimationFrame(id)
     }
     const start = Date.now()
-    const timeout = setTimeout(() => { goToPage(currentPage + 1) }, AUTO_NEXT_SECONDS * 1000)
-    const interval = setInterval(() => { setElapsed((Date.now() - start) / 1000) }, 250)
-    return () => {
-      clearTimeout(timeout)
-      clearInterval(interval)
-    }
-  }, [isPlaying, isCover, currentPage, maxPage, goToPage])
+    const interval = setInterval(() => {
+      const el = audioRef.current
+      if (el && el.duration && Number.isFinite(el.currentTime)) setElapsed(el.currentTime)
+      else setElapsed((Date.now() - start) / 1000)
+    }, 250)
+    return () => clearInterval(interval)
+  }, [isPlaying, isCover, currentPage, maxPage])
 
   const cycleTheme = () => {
     const i = THEME_ORDER.indexOf(theme)
@@ -317,41 +367,6 @@ function App() {
   const toggleBookmark = useCallback((n) => {
     setBookmarks((prev) => (prev.includes(n) ? prev.filter((b) => b !== n) : [...prev, n]))
   }, [])
-
-  const fmtTime = (s) => {
-    const total = Math.max(0, Math.floor(s))
-    const m = Math.floor(total / 60)
-    const sec = total % 60
-    return `${m}:${String(sec).padStart(2, '0')}`
-  }
-
-  const segFromEvent = (e) => {
-    const el = trackRef.current
-    if (!el) return null
-    const rect = el.getBoundingClientRect()
-    const frac = (e.clientX - rect.left) / rect.width
-    return Math.min(maxPage - 1, Math.max(0, Math.floor(frac * maxPage)))
-  }
-
-  const handleTrackMove = (e) => {
-    const idx = segFromEvent(e)
-    if (idx === null) return
-    const rect = trackRef.current.getBoundingClientRect()
-    setHoverSeg(idx)
-    setTipPos({ x: e.clientX, y: rect.top - 6 })
-  }
-
-  const handleTrackLeave = () => {
-    setHoverSeg(null)
-    setTipPos(null)
-  }
-
-  const handleTrackClick = (e) => {
-    const idx = segFromEvent(e)
-    if (idx === null) return
-    goToPage(idx + 1)
-    handleTrackLeave()
-  }
 
   const showHelp = (e, text) => {
     const r = e.currentTarget.getBoundingClientRect()
@@ -391,8 +406,6 @@ if (e.key === 'Escape') {
     }
   }
 
-  const fillPct = Math.max(0, ((currentPage - 1 + (isPlaying ? Math.min(elapsed / AUTO_NEXT_SECONDS, 1) : 0)) / maxPage) * 100)
-
   const renderTocRow = (p, i) => (
     <button
       key={i}
@@ -413,35 +426,8 @@ if (e.key === 'Escape') {
     </button>
   )
 
-  const rulerEl = pageHasAudio ? (
-    <div className="ruler-wrap">
-      <span className="ruler-time">{fmtTime(elapsed)}</span>
-      <div
-        className="ruler"
-        ref={trackRef}
-        onMouseMove={handleTrackMove}
-        onMouseLeave={handleTrackLeave}
-        onClick={handleTrackClick}
-      >
-        <div className="ruler-fill" style={{ width: `${fillPct}%` }} />
-        {pages.map((_, i) => (
-          <span
-            key={i}
-            className={[
-              'ruler-tick',
-              i < currentPage - 1 ? 'past' : '',
-              i === currentPage - 1 ? 'here' : '',
-              i === hoverSeg ? 'hover' : '',
-            ].join(' ')}
-          />
-        ))}
-      </div>
-      <span className="ruler-time">{fmtTime(AUTO_NEXT_SECONDS)}</span>
-    </div>
-  ) : null
-
   const playWrapEl = pageHasAudio ? (
-    <div className="play-wrap">
+    <div className={`play-wrap ${audioError ? 'has-error' : ''} ${audioWaiting ? 'is-loading' : ''}`}>
       <svg className="play-ring" viewBox="0 0 64 64" aria-hidden="true">
         <circle className="ring-track" cx="32" cy="32" r={RING_R} />
         <circle
@@ -451,20 +437,20 @@ if (e.key === 'Escape') {
           r={RING_R}
           style={{
             strokeDasharray: RING_LENGTH,
-            strokeDashoffset: RING_LENGTH * (1 - Math.min(elapsed / AUTO_NEXT_SECONDS, 1)),
+            strokeDashoffset: RING_LENGTH * (1 - Math.min(elapsed / (audioDuration || AUTO_NEXT_SECONDS), 1)),
           }}
         />
       </svg>
       <button
         className="play-btn"
         onClick={togglePlay}
-        aria-label={isPlaying ? copy.pause : copy.play}
-        onMouseEnter={(e) => showHelp(e, isPlaying ? copy.pause : copy.autoNext)}
+        aria-label={audioError ? (isPlaying ? copy.pause : copy.audioReload) : audioWaiting ? copy.loadingAudio : (isPlaying ? copy.pause : copy.play)}
+        onMouseEnter={(e) => showHelp(e, audioError ? (isPlaying ? copy.pause : copy.audioReload) : audioWaiting ? copy.loadingAudio : (isPlaying ? copy.pause : copy.play))}
         onMouseLeave={hideHelp}
-        onFocus={(e) => showHelp(e, isPlaying ? copy.pause : copy.autoNext)}
+        onFocus={(e) => showHelp(e, audioError ? (isPlaying ? copy.pause : copy.audioReload) : audioWaiting ? copy.loadingAudio : (isPlaying ? copy.pause : copy.play))}
         onBlur={hideHelp}
       >
-        {isPlaying ? '⏸' : '▶'}
+        {audioWaiting ? <span className="spin" aria-hidden="true" /> : audioError ? <span className="reload-ico" aria-hidden="true">↻</span> : (isPlaying ? '⏸' : '▶')}
       </button>
     </div>
   ) : null
@@ -480,6 +466,20 @@ if (e.key === 'Escape') {
       </button>
     </div>
   )
+
+  const quickMenuToggle = (o) => {
+    const willOpen = !o
+    if (willOpen) {
+      const el = audioRef.current
+      if (el) el.pause()
+      if (isPlayingRef.current) {
+        setIsPlaying(false)
+        setElapsed(0)
+      }
+    }
+    setQuickOpen(willOpen)
+    setBmOpen(false)
+  }
 
   const marksWrapEl = (
     <div className="ctl-holder">
@@ -570,6 +570,30 @@ if (e.key === 'Escape') {
       onTouchStart={handleTouchStart}
       onTouchEnd={handleTouchEnd}
     >
+      <audio
+        ref={audioRef}
+        src={audioUrl || undefined}
+        preload="auto"
+        onWaiting={() => { setAudioWaiting(true); setAudioError(false) }}
+        onStalled={() => { setAudioWaiting(true); setAudioError(false) }}
+        onPlaying={() => { setAudioWaiting(false); setAudioError(false) }}
+        onCanPlay={() => { setAudioWaiting(false); setAudioError(false) }}
+        onLoadedData={() => { setAudioWaiting(false); setAudioError(false) }}
+        onError={() => { setAudioWaiting(false); setAudioError(true); setIsPlaying(false); setElapsed(0) }}
+        onLoadedMetadata={(e) => {
+          const d = e.currentTarget.duration
+          setAudioDuration(Number.isFinite(d) && d > 0 ? d : 0)
+        }}
+        onDurationChange={(e) => {
+          const d = e.currentTarget.duration
+          setAudioDuration(Number.isFinite(d) && d > 0 ? d : 0)
+        }}
+        onEnded={() => {
+          setIsPlaying(false)
+          setElapsed(0)
+          setAudioWaiting(false)
+        }}
+      />
       <main ref={stageRef} className="stage">
         <div className="lamp-glow" aria-hidden="true" />
 
@@ -649,7 +673,7 @@ if (e.key === 'Escape') {
                 <div className="chapter-mark" aria-hidden="true">❦</div>
                 <h2 className="theme-display">{localLc(page.theme, lang)}</h2>
                 <div className="ornament-rule" aria-hidden="true"><i /><span>✦</span><i /></div>
-                <div className="poetry">
+                <div className="poetry" ref={poemRef}>
                   <div className="poetry-col">
                     {page.poetry.slice(0, Math.ceil(page.poetry.length / 2)).map((line, i) => (
                       <p className="poetry-line" key={i}>{localLc(line, lang)}</p>
@@ -729,8 +753,6 @@ if (e.key === 'Escape') {
         <div className="control-rail">
           {contentsBtn}
 
-          {rulerEl}
-
           {transportEl}
 
           <div className="control-meta">
@@ -751,15 +773,6 @@ if (e.key === 'Escape') {
           </div>
         </div>
 
-        {hoverSeg !== null && tipPos && (
-          <div className="seg-tooltip" style={{ left: tipPos.x, top: tipPos.y }}>
-            <span className="seg-tooltip-num">
-              {`${copy.reflection} ${hoverSeg + 1} ${copy.of} ${maxPage}`}
-            </span>
-            <span className="seg-tooltip-title">{localLc(pages[hoverSeg].theme, lang)}</span>
-          </div>
-        )}
-
         {helpTip && (
           <div className="seg-tooltip" style={{ left: helpTip.x, top: helpTip.y }}>
             <span className="seg-tooltip-text">{helpTip.text}</span>
@@ -772,9 +785,10 @@ if (e.key === 'Escape') {
         <button className="mini-nav" onClick={() => goToPage(currentPage - 1)} disabled={currentPage === 0} aria-label={copy.prev}>
           ❮
         </button>
+        {!isCover && playWrapEl}
         <button
           className={`menu-fab ${quickOpen ? 'open' : ''}`}
-          onClick={() => { setQuickOpen((o) => !o); setBmOpen(false) }}
+          onClick={() => quickMenuToggle(quickOpen)}
           aria-label={copy.menu}
           aria-expanded={quickOpen}
         >
@@ -795,8 +809,6 @@ if (e.key === 'Escape') {
               </span>
               <button className="quick-close" onClick={closeQuick} aria-label={copy.close}>✕</button>
             </div>
-
-            {rulerEl}
 
             <div className="quick-rows">
               <div className="quick-row">

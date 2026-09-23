@@ -10,6 +10,10 @@
         "en": "LOVE",
         "it": "AMORE"
       },
+      "audio": {
+        "en": "assets/audio/en-love-poem.mp3",
+        "it": "assets/audio/it-love-poem.mp3"
+      },
       "poetry": [
         { "en": "O Love, thou art the fairest flower we know,", "it": "O Amore, tu sei il fiore più bello che conosciamo," },
         { "en": "Thy gentle light makes weary spirits glow.", "it": "La tua dolce luce fa risplendere gli spiriti stanchi." },
@@ -37,6 +41,10 @@
         "en": "BEAUTY",
         "it": "BELLEZZA"
       },
+      "audio": {
+        "en": "assets/audio/en-beauty-poem.mp3",
+        "it": "assets/audio/it-beauty-poem.mp3"
+      },
       "poetry": [
         { "en": "O Beauty, thou the beholder of art,", "it": "O Bellezza, tu che contempli l'arte," },
         { "en": "Thou dwellest in gold and stars above,", "it": "Tu dimori nell'oro e nelle stelle lassù," },
@@ -63,6 +71,10 @@
       "theme": {
         "en": "KINDNESS",
         "it": "GENTILEZZA"
+      },
+      "audio": {
+        "en": "assets/audio/en-kindness-poem.mp3",
+        "it": "assets/audio/it-kindness-poem.mp3"
       },
       "poetry": [
         {
@@ -117,6 +129,10 @@
         "en": "MUSIC",
         "it": "MUSICA"
       },
+      "audio": {
+        "en": "assets/audio/en-music-poem.mp3",
+        "it": "assets/audio/it-music-poem.mp3"
+      },
       "poetry": [
         {
           "en": "O Music, thou sovereign queen of the art,",
@@ -170,6 +186,10 @@
         "en": "LIFE",
         "it": "VITA"
       },
+      "audio": {
+        "en": "assets/audio/en-life-poem.mp3",
+        "it": "assets/audio/it-life-poem.mp3"
+      },
       "poetry": [
         {
           "en": "O Life, thou wonderful masterpiece of art,",
@@ -222,6 +242,10 @@
       "theme": {
         "en": "WISDOM",
         "it": "SAGGEZZA"
+      },
+      "audio": {
+        "en": "assets/audio/en-wisdom-poem.mp3",
+        "it": "assets/audio/it-wisdom-poem.mp3"
       },
       "poetry": [
         {
@@ -288,6 +312,10 @@
         "en": "GRATITUDE",
         "it": "GRATITUDINE"
       },
+      "audio": {
+        "en": "assets/audio/en-gratitude-poem.mp3",
+        "it": "assets/audio/it-gratitude-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Gratitude is a way of keeping",
@@ -352,6 +380,10 @@
       "theme": {
         "en": "PATIENCE",
         "it": "PAZIENZA"
+      },
+      "audio": {
+        "en": "assets/audio/en-patience-poem.mp3",
+        "it": "assets/audio/it-patience-poem.mp3"
       },
       "poetry": [
         {
@@ -418,6 +450,10 @@
         "en": "FORGIVENESS",
         "it": "PERDONO"
       },
+      "audio": {
+        "en": "assets/audio/en-forgiveness-poem.mp3",
+        "it": "assets/audio/it-forgiveness-poem.mp3"
+      },
       "poetry": [
         {
           "en": "To forgive is not to forget",
@@ -482,6 +518,10 @@
       "theme": {
         "en": "HUMILITY",
         "it": "UMILTÀ"
+      },
+      "audio": {
+        "en": "assets/audio/en-humility-poem.mp3",
+        "it": "assets/audio/it-humility-poem.mp3"
       },
       "poetry": [
         {
@@ -548,6 +588,10 @@
         "en": "JOY",
         "it": "GIOIA"
       },
+      "audio": {
+        "en": "assets/audio/en-joy-poem.mp3",
+        "it": "assets/audio/it-joy-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Joy is not happiness's louder cousin.",
@@ -612,6 +656,10 @@
       "theme": {
         "en": "PEACE",
         "it": "PACE"
+      },
+      "audio": {
+        "en": "assets/audio/en-peace-poem.mp3",
+        "it": "assets/audio/it-peace-poem.mp3"
       },
       "poetry": [
         {
@@ -678,6 +726,10 @@
         "en": "TRUTH",
         "it": "VERITÀ"
       },
+      "audio": {
+        "en": "assets/audio/en-truth-poem.mp3",
+        "it": "assets/audio/it-truth-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Truth does not need your belief",
@@ -742,6 +794,10 @@
       "theme": {
         "en": "COMPASSION",
         "it": "COMPASSIONE"
+      },
+      "audio": {
+        "en": "assets/audio/en-compassion-poem.mp3",
+        "it": "assets/audio/it-compassion-poem.mp3"
       },
       "poetry": [
         {
@@ -808,6 +864,10 @@
         "en": "RESILIENCE",
         "it": "RESILIENZA"
       },
+      "audio": {
+        "en": "assets/audio/en-resilience-poem.mp3",
+        "it": "assets/audio/it-resilience-poem.mp3"
+      },
       "poetry": [
         {
           "en": "The reed survives the storm",
@@ -872,6 +932,10 @@
       "theme": {
         "en": "FAITH",
         "it": "FEDE"
+      },
+      "audio": {
+        "en": "assets/audio/en-faith-poem.mp3",
+        "it": "assets/audio/it-faith-poem.mp3"
       },
       "poetry": [
         {
@@ -938,6 +1002,10 @@
         "en": "FREEDOM",
         "it": "LIBERTÀ"
       },
+      "audio": {
+        "en": "assets/audio/en-freedom-poem.mp3",
+        "it": "assets/audio/it-freedom-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Freedom is mistaken, often,",
@@ -1002,6 +1070,10 @@
       "theme": {
         "en": "SOLITUDE",
         "it": "SOLITUDINE"
+      },
+      "audio": {
+        "en": "assets/audio/en-solitude-poem.mp3",
+        "it": "assets/audio/it-solitude-poem.mp3"
       },
       "poetry": [
         {
@@ -1068,6 +1140,10 @@
         "en": "FRIENDSHIP",
         "it": "AMICIZIA"
       },
+      "audio": {
+        "en": "assets/audio/en-friendship-poem.mp3",
+        "it": "assets/audio/it-friendship-poem.mp3"
+      },
       "poetry": [
         {
           "en": "A friend is someone in whose presence",
@@ -1132,6 +1208,10 @@
       "theme": {
         "en": "FAMILY",
         "it": "FAMIGLIA"
+      },
+      "audio": {
+        "en": "assets/audio/en-family-poem.mp3",
+        "it": "assets/audio/it-family-poem.mp3"
       },
       "poetry": [
         {
@@ -1198,6 +1278,10 @@
         "en": "HOME",
         "it": "CASA"
       },
+      "audio": {
+        "en": "assets/audio/en-home-poem.mp3",
+        "it": "assets/audio/it-home-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Home is not always a place.",
@@ -1262,6 +1346,10 @@
       "theme": {
         "en": "TIME",
         "it": "TEMPO"
+      },
+      "audio": {
+        "en": "assets/audio/en-time-poem.mp3",
+        "it": "assets/audio/it-time-poem.mp3"
       },
       "poetry": [
         {
@@ -1328,6 +1416,10 @@
         "en": "CHANGE",
         "it": "CAMBIAMENTO"
       },
+      "audio": {
+        "en": "assets/audio/en-change-poem.mp3",
+        "it": "assets/audio/it-change-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Nothing arrives without leaving something behind—",
@@ -1392,6 +1484,10 @@
       "theme": {
         "en": "GROWTH",
         "it": "CRESCITA"
+      },
+      "audio": {
+        "en": "assets/audio/en-growth-poem.mp3",
+        "it": "assets/audio/it-growth-poem.mp3"
       },
       "poetry": [
         {
@@ -1458,6 +1554,10 @@
         "en": "SIMPLICITY",
         "it": "SEMPLICITÀ"
       },
+      "audio": {
+        "en": "assets/audio/en-simplicity-poem.mp3",
+        "it": "assets/audio/it-simplicity-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Simplicity is not the opposite of depth;",
@@ -1522,6 +1622,10 @@
       "theme": {
         "en": "GENEROSITY",
         "it": "GENEROSITÀ"
+      },
+      "audio": {
+        "en": "assets/audio/en-generosity-poem.mp3",
+        "it": "assets/audio/it-generosity-poem.mp3"
       },
       "poetry": [
         {
@@ -1588,6 +1692,10 @@
         "en": "INTEGRITY",
         "it": "INTEGRITÀ"
       },
+      "audio": {
+        "en": "assets/audio/en-integrity-poem.mp3",
+        "it": "assets/audio/it-integrity-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Integrity is what you do",
@@ -1652,6 +1760,10 @@
       "theme": {
         "en": "CURIOSITY",
         "it": "CURIOSITÀ"
+      },
+      "audio": {
+        "en": "assets/audio/en-curiosity-poem.mp3",
+        "it": "assets/audio/it-curiosity-poem.mp3"
       },
       "poetry": [
         {
@@ -1718,6 +1830,10 @@
         "en": "WONDER",
         "it": "MERAVIGLIA"
       },
+      "audio": {
+        "en": "assets/audio/en-wonder-poem.mp3",
+        "it": "assets/audio/it-wonder-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Wonder is what's left",
@@ -1782,6 +1898,10 @@
       "theme": {
         "en": "GRIEF",
         "it": "LUTTO"
+      },
+      "audio": {
+        "en": "assets/audio/en-grief-poem.mp3",
+        "it": "assets/audio/it-grief-poem.mp3"
       },
       "poetry": [
         {
@@ -1848,6 +1968,10 @@
         "en": "HEALING",
         "it": "GUARIGIONE"
       },
+      "audio": {
+        "en": "assets/audio/en-healing-poem.mp3",
+        "it": "assets/audio/it-healing-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Healing is not a return",
@@ -1912,6 +2036,10 @@
       "theme": {
         "en": "ACCEPTANCE",
         "it": "ACCETTAZIONE"
+      },
+      "audio": {
+        "en": "assets/audio/en-acceptance-poem.mp3",
+        "it": "assets/audio/it-acceptance-poem.mp3"
       },
       "poetry": [
         {
@@ -1978,6 +2106,10 @@
         "en": "TRUST",
         "it": "FIDUCIA"
       },
+      "audio": {
+        "en": "assets/audio/en-trust-poem.mp3",
+        "it": "assets/audio/it-trust-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Trust is built the way a wall is—",
@@ -2042,6 +2174,10 @@
       "theme": {
         "en": "LOYALTY",
         "it": "LEALTÀ"
+      },
+      "audio": {
+        "en": "assets/audio/en-loyalty-poem.mp3",
+        "it": "assets/audio/it-loyalty-poem.mp3"
       },
       "poetry": [
         {
@@ -2108,6 +2244,10 @@
         "en": "HONESTY",
         "it": "ONESTÀ"
       },
+      "audio": {
+        "en": "assets/audio/en-honesty-poem.mp3",
+        "it": "assets/audio/it-honesty-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Honesty is a room",
@@ -2172,6 +2312,10 @@
       "theme": {
         "en": "EMPATHY",
         "it": "EMPATIA"
+      },
+      "audio": {
+        "en": "assets/audio/en-empathy-poem.mp3",
+        "it": "assets/audio/it-empathy-poem.mp3"
       },
       "poetry": [
         {
@@ -2238,6 +2382,10 @@
         "en": "MINDFULNESS",
         "it": "CONSAPEVOLEZZA"
       },
+      "audio": {
+        "en": "assets/audio/en-mindfulness-poem.mp3",
+        "it": "assets/audio/it-mindfulness-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Mindfulness is not emptying the mind",
@@ -2302,6 +2450,10 @@
       "theme": {
         "en": "PRESENCE",
         "it": "PRESENZA"
+      },
+      "audio": {
+        "en": "assets/audio/en-presence-poem.mp3",
+        "it": "assets/audio/it-presence-poem.mp3"
       },
       "poetry": [
         {
@@ -2368,6 +2520,10 @@
         "en": "BALANCE",
         "it": "EQUILIBRIO"
       },
+      "audio": {
+        "en": "assets/audio/en-balance-poem.mp3",
+        "it": "assets/audio/it-balance-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Balance is not a fixed point",
@@ -2432,6 +2588,10 @@
       "theme": {
         "en": "HARMONY",
         "it": "ARMONIA"
+      },
+      "audio": {
+        "en": "assets/audio/en-harmony-poem.mp3",
+        "it": "assets/audio/it-harmony-poem.mp3"
       },
       "poetry": [
         {
@@ -2498,6 +2658,10 @@
         "en": "NATURE",
         "it": "NATURA"
       },
+      "audio": {
+        "en": "assets/audio/en-nature-poem.mp3",
+        "it": "assets/audio/it-nature-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Nature keeps no calendar",
@@ -2562,6 +2726,10 @@
       "theme": {
         "en": "THE OCEAN",
         "it": "L'OCEANO"
+      },
+      "audio": {
+        "en": "assets/audio/en-the-ocean-poem.mp3",
+        "it": "assets/audio/it-the-ocean-poem.mp3"
       },
       "poetry": [
         {
@@ -2628,6 +2796,10 @@
         "en": "MOUNTAINS",
         "it": "MONTAGNE"
       },
+      "audio": {
+        "en": "assets/audio/en-mountains-poem.mp3",
+        "it": "assets/audio/it-mountains-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Mountains do not rush.",
@@ -2692,6 +2864,10 @@
       "theme": {
         "en": "THE SKY",
         "it": "IL CIELO"
+      },
+      "audio": {
+        "en": "assets/audio/en-the-sky-poem.mp3",
+        "it": "assets/audio/it-the-sky-poem.mp3"
       },
       "poetry": [
         {
@@ -2758,6 +2934,10 @@
         "en": "STARS",
         "it": "STELLE"
       },
+      "audio": {
+        "en": "assets/audio/en-stars-poem.mp3",
+        "it": "assets/audio/it-stars-poem.mp3"
+      },
       "poetry": [
         {
           "en": "The light you see tonight",
@@ -2822,6 +3002,10 @@
       "theme": {
         "en": "THE MOON",
         "it": "LA LUNA"
+      },
+      "audio": {
+        "en": "assets/audio/en-the-moon-poem.mp3",
+        "it": "assets/audio/it-the-moon-poem.mp3"
       },
       "poetry": [
         {
@@ -2888,6 +3072,10 @@
         "en": "THE SUN",
         "it": "IL SOLE"
       },
+      "audio": {
+        "en": "assets/audio/en-the-sun-poem.mp3",
+        "it": "assets/audio/it-the-sun-poem.mp3"
+      },
       "poetry": [
         {
           "en": "The sun asks nothing",
@@ -2952,6 +3140,10 @@
       "theme": {
         "en": "SPRING",
         "it": "PRIMAVERA"
+      },
+      "audio": {
+        "en": "assets/audio/en-spring-poem.mp3",
+        "it": "assets/audio/it-spring-poem.mp3"
       },
       "poetry": [
         {
@@ -3018,6 +3210,10 @@
         "en": "AUTUMN",
         "it": "AUTUNNO"
       },
+      "audio": {
+        "en": "assets/audio/en-autumn-poem.mp3",
+        "it": "assets/audio/it-autumn-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Autumn is the only season",
@@ -3082,6 +3278,10 @@
       "theme": {
         "en": "WINTER",
         "it": "INVERNO"
+      },
+      "audio": {
+        "en": "assets/audio/en-winter-poem.mp3",
+        "it": "assets/audio/it-winter-poem.mp3"
       },
       "poetry": [
         {
@@ -3148,6 +3348,10 @@
         "en": "SUMMER",
         "it": "ESTATE"
       },
+      "audio": {
+        "en": "assets/audio/en-summer-poem.mp3",
+        "it": "assets/audio/it-summer-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Summer teaches abundance—",
@@ -3212,6 +3416,10 @@
       "theme": {
         "en": "RAIN",
         "it": "PIOGGIA"
+      },
+      "audio": {
+        "en": "assets/audio/en-rain-poem.mp3",
+        "it": "assets/audio/it-rain-poem.mp3"
       },
       "poetry": [
         {
@@ -3278,6 +3486,10 @@
         "en": "FIRE",
         "it": "FUOCO"
       },
+      "audio": {
+        "en": "assets/audio/en-fire-poem.mp3",
+        "it": "assets/audio/it-fire-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Fire destroys and warms",
@@ -3342,6 +3554,10 @@
       "theme": {
         "en": "WATER",
         "it": "ACQUA"
+      },
+      "audio": {
+        "en": "assets/audio/en-water-poem.mp3",
+        "it": "assets/audio/it-water-poem.mp3"
       },
       "poetry": [
         {
@@ -3408,6 +3624,10 @@
         "en": "EARTH",
         "it": "TERRA"
       },
+      "audio": {
+        "en": "assets/audio/en-earth-poem.mp3",
+        "it": "assets/audio/it-earth-poem.mp3"
+      },
       "poetry": [
         {
           "en": "The earth turns compost into orchard,",
@@ -3472,6 +3692,10 @@
       "theme": {
         "en": "WIND",
         "it": "VENTO"
+      },
+      "audio": {
+        "en": "assets/audio/en-wind-poem.mp3",
+        "it": "assets/audio/it-wind-poem.mp3"
       },
       "poetry": [
         {
@@ -3538,6 +3762,10 @@
         "en": "LIGHT",
         "it": "LUCE"
       },
+      "audio": {
+        "en": "assets/audio/en-light-poem.mp3",
+        "it": "assets/audio/it-light-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Light does not fight the darkness;",
@@ -3602,6 +3830,10 @@
       "theme": {
         "en": "DARKNESS",
         "it": "OSCURITÀ"
+      },
+      "audio": {
+        "en": "assets/audio/en-darkness-poem.mp3",
+        "it": "assets/audio/it-darkness-poem.mp3"
       },
       "poetry": [
         {
@@ -3668,6 +3900,10 @@
         "en": "DAWN",
         "it": "ALBA"
       },
+      "audio": {
+        "en": "assets/audio/en-dawn-poem.mp3",
+        "it": "assets/audio/it-dawn-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Dawn arrives without needing",
@@ -3732,6 +3968,10 @@
       "theme": {
         "en": "DUSK",
         "it": "CREPUSCOLO"
+      },
+      "audio": {
+        "en": "assets/audio/en-dusk-poem.mp3",
+        "it": "assets/audio/it-dusk-poem.mp3"
       },
       "poetry": [
         {
@@ -3798,6 +4038,10 @@
         "en": "MEMORY",
         "it": "MEMORIA"
       },
+      "audio": {
+        "en": "assets/audio/en-memory-poem.mp3",
+        "it": "assets/audio/it-memory-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Memory is not a recording",
@@ -3862,6 +4106,10 @@
       "theme": {
         "en": "DREAMS",
         "it": "SOGNI"
+      },
+      "audio": {
+        "en": "assets/audio/en-dreams-poem.mp3",
+        "it": "assets/audio/it-dreams-poem.mp3"
       },
       "poetry": [
         {
@@ -3928,6 +4176,10 @@
         "en": "IMAGINATION",
         "it": "IMMAGINAZIONE"
       },
+      "audio": {
+        "en": "assets/audio/en-imagination-poem.mp3",
+        "it": "assets/audio/it-imagination-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Imagination is the only room",
@@ -3992,6 +4244,10 @@
       "theme": {
         "en": "CREATIVITY",
         "it": "CREATIVITÀ"
+      },
+      "audio": {
+        "en": "assets/audio/en-creativity-poem.mp3",
+        "it": "assets/audio/it-creativity-poem.mp3"
       },
       "poetry": [
         {
@@ -4058,6 +4314,10 @@
         "en": "HOPE",
         "it": "SPERANZA"
       },
+      "audio": {
+        "en": "assets/audio/en-hope-poem.mp3",
+        "it": "assets/audio/it-hope-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Hope is not the belief that things will improve.",
@@ -4122,6 +4382,10 @@
       "theme": {
         "en": "POETRY",
         "it": "POESIA"
+      },
+      "audio": {
+        "en": "assets/audio/en-poetry-poem.mp3",
+        "it": "assets/audio/it-poetry-poem.mp3"
       },
       "poetry": [
         {
@@ -4188,6 +4452,10 @@
         "en": "SILENCE",
         "it": "SILENZIO"
       },
+      "audio": {
+        "en": "assets/audio/en-silence-poem.mp3",
+        "it": "assets/audio/it-silence-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Silence is not empty;",
@@ -4252,6 +4520,10 @@
       "theme": {
         "en": "STILLNESS",
         "it": "QUIETE"
+      },
+      "audio": {
+        "en": "assets/audio/en-stillness-poem.mp3",
+        "it": "assets/audio/it-stillness-poem.mp3"
       },
       "poetry": [
         {
@@ -4318,6 +4590,10 @@
         "en": "MOVEMENT",
         "it": "MOVIMENTO"
       },
+      "audio": {
+        "en": "assets/audio/en-movement-poem.mp3",
+        "it": "assets/audio/it-movement-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Movement is proof of life—",
@@ -4382,6 +4658,10 @@
       "theme": {
         "en": "JOURNEY",
         "it": "VIAGGIO"
+      },
+      "audio": {
+        "en": "assets/audio/en-journey-poem.mp3",
+        "it": "assets/audio/it-journey-poem.mp3"
       },
       "poetry": [
         {
@@ -4448,6 +4728,10 @@
         "en": "DESTINY",
         "it": "DESTINO"
       },
+      "audio": {
+        "en": "assets/audio/en-destiny-poem.mp3",
+        "it": "assets/audio/it-destiny-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Destiny may be less a fixed line",
@@ -4512,6 +4796,10 @@
       "theme": {
         "en": "CHANCE",
         "it": "CASO"
+      },
+      "audio": {
+        "en": "assets/audio/en-chance-poem.mp3",
+        "it": "assets/audio/it-chance-poem.mp3"
       },
       "poetry": [
         {
@@ -4578,6 +4866,10 @@
         "en": "CHOICE",
         "it": "SCELTA"
       },
+      "audio": {
+        "en": "assets/audio/en-choice-poem.mp3",
+        "it": "assets/audio/it-choice-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Every choice is a small death",
@@ -4642,6 +4934,10 @@
       "theme": {
         "en": "PURPOSE",
         "it": "SCOPO"
+      },
+      "audio": {
+        "en": "assets/audio/en-purpose-poem.mp3",
+        "it": "assets/audio/it-purpose-poem.mp3"
       },
       "poetry": [
         {
@@ -4708,6 +5004,10 @@
         "en": "MEANING",
         "it": "SENSO"
       },
+      "audio": {
+        "en": "assets/audio/en-meaning-poem.mp3",
+        "it": "assets/audio/it-meaning-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Meaning is not found",
@@ -4772,6 +5072,10 @@
       "theme": {
         "en": "IDENTITY",
         "it": "IDENTITÀ"
+      },
+      "audio": {
+        "en": "assets/audio/en-identity-poem.mp3",
+        "it": "assets/audio/it-identity-poem.mp3"
       },
       "poetry": [
         {
@@ -4838,6 +5142,10 @@
         "en": "SELF-LOVE",
         "it": "AMORE DI SÉ"
       },
+      "audio": {
+        "en": "assets/audio/en-self-love-poem.mp3",
+        "it": "assets/audio/it-self-love-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Self-love is not vanity;",
@@ -4902,6 +5210,10 @@
       "theme": {
         "en": "VULNERABILITY",
         "it": "VULNERABILITÀ"
+      },
+      "audio": {
+        "en": "assets/audio/en-vulnerability-poem.mp3",
+        "it": "assets/audio/it-vulnerability-poem.mp3"
       },
       "poetry": [
         {
@@ -4968,6 +5280,10 @@
         "en": "STRENGTH",
         "it": "FORZA"
       },
+      "audio": {
+        "en": "assets/audio/en-strength-poem.mp3",
+        "it": "assets/audio/it-strength-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Real strength is rarely loud.",
@@ -5032,6 +5348,10 @@
       "theme": {
         "en": "WEAKNESS",
         "it": "DEBOLEZZA"
+      },
+      "audio": {
+        "en": "assets/audio/en-weakness-poem.mp3",
+        "it": "assets/audio/it-weakness-poem.mp3"
       },
       "poetry": [
         {
@@ -5098,6 +5418,10 @@
         "en": "FEAR",
         "it": "PAURA"
       },
+      "audio": {
+        "en": "assets/audio/en-fear-poem.mp3",
+        "it": "assets/audio/it-fear-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Fear is not a signal to stop;",
@@ -5162,6 +5486,10 @@
       "theme": {
         "en": "DOUBT",
         "it": "DUBBIO"
+      },
+      "audio": {
+        "en": "assets/audio/en-doubt-poem.mp3",
+        "it": "assets/audio/it-doubt-poem.mp3"
       },
       "poetry": [
         {
@@ -5228,6 +5556,10 @@
         "en": "FAITHFULNESS",
         "it": "FEDELTÀ"
       },
+      "audio": {
+        "en": "assets/audio/en-faithfulness-poem.mp3",
+        "it": "assets/audio/it-faithfulness-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Faithfulness is love",
@@ -5292,6 +5624,10 @@
       "theme": {
         "en": "LONGING",
         "it": "DESIDERIO"
+      },
+      "audio": {
+        "en": "assets/audio/en-longing-poem.mp3",
+        "it": "assets/audio/it-longing-poem.mp3"
       },
       "poetry": [
         {
@@ -5358,6 +5694,10 @@
         "en": "BELONGING",
         "it": "APPARTENENZA"
       },
+      "audio": {
+        "en": "assets/audio/en-belonging-poem.mp3",
+        "it": "assets/audio/it-belonging-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Belonging is not sameness;",
@@ -5422,6 +5762,10 @@
       "theme": {
         "en": "LONELINESS",
         "it": "SOLITUDINE"
+      },
+      "audio": {
+        "en": "assets/audio/en-loneliness-poem.mp3",
+        "it": "assets/audio/it-loneliness-poem.mp3"
       },
       "poetry": [
         {
@@ -5488,6 +5832,10 @@
         "en": "CONNECTION",
         "it": "CONNESSIONE"
       },
+      "audio": {
+        "en": "assets/audio/en-connection-poem.mp3",
+        "it": "assets/audio/it-connection-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Connection is the thread",
@@ -5552,6 +5900,10 @@
       "theme": {
         "en": "COMMUNITY",
         "it": "COMUNITÀ"
+      },
+      "audio": {
+        "en": "assets/audio/en-community-poem.mp3",
+        "it": "assets/audio/it-community-poem.mp3"
       },
       "poetry": [
         {
@@ -5618,6 +5970,10 @@
         "en": "LEGACY",
         "it": "EREDITÀ"
       },
+      "audio": {
+        "en": "assets/audio/en-legacy-poem.mp3",
+        "it": "assets/audio/it-legacy-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Legacy is not the statue",
@@ -5682,6 +6038,10 @@
       "theme": {
         "en": "MORTALITY",
         "it": "MORTALITÀ"
+      },
+      "audio": {
+        "en": "assets/audio/en-mortality-poem.mp3",
+        "it": "assets/audio/it-mortality-poem.mp3"
       },
       "poetry": [
         {
@@ -5748,6 +6108,10 @@
         "en": "REBIRTH",
         "it": "RINASCITA"
       },
+      "audio": {
+        "en": "assets/audio/en-rebirth-poem.mp3",
+        "it": "assets/audio/it-rebirth-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Rebirth does not require dying first,",
@@ -5812,6 +6176,10 @@
       "theme": {
         "en": "INNOCENCE",
         "it": "INNOCENZA"
+      },
+      "audio": {
+        "en": "assets/audio/en-innocence-poem.mp3",
+        "it": "assets/audio/it-innocence-poem.mp3"
       },
       "poetry": [
         {
@@ -5878,6 +6246,10 @@
         "en": "MATURITY",
         "it": "MATURITÀ"
       },
+      "audio": {
+        "en": "assets/audio/en-maturity-poem.mp3",
+        "it": "assets/audio/it-maturity-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Maturity is not the loss of wonder",
@@ -5942,6 +6314,10 @@
       "theme": {
         "en": "WISDOM OF AGE",
         "it": "SAGGEZZA DELL'ETÀ"
+      },
+      "audio": {
+        "en": "assets/audio/en-wisdom-of-age-poem.mp3",
+        "it": "assets/audio/it-wisdom-of-age-poem.mp3"
       },
       "poetry": [
         {
@@ -6008,6 +6384,10 @@
         "en": "CHILDHOOD",
         "it": "INFANZIA"
       },
+      "audio": {
+        "en": "assets/audio/en-childhood-poem.mp3",
+        "it": "assets/audio/it-childhood-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Childhood is the only time",
@@ -6072,6 +6452,10 @@
       "theme": {
         "en": "LAUGHTER",
         "it": "RISO"
+      },
+      "audio": {
+        "en": "assets/audio/en-laughter-poem.mp3",
+        "it": "assets/audio/it-laughter-poem.mp3"
       },
       "poetry": [
         {
@@ -6138,6 +6522,10 @@
         "en": "TEARS",
         "it": "LACRIME"
       },
+      "audio": {
+        "en": "assets/audio/en-tears-poem.mp3",
+        "it": "assets/audio/it-tears-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Tears are not a failure of composure;",
@@ -6202,6 +6590,10 @@
       "theme": {
         "en": "SACRIFICE",
         "it": "SACRIFICIO"
+      },
+      "audio": {
+        "en": "assets/audio/en-sacrifice-poem.mp3",
+        "it": "assets/audio/it-sacrifice-poem.mp3"
       },
       "poetry": [
         {
@@ -6268,6 +6660,10 @@
         "en": "DEVOTION",
         "it": "DEVOLUZIONE"
       },
+      "audio": {
+        "en": "assets/audio/en-devotion-poem.mp3",
+        "it": "assets/audio/it-devotion-poem.mp3"
+      },
       "poetry": [
         {
           "en": "Devotion is not obsession;",
@@ -6333,6 +6729,10 @@
         "en": "BLOOMING",
         "it": "FIORITURA"
       },
+      "audio": {
+        "en": "assets/audio/en-blooming-poem.mp3",
+        "it": "assets/audio/it-blooming-poem.mp3"
+      },
       "poetry": [
         {
           "en": "O Bloomer, thou the flourisher of art,",
@@ -6385,6 +6785,10 @@
       "theme": {
         "en": "FOREVER",
         "it": "PER SEMPRE"
+      },
+      "audio": {
+        "en": "assets/audio/en-forever-poem.mp3",
+        "it": "assets/audio/it-forever-poem.mp3"
       },
       "poetry": [
         {
