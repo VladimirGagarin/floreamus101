@@ -240,68 +240,56 @@
     {
       "number": "006",
       "theme": {
-        "en": "WISDOM",
-        "it": "SAGGEZZA"
+        "en": "JOY",
+        "it": "GIOIA"
       },
       "audio": {
-        "en": "assets/audio/en-wisdom-poem.mp3",
-        "it": "assets/audio/it-wisdom-poem.mp3"
+        "en": "assets/audio/en-joy-poem.mp3",
+        "it": "assets/audio/it-joy-poem.mp3"
       },
       "poetry": [
         {
-          "en": "Wisdom is not the answer",
-          "it": "La saggezza non è la risposta"
+          "en": "O Joy, thou the sweet fragrance of art,",
+          "it": "O Gioia, tu sei il dolce profumo dell'arte,"
         },
         {
-          "en": "but the shape of the question,",
-          "it": "ma la forma della domanda,"
+          "en": "Thou makest the quietest moments bright.",
+          "it": "Tu rendi luminosi anche i momenti più silenziosi."
         },
         {
-          "en": "softened by years",
-          "it": "ammorbidita dagli anni"
+          "en": "Thou risest like the sun within the heart,",
+          "it": "Tu sorgi come il sole dentro il cuore,"
         },
         {
-          "en": "into something you can hold.",
-          "it": "in qualcosa che puoi tenere tra le mani."
+          "en": "And turnest common days to pure delight.",
+          "it": "E trasformi i giorni comuni in pura gioia."
         },
         {
-          "en": "The young seek certainty;",
-          "it": "I giovani cercano la certezza;"
+          "en": "So let thy joy be shared wherever thou art,",
+          "it": "Dunque lascia che la tua gioia sia condivisa ovunque tu sia,"
         },
         {
-          "en": "the wise seek better uncertainties—",
-          "it": "i saggi cercano incertezze migliori—"
+          "en": "Let laughter and wonder find room in thy heart.",
+          "it": "Lascia che il riso e la meraviglia trovino spazio nel tuo cuore."
         },
         {
-          "en": "they have learned that the map",
-          "it": "hanno imparato che la mappa"
+          "en": "For joy, when given, groweth ever anew,",
+          "it": "Poiché la gioia, quando viene donata, cresce sempre di nuovo,"
         },
         {
-          "en": "was never the territory.",
-          "it": "non è mai stata il territorio."
+          "en": "And what thou makest bloom shall bloom in you.",
+          "it": "E ciò che fai fiorire continuerà a fiorire in te."
         }
       ],
       "perplexing_question": [
         {
-          "en": "If the wise no longer seek certainty,",
-          "it": "Se i saggi non cercano più la certezza,"
-        },
-        {
-          "en": "have they found more answers—",
-          "it": "hanno trovato più risposte—"
-        },
-        {
-          "en": "or simply grown fond",
-          "it": "o semplicemente si sono affezionati"
-        },
-        {
-          "en": "of better questions?",
-          "it": "a domande migliori?"
+          "en": "If you could have everything you wished for, but never feel joy, would you still call it a happy life?",
+          "it": "Se potessi avere tutto ciò che desideri, ma non provassi mai gioia, la chiameresti comunque una vita felice?"
         }
       ],
       "quote": {
-        "en": "Wisdom is the applause of a life that has finally stopped performing.",
-        "it": "La saggezza è l'applauso di una vita che ha finalmente smesso di recitare."
+        "en": "Joy is the art of making the heart bloom, even when the garden is not yet in flower.",
+        "it": "La gioia è l'arte di far fiorire il cuore, anche quando il giardino non è ancora in fiore."
       },
       "author": "Roses Of Rome Pictures",
       "production": "An Aeternum Floreamus Production"
@@ -585,68 +573,68 @@
     {
       "number": "011",
       "theme": {
-        "en": "JOY",
-        "it": "GIOIA"
+        "en": "WISDOM",
+        "it": "SAGGEZZA"
       },
       "audio": {
-        "en": "assets/audio/en-joy-poem.mp3",
-        "it": "assets/audio/it-joy-poem.mp3"
+        "en": "assets/audio/en-wisdom-poem.mp3",
+        "it": "assets/audio/it-wisdom-poem.mp3"
       },
       "poetry": [
         {
-          "en": "Joy is not happiness's louder cousin.",
-          "it": "La gioia non è il cugino più rumoroso della felicità."
+          "en": "Wisdom is not the answer",
+          "it": "La saggezza non è la risposta"
         },
         {
-          "en": "It can sit beside grief",
-          "it": "Può sedersi accanto al dolore"
+          "en": "but the shape of the question,",
+          "it": "ma la forma della domanda,"
         },
         {
-          "en": "without asking it to leave.",
-          "it": "senza chiedergli di andarsene."
+          "en": "softened by years",
+          "it": "ammorbidita dagli anni"
         },
         {
-          "en": "It is the small, defiant pulse",
-          "it": "È il piccolo impulso ostinato"
+          "en": "into something you can hold.",
+          "it": "in qualcosa che puoi tenere tra le mani."
         },
         {
-          "en": "that returns after every loss,",
-          "it": "che ritorna dopo ogni perdita,"
+          "en": "The young seek certainty;",
+          "it": "I giovani cercano la certezza;"
         },
         {
-          "en": "proof that the heart",
-          "it": "prova che il cuore"
+          "en": "the wise seek better uncertainties—",
+          "it": "i saggi cercano incertezze migliori—"
         },
         {
-          "en": "was built for more",
-          "it": "è stato creato per più"
+          "en": "they have learned that the map",
+          "it": "hanno imparato che la mappa"
         },
         {
-          "en": "than merely surviving.",
-          "it": "che per il semplice sopravvivere."
+          "en": "was never the territory.",
+          "it": "non è mai stata il territorio."
         }
       ],
       "perplexing_question": [
         {
-          "en": "If joy can sit beside grief without asking it to leave,",
-          "it": "Se la gioia può sedersi accanto al dolore senza chiedergli di andarsene,"
+          "en": "If the wise no longer seek certainty,",
+          "it": "Se i saggi non cercano più la certezza,"
         },
         {
-          "en": "are they opposites—",
-          "it": "sono opposti—"
+          "en": "have they found more answers—",
+          "it": "hanno trovato più risposte—"
         },
         {
-          "en": "or two windows",
-          "it": "o due finestre"
+          "en": "or simply grown fond",
+          "it": "o semplicemente si sono affezionati"
         },
         {
-          "en": "in the very same room?",
-          "it": "nella stessa stanza?"
+          "en": "of better questions?",
+          "it": "a domande migliori?"
         }
       ],
       "quote": {
-        "en": "Joy is grief's stubborn cousin, arriving anyway.",
-        "it": "La gioia è il cugino ostinato del dolore, che arriva comunque."
+        "en": "Wisdom is the applause of a life that has finally stopped performing.",
+        "it": "La saggezza è l'applauso di una vita che ha finalmente smesso di recitare."
       },
       "author": "Roses Of Rome Pictures",
       "production": "An Aeternum Floreamus Production"
