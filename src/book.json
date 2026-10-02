@@ -135,24 +135,24 @@
       },
       "poetry": [
         {
-          "en": "O Music, thou sovereign queen of the art,",
-          "it": "O Musica, sovrana regina dell'arte,"
+          "en": "O Music, thou sovereign queen of art,",
+          "it": "O Musica, tu sovrana regina dell'arte,"
         },
         {
-          "en": "Thou reignest in the deepest chambers of hearts.",
-          "it": "Tu regni nelle stanze più profonde dei cuori."
+          "en": "Thou reignest within the deepest chambers of hearts.",
+          "it": "Tu regni nelle più profonde camere dei cuori."
         },
         {
-          "en": "O gentle harmony that awakens the dawn,",
-          "it": "O dolce armonia che risveglia l'alba,"
+          "en": "O sweet harmony that awakens the dawn,",
+          "it": "O dolce armonia che risveglia l'aurora,"
         },
         {
           "en": "Thy melodies bloom long after the sound is gone.",
-          "it": "Le tue melodie fioriscono a lungo dopo che il suono è svanito."
+          "it": "Le tue melodie fioriscono molto tempo dopo che il suono è svanito."
         },
         {
-          "en": "So sing, let thy melody brighten the day,",
-          "it": "Dunque canta, lascia che la tua melodia illumini il giorno,"
+          "en": "Sing then, let thy melody brighten the day,",
+          "it": "Canta dunque, lascia che la tua melodia illumini il giorno,"
         },
         {
           "en": "Let thy heart make music in its own way.",
@@ -160,7 +160,7 @@
         },
         {
           "en": "Give voice to the beauty that lives within thee,",
-          "it": "Dà voce alla bellezza che vive dentro di te,"
+          "it": "Dai voce alla bellezza che vive dentro di te,"
         },
         {
           "en": "And let thy song bloom forever, wild and free.",
@@ -193,7 +193,7 @@
       "poetry": [
         {
           "en": "O Life, thou wonderful masterpiece of art,",
-          "it": "O Vita, tu meraviglioso capolavoro d'arte,"
+          "it": "O Vita, meraviglioso capolavoro dell'arte,"
         },
         {
           "en": "Thou makest every work of art breathe,",
@@ -201,15 +201,15 @@
         },
         {
           "en": "Thou turnest a blank canvas into a living story,",
-          "it": "Trasformi una tela bianca in una storia vivente,"
+          "it": "Tu trasformi una tela bianca in una storia vivente,"
         },
         {
           "en": "And makest every moment a treasure to keep.",
-          "it": "E rendi ogni momento un tesoro da custodire."
+          "it": "E fai di ogni momento un tesoro da custodire."
         },
         {
-          "en": "So live, paint, draw, and love thy art,",
-          "it": "Dunque vivi, dipingi, disegna e ama la tua arte,"
+          "en": "Go forth, paint, draw, and love thy art,",
+          "it": "Va' dunque, dipingi, disegna e ama la tua arte,"
         },
         {
           "en": "Let every moment be shaped by thy heart.",
@@ -221,7 +221,7 @@
         },
         {
           "en": "Not eternal, yet thy art shall bloom forever.",
-          "it": "Non eterno, eppure la tua arte fiorirà per sempre."
+          "it": "Non eterna, eppure la tua arte fiorirà per sempre."
         }
       ],
       "perplexing_question": [
@@ -250,35 +250,35 @@
       "poetry": [
         {
           "en": "O Joy, thou the sweet fragrance of art,",
-          "it": "O Gioia, tu sei il dolce profumo dell'arte,"
+          "it": "O Gioia, tu dolce fragranza dell'arte,"
         },
         {
           "en": "Thou makest the quietest moments bright.",
-          "it": "Tu rendi luminosi anche i momenti più silenziosi."
+          "it": "Tu illumini anche i momenti più silenziosi."
         },
         {
           "en": "Thou risest like the sun within the heart,",
-          "it": "Tu sorgi come il sole dentro il cuore,"
+          "it": "Tu sorgi come il sole nel profondo del cuore,"
         },
         {
           "en": "And turnest common days to pure delight.",
-          "it": "E trasformi i giorni comuni in pura gioia."
+          "it": "E trasformi i giorni comuni in pura felicità."
         },
         {
-          "en": "So let thy joy be shared wherever thou art,",
-          "it": "Dunque lascia che la tua gioia sia condivisa ovunque tu sia,"
+          "en": "Come then, and share thy joy wherever thou art,",
+          "it": "Vieni dunque, e condividi la tua gioia ovunque tu sia,"
         },
         {
           "en": "Let laughter and wonder find room in thy heart.",
-          "it": "Lascia che il riso e la meraviglia trovino spazio nel tuo cuore."
+          "it": "Lascia che la meraviglia e il sorriso trovino spazio nel tuo cuore."
         },
         {
           "en": "For joy, when given, groweth ever anew,",
-          "it": "Poiché la gioia, quando viene donata, cresce sempre di nuovo,"
+          "it": "Poiché la gioia, quando viene donata, rifiorisce sempre di nuovo,"
         },
         {
-          "en": "And what thou makest bloom shall bloom in you.",
-          "it": "E ciò che fai fiorire continuerà a fiorire in te."
+          "en": "And what thou makest bloom shall bloom in you",
+          "it": "E ciò che fai fiorire negli altri fiorirà anche in te."
         }
       ],
       "perplexing_question": [
@@ -306,54 +306,42 @@
       },
       "poetry": [
         {
-          "en": "Gratitude is a way of keeping",
-          "it": "La gratitudine è un modo di custodire"
+          "en": "O Gratitude, thou gentle bloom of art,",
+          "it": "O Gratitudine, gentile fiore dell'arte,"
         },
         {
-          "en": "what would otherwise slip past unnoticed:",
-          "it": "ciò che altrimenti sfuggirebbe inosservato:"
+          "en": "Thou art the quiet sunlight of the heart.",
+          "it": "Tu sei la luce serena del cuore."
         },
         {
-          "en": "the ordinary Tuesday,",
-          "it": "il martedì qualunque,"
+          "en": "Thou teachest humble moments how to shine,",
+          "it": "Tu insegni ai momenti più umili a splendere,"
         },
         {
-          "en": "the second cup of coffee,",
-          "it": "la seconda tazza di caffè,"
+          "en": "And turnest fleeting hours into the divine.",
+          "it": "E trasformi le ore fugaci in qualcosa di eterno."
         },
         {
-          "en": "the friend who calls for no reason.",
-          "it": "l'amico che telefona senza motivo."
+          "en": "Give thanks for every blessing on thy way,",
+          "it": "Rendi grazie per ogni dono sul cammino,"
         },
         {
-          "en": "It does not wait for the extraordinary.",
-          "it": "Non attende lo straordinario."
+          "en": "Let grateful thoughts illumine every day.",
+          "it": "Lascia che la riconoscenza illumini il destino."
         },
         {
-          "en": "It builds a home",
-          "it": "Costruisce una casa"
+          "en": "For hearts that cherish gifts both great and small",
+          "it": "Poiché i cuori che custodiscono ogni bene ricevuto"
         },
         {
-          "en": "out of what was already here.",
-          "it": "con quello che era già qui."
+          "en": "Shall bloom forever, finding joy in all.",
+          "it": "Fioriranno per sempre nella gioia e nel vissuto."
         }
       ],
       "perplexing_question": [
         {
-          "en": "If gratitude is a way of keeping what would slip past,",
-          "it": "Se la gratitudine è un modo di custodire ciò che sfuggirebbe,"
-        },
-        {
-          "en": "does it change the gift—",
-          "it": "cambia il dono—"
-        },
-        {
-          "en": "or only the hands",
-          "it": "o solo le mani"
-        },
-        {
-          "en": "that finally noticed it?",
-          "it": "che finalmente l'hanno notato?"
+          "en": "If you lost everything you once gave thanks for, would you still find something to be grateful for?",
+          "it": "Se perdessi tutto ciò per cui un tempo rendevi grazie, troveresti ancora qualcosa per cui essere riconoscente?"
         }
       ],
       "quote": {
@@ -366,74 +354,119 @@
     {
       "number": "008",
       "theme": {
-        "en": "PATIENCE",
-        "it": "PAZIENZA"
+        "en": "MORNING",
+        "it": "MATTINA"
       },
       "audio": {
-        "en": "assets/audio/en-patience-poem.mp3",
-        "it": "assets/audio/it-patience-poem.mp3"
+        "en": "assets/audio/en-morning-poem.mp3",
+        "it": "assets/audio/it-morning-poem.mp3"
       },
       "poetry": [
         {
-          "en": "Patience is not the absence of urgency",
-          "it": "La pazienza non è l'assenza di urgenza"
+          "en": "O Morning, thou fair herald of art,",
+          "it": "O Mattina, tu bella araldo dell'arte,"
         },
         {
-          "en": "but its quiet translation",
-          "it": "ma la sua silenziosa traduzione"
+          "en": "Thou paintest the world with hues of blessings.",
+          "it": "Tu dipingi il mondo con sfumature di benedizioni."
         },
         {
-          "en": "into something bearable.",
-          "it": "in qualcosa di sopportabile."
+          "en": "Thou wakest the flowers and gladdenest the heart,",
+          "it": "Tu risvegli i fiori e rallegri il cuore,"
         },
         {
-          "en": "The seed does not resent the winter;",
-          "it": "Il seme non risente dell'inverno;"
+          "en": "And bringest new hope with thy golden light.",
+          "it": "E porti nuova speranza con la tua luce dorata."
         },
         {
-          "en": "it simply becomes",
-          "it": "semplicemente diventa"
+          "en": "Arise then with the morning wherever thou art,",
+          "it": "Sorgi dunque con il mattino ovunque tu sia,"
         },
         {
-          "en": "what winter requires it to become.",
-          "it": "ciò che l'inverno richiede che diventi."
+          "en": "And make the new day a delight of thy heart.",
+          "it": "E fa' del nuovo giorno una gioia del tuo cuore."
         },
         {
-          "en": "So too the soul,",
-          "it": "Così anche l'anima,"
+          "en": "Leave yesterday softly and welcome the new,",
+          "it": "Lascia andare dolcemente ieri e accogli il nuovo,"
         },
         {
-          "en": "waiting for its own particular spring.",
-          "it": "in attesa della sua particolare primavera."
+          "en": "For every sunrise brings a chance to bloom anew.",
+          "it": "Poiché ogni alba porta una nuova occasione di fiorire."
         }
       ],
       "perplexing_question": [
         {
-          "en": "If patience is urgency in disguise,",
-          "it": "Se la pazienza è un'urgenza travestita,"
-        },
-        {
-          "en": "is it strength that waits—",
-          "it": "è la forza che attende—"
-        },
-        {
-          "en": "or simply pain",
-          "it": "o semplicemente un dolore"
-        },
-        {
-          "en": "that has learned to be quiet?",
-          "it": "che ha imparato a tacere?"
+          "en": "If every morning gave you a new beginning, but you had to forget one precious memory, would you still choose to begin again?",
+          "it": "Se ogni mattina ti offrisse un nuovo inizio, ma dovessi dimenticare un ricordo prezioso, sceglieresti comunque di ricominciare?"
         }
       ],
       "quote": {
-        "en": "Patience is the quiet negotiation between longing and time.",
-        "it": "La pazienza è la silenziosa trattativa tra il desiderio e il tempo."
+        "en": "Morning is the art of beginning again, no matter how unfinished yesterday may have been.",
+        "it": "Il mattino è l'arte di ricominciare, non importa quanto incompiuto possa essere stato ieri."
       },
       "author": "Roses Of Rome Pictures",
       "production": "An Aeternum Floreamus Production"
     },
     {
       "number": "009",
+      "theme": {
+        "en": "GREETINGS",
+        "it": "SALUTI"
+      },
+      "audio": {
+        "en": "assets/audio/en-greetings-poem.mp3",
+        "it": "assets/audio/it-greetings-poem.mp3"
+      },
+      "poetry": [
+        {
+          "en": "O Greetings, thou gracious gesture of art,",
+          "it": "O Saluti, voi cortese gesto dell'arte,"
+        },
+        {
+          "en": "Thou openest doors from heart unto heart.",
+          "it": "Aprite le porte da cuore a cuore."
+        },
+        {
+          "en": "Thou turnest strangers into friends anew,",
+          "it": "Trasformate gli estranei in nuovi amici,"
+        },
+        {
+          "en": "And bringest warmth wherever thou passest through.",
+          "it": "E portate calore ovunque passiate."
+        },
+        {
+          "en": "Come forth, greet each soul wherever thou art,",
+          "it": "Vieni dunque, saluta ogni anima ovunque tu sia,"
+        },
+        {
+          "en": "Let kindness and welcome abide in thy heart.",
+          "it": "Lascia che gentilezza e accoglienza dimorino nel tuo cuore."
+        },
+        {
+          "en": "For every greeting freely bestowed in grace,",
+          "it": "Poiché ogni saluto offerto con grazia e bontà,"
+        },
+        {
+          "en": "May plant a flower of friendship in its place.",
+          "it": "Può piantare un fiore d'amicizia lungo il suo cammino."
+        }
+      ],
+      "perplexing_question": [
+        {
+          "en": "If every greeting came with a price, wouldst thou spend it freely upon strangers, or reserve it only for those thou already knowest?",
+          "it": "Se ogni saluto avesse un prezzo, lo offriresti liberamente agli estranei, oppure lo conserveresti soltanto per coloro che già conosci?"
+        }
+      ],
+      "quote": {
+        "en": "A greeting is the smallest art that can make another soul feel seen.",
+        "it": "Un saluto è la più piccola forma d'arte capace di far sentire un'altra anima veramente vista."
+      },
+      "author": "Roses Of Rome Pictures",
+      "production": "An Aeternum Floreamus Production"
+    },
+    {
+      "number": "010",
       "theme": {
         "en": "FORGIVENESS",
         "it": "PERDONO"
@@ -444,128 +477,47 @@
       },
       "poetry": [
         {
-          "en": "To forgive is not to forget",
-          "it": "Perdonare non è dimenticare"
+          "en": "O Forgiveness, thou gentle mercy of art,",
+          "it": "O Perdono, tu dolce misericordia dell'arte,"
         },
         {
-          "en": "but to stop paying rent",
-          "it": "ma smettere di pagare l'affitto"
+          "en": "Thou healest the wounds that burden the heart.",
+          "it": "Tu guarisci le ferite che gravano sul cuore."
         },
         {
-          "en": "on a room you no longer live in.",
-          "it": "di una stanza in cui non vivi più."
+          "en": "Thou loosest the chains of sorrow and pain,",
+          "it": "Tu sciogli le catene della tristezza e del dolore,"
         },
         {
-          "en": "It is not owed to the one who wronged you—",
-          "it": "Non è dovuto a chi ti ha offeso—"
+          "en": "And teachest the weary to hope once again.",
+          "it": "E insegni agli stanchi a sperare ancora una volta."
         },
         {
-          "en": "it is owed to yourself,",
-          "it": "è dovuto a te stesso,"
+          "en": "Come then, forgive, though the wound may remain,",
+          "it": "Vieni dunque, perdona, anche se la ferita rimane,"
         },
         {
-          "en": "the only tenant left inside the wound.",
-          "it": "l'unico inquilino rimasto dentro la ferita."
+          "en": "Let mercy wash gently away the pain.",
+          "it": "Lascia che la misericordia lavi dolcemente via il dolore."
         },
         {
-          "en": "Release, and the room",
-          "it": "Lascia andare, e la stanza"
+          "en": "Release what hath kept thy spirit confined,",
+          "it": "Libera ciò che ha tenuto il tuo spirito prigioniero,"
         },
         {
-          "en": "becomes yours again.",
-          "it": "torna a essere tua."
+          "en": "And let peace make a garden within thy mind.",
+          "it": "E lascia che la pace faccia un giardino nella tua mente."
         }
       ],
       "perplexing_question": [
         {
-          "en": "If forgiveness frees the one who forgives,",
-          "it": "Se il perdono libera chi perdona,"
-        },
-        {
-          "en": "was it ever truly a gift",
-          "it": "è stato davvero un dono"
-        },
-        {
-          "en": "to the one forgiven—",
-          "it": "a chi è stato perdonato—"
-        },
-        {
-          "en": "or a mercy kept for yourself?",
-          "it": "o una misericordia tenuta per te stesso?"
+          "en": "If forgiveness could be given only once in thy lifetime, to whom wouldst thou offer it: another soul, or thyself?",
+          "it": "Se il perdono potesse essere concesso una sola volta nella tua vita, a chi lo offriresti: a un'altra anima o a te stesso?"
         }
       ],
       "quote": {
-        "en": "Forgiveness is the only key that unlocks a door from the inside.",
-        "it": "Il perdono è l'unica chiave che apre una porta dall'interno."
-      },
-      "author": "Roses Of Rome Pictures",
-      "production": "An Aeternum Floreamus Production"
-    },
-    {
-      "number": "010",
-      "theme": {
-        "en": "HUMILITY",
-        "it": "UMILTÀ"
-      },
-      "audio": {
-        "en": "assets/audio/en-humility-poem.mp3",
-        "it": "assets/audio/it-humility-poem.mp3"
-      },
-      "poetry": [
-        {
-          "en": "Humility is not thinking less of yourself",
-          "it": "L'umiltà non è pensare meno di te stesso"
-        },
-        {
-          "en": "but thinking of yourself less,",
-          "it": "ma pensare a te stesso di meno,"
-        },
-        {
-          "en": "the philosopher said,",
-          "it": "disse il filosofo,"
-        },
-        {
-          "en": "and the mountain agrees—",
-          "it": "e la montagna è d'accordo—"
-        },
-        {
-          "en": "it does not measure its own height,",
-          "it": "non misura la propria altezza,"
-        },
-        {
-          "en": "it simply lets the valley",
-          "it": "lascia semplicemente che sia la valle"
-        },
-        {
-          "en": "decide what greatness means",
-          "it": "a decidere cosa significhi grandezza"
-        },
-        {
-          "en": "by comparison.",
-          "it": "per confronto."
-        }
-      ],
-      "perplexing_question": [
-        {
-          "en": "If the mountain never measures its own height,",
-          "it": "Se la montagna non misura mai la propria altezza,"
-        },
-        {
-          "en": "is it humble—",
-          "it": "è umile—"
-        },
-        {
-          "en": "or simply unaware",
-          "it": "o semplicemente ignara"
-        },
-        {
-          "en": "that height was ever a question?",
-          "it": "che l'altezza fosse mai una questione?"
-        }
-      ],
-      "quote": {
-        "en": "Humility is the mountain that never mentions its height.",
-        "it": "L'umiltà è la montagna che non menziona mai la propria altezza."
+        "en": "Forgiveness is the flower that blooms peace where sorrow once took root.",
+        "it": "Il perdono è il fiore che fa sbocciare la pace dove un tempo mise radici il dolore."
       },
       "author": "Roses Of Rome Pictures",
       "production": "An Aeternum Floreamus Production"
