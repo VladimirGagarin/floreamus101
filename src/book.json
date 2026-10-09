@@ -525,68 +525,54 @@
     {
       "number": "011",
       "theme": {
-        "en": "WISDOM",
-        "it": "SAGGEZZA"
+        "en": "ROSE",
+        "it": "ROSA"
       },
       "audio": {
-        "en": "assets/audio/en-wisdom-poem.mp3",
-        "it": "assets/audio/it-wisdom-poem.mp3"
+        "en": "assets/audio/en-rose-poem.mp3",
+        "it": "assets/audio/it-rose-poem.mp3"
       },
       "poetry": [
         {
-          "en": "Wisdom is not the answer",
-          "it": "La saggezza non è la risposta"
+          "en": "O Rose, most sovereign blossom of the earth,",
+          "it": "O Rosa, fiore sovrano della terra,"
         },
         {
-          "en": "but the shape of the question,",
-          "it": "ma la forma della domanda,"
+          "en": "Thou crowned queen of beauty, grace, and worth.",
+          "it": "Tu, regina incoronata di bellezza, grazia e valore."
         },
         {
-          "en": "softened by years",
-          "it": "ammorbidita dagli anni"
+          "en": "Thy silken petals breathe love's tender sighs,",
+          "it": "I tuoi petali di seta sussurrano dolci sospiri d'amore,"
         },
         {
-          "en": "into something you can hold.",
-          "it": "in qualcosa che puoi tenere tra le mani."
+          "en": "Like rosy dawns that gild the summer skies.",
+          "it": "Come aurore rosate che dorano i cieli d'estate."
         },
         {
-          "en": "The young seek certainty;",
-          "it": "I giovani cercano la certezza;"
+          "en": "Then bloom, dear soul, as blooms the noble Rose,",
+          "it": "Fiorisci dunque, anima cara, come fiorisce la nobile Rosa,"
         },
         {
-          "en": "the wise seek better uncertainties—",
-          "it": "i saggi cercano incertezze migliori—"
+          "en": "Though tempests howl and winter winds oppose;",
+          "it": "Anche se ululano le tempeste e si oppongono i venti d'inverno;"
         },
         {
-          "en": "they have learned that the map",
-          "it": "hanno imparato che la mappa"
+          "en": "Unfold thy grace beneath both sun and rain,",
+          "it": "Dischiudi la tua grazia sotto il sole e la pioggia,"
         },
         {
-          "en": "was never the territory.",
-          "it": "non è mai stata il territorio."
+          "en": "And in thy heart thou shalt forever bloom.",
+          "it": "E nel tuo cuore fiorirai per sempre."
         }
       ],
-      "perplexing_question": [
-        {
-          "en": "If the wise no longer seek certainty,",
-          "it": "Se i saggi non cercano più la certezza,"
-        },
-        {
-          "en": "have they found more answers—",
-          "it": "hanno trovato più risposte—"
-        },
-        {
-          "en": "or simply grown fond",
-          "it": "o semplicemente si sono affezionati"
-        },
-        {
-          "en": "of better questions?",
-          "it": "a domande migliori?"
-        }
-      ],
+      "perplexing_question": {
+        "en": "If thou couldst choose, wouldst thou rather have the beauty of a rose or the power to make everyone who sees it feel loved?",
+        "it": "Se potessi scegliere, preferiresti avere la bellezza di una rosa o il potere di far sentire amato chiunque la guardi?"
+      },
       "quote": {
-        "en": "Wisdom is the applause of a life that has finally stopped performing.",
-        "it": "La saggezza è l'applauso di una vita che ha finalmente smesso di recitare."
+        "en": "True beauty is not in being admired, but in spreading fragrance wherever thou art.",
+        "it": "La vera bellezza non sta nell'essere ammirati, ma nel diffondere il proprio profumo ovunque ci si trovi."
       },
       "author": "Roses Of Rome Pictures",
       "production": "An Aeternum Floreamus Production"
@@ -594,68 +580,54 @@
     {
       "number": "012",
       "theme": {
-        "en": "PEACE",
-        "it": "PACE"
-      },
-      "audio": {
-        "en": "assets/audio/en-peace-poem.mp3",
-        "it": "assets/audio/it-peace-poem.mp3"
+        "en": "CHERRY BLOSSOM",
+        "it": "FIOR DI CILIEGIO"
       },
       "poetry": [
         {
-          "en": "Peace is not the absence of storm",
-          "it": "La pace non è l'assenza di tempesta"
+          "en": "O Cherry Blossom, jewel of the vernal skies,",
+          "it": "O fiore di ciliegio, gioiello dei cieli primaverili,"
         },
         {
-          "en": "but the steadiness beneath it—",
-          "it": "ma la stabilità sottostante—"
+          "en": "O Cherry Blossom, fairest herald of the spring,",
+          "it": "O fiore di ciliegio, splendido annuncio della primavera,"
         },
         {
-          "en": "the seabed unmoved",
-          "it": "il fondale che non si muove"
+          "en": "Thou dost to earth celestial beauty bring.",
+          "it": "Tu porti sulla terra una bellezza celestiale."
         },
         {
-          "en": "while the surface breaks and churns.",
-          "it": "mentre la superficie si rompe e si agita."
+          "en": "Like fleeting dreams that bless the earth with sighs.",
+          "it": "Come sogni fugaci che benedicono la terra con dolci sospiri."
         },
         {
-          "en": "We look for it in quiet places",
-          "it": "La cerchiamo nei luoghi silenziosi"
+          "en": "Come then, cherish the blossoms of time,",
+          "it": "Vieni dunque, custodisci i fiori del tempo,"
         },
         {
-          "en": "when it was always internal,",
-          "it": "quando era sempre interna,"
+          "en": "For time shall take each bloom in its prime;",
+          "it": "Poiché il tempo coglierà ogni fiore nel suo splendore;"
         },
         {
-          "en": "a room we carry",
-          "it": "una stanza che portiamo con noi"
+          "en": "Gather each moment, let its beauty remain,",
+          "it": "Raccogli ogni istante, lascia che la sua bellezza rimanga,"
         },
         {
-          "en": "and sometimes forget to enter.",
-          "it": "e che a volte dimentichiamo di attraversare."
+          "en": "And make fleeting joys forever bloom again.",
+          "it": "E fa' che le gioie fugaci rifioriscano per sempre."
         }
       ],
-      "perplexing_question": [
-        {
-          "en": "If the seabed stays still while the surface breaks,",
-          "it": "Se il fondale resta fermo mentre la superficie si rompe,"
-        },
-        {
-          "en": "is peace the absence of storm—",
-          "it": "la pace è l'assenza di tempesta—"
-        },
-        {
-          "en": "or the place",
-          "it": "o il luogo"
-        },
-        {
-          "en": "the storm cannot reach?",
-          "it": "dove la tempesta non può arrivare?"
-        }
-      ],
+      "perplexing_question": {
+        "en": "If thou couldst preserve one moment of thy life forever, which moment wouldst thou choose, and why?",
+        "it": "Se potessi custodire per sempre un solo momento della tua vita, quale sceglieresti e perché?"
+      },
       "quote": {
-        "en": "Peace is the argument you finally decide not to have with yourself.",
-        "it": "La pace è la discussione che finalmente decidi di non avere con te stesso."
+        "en": "Though time may fade the blossoms we behold, the moments we cherish shall bloom forever.",
+        "it": "Anche se il tempo appassirà i fiori che ammiriamo, i momenti che custodiamo nel cuore fioriranno per sempre."
+      },
+      "audio": {
+        "en": "assets/audio/en-cherry-poem.mp3",
+        "it": "assets/audio/it-cherry-poem.mp3"
       },
       "author": "Roses Of Rome Pictures",
       "production": "An Aeternum Floreamus Production"
@@ -663,68 +635,54 @@
     {
       "number": "013",
       "theme": {
-        "en": "TRUTH",
-        "it": "VERITÀ"
-      },
-      "audio": {
-        "en": "assets/audio/en-truth-poem.mp3",
-        "it": "assets/audio/it-truth-poem.mp3"
+        "en": "EDELWEISS",
+        "it": "STELLA ALPINA"
       },
       "poetry": [
         {
-          "en": "Truth does not need your belief",
-          "it": "La verità non ha bisogno che tu creda"
+          "en": "O Edelweiss, fair star of alpine heights,",
+          "it": "O stella alpina, bella stella delle vette,"
         },
         {
-          "en": "to remain true,",
-          "it": "per restare vera,"
+          "en": "Thou crown'st the cliffs with heaven's purest lights.",
+          "it": "Tu incoroni le rupi con le luci più pure del cielo."
         },
         {
-          "en": "and this should comfort you,",
-          "it": "e questo dovrebbe confortarti,"
+          "en": "Thy snowy petals shine in spotless white,",
+          "it": "I tuoi petali candidi brillano di bianco immacolato,"
         },
         {
-          "en": "not frighten you.",
-          "it": "non spaventarti."
+          "en": "Like faith that standeth firm through darkest night.",
+          "it": "Come la fede che resta salda nella notte più buia."
         },
         {
-          "en": "It is not a possession to defend",
-          "it": "Non è una proprietà da difendere"
+          "en": "Go forth, dear soul, as blooms the Edelweiss fair,",
+          "it": "Va' avanti, anima cara, come fiorisce la bella stella alpina,"
         },
         {
-          "en": "but a horizon to walk toward,",
-          "it": "ma un orizzonte verso cui camminare,"
+          "en": "Stand firm in virtue through each trial thou bear;",
+          "it": "Resta saldo nella virtù in ogni prova che affronti;"
         },
         {
-          "en": "receding always,",
-          "it": "sempre in ritirata,"
+          "en": "Unfold thy grace beneath both sun and snow,",
+          "it": "Dischiudi la tua grazia sotto il sole e la neve,"
         },
         {
-          "en": "and always worth the walking.",
-          "it": "e sempre degno del cammino."
+          "en": "And in thy heart thou shalt forever bloom.",
+          "it": "E nel tuo cuore fiorirai per sempre."
         }
       ],
-      "perplexing_question": [
-        {
-          "en": "If truth needs no one's belief to remain true,",
-          "it": "Se la verità non ha bisogno della fede di nessuno per restare vera,"
-        },
-        {
-          "en": "does it exist apart from us—",
-          "it": "esiste aparte da noi—"
-        },
-        {
-          "en": "or only wait, patiently,",
-          "it": "o solo attende, paziente,"
-        },
-        {
-          "en": "for us to catch up?",
-          "it": "che la raggiungiamo?"
-        }
-      ],
+      "perplexing_question": {
+        "en": "If thou couldst bloom only after enduring a thousand storms, how steadfast wouldst thou remain before choosing to give up?",
+        "it": "Se potessi fiorire solo dopo aver resistito a mille tempeste, quanto resteresti saldo prima di scegliere di arrenderti?"
+      },
       "quote": {
-        "en": "Truth does not shout. It simply refuses to leave.",
-        "it": "La verità non grida. Semplicemente si rifiuta di andarsene."
+        "en": "The noblest flowers are those that flourish where few dare grow.",
+        "it": "I fiori più nobili sono quelli che prosperano dove pochi osano crescere."
+      },
+      "audio": {
+        "en": "assets/audio/en-edelweiss-poem.mp3",
+        "it": "assets/audio/it-edelweiss-poem.mp3"
       },
       "author": "Roses Of Rome Pictures",
       "production": "An Aeternum Floreamus Production"
